@@ -1,6 +1,7 @@
 import json
 import requests
 from datetime import datetime
+import csv
 
 class Player:
     def __init__(self, id, name):
@@ -87,9 +88,18 @@ players = [Slox, Joyboy, Kalvar, lint, Tiramisu, Palika, Thumbs, BigJoig,
            Woodcutting, Bank, Spiff, Scooby, PJ, SDHB, BonkCushy, Hysteric, 
            Ferox, PSai, AdmiralZhao, Glasper, F4X, StacysStepdad, Louis]
 
-results = open("h2hs.txt","a") 
+#results = open("h2hs.txt","a") 
+
+resultslist = []
+
+headingslist = ['Players (W / L)']
 
 for player in players:
+    
+    headingslist.append(player.name + ' W')
+    headingslist.append(player.name + ' L')
+    
+    playerlist = [player.name]
     
     for opponent in players:
         
@@ -121,5 +131,23 @@ for player in players:
             if(played):
                 print(player.name + " vs. " + opponent.name + "\r\n")
                 print(str(wins) + " - " + str(losses))
-                results.write(player.name + " vs. " + opponent.name + "\r\n")
-                results.write(str(wins) + " - " + str(losses) + "\r\n")
+                #results.write(player.name + " vs. " + opponent.name + "\r\n")
+                #results.write(str(wins) + " - " + str(losses) + "\r\n")
+                playerlist.append(str(wins))
+                playerlist.append(str(losses))
+            else:
+                playerlist.append('')
+                playerlist.append('')
+        else:
+            playerlist.append('')
+            playerlist.append('')
+    resultslist.append(playerlist)
+    
+resultslist.insert(0, headingslist)
+
+with open('h2hresults.csv', 'w', newline='') as csvFile:
+    writer = csv.writer(csvFile)
+    writer.writerows(resultslist)
+csvFile.close()
+
+print("done")
