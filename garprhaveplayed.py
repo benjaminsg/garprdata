@@ -2,14 +2,19 @@ import json
 import requests
 from datetime import datetime
 
+#Player class
 class Player:
     def __init__(self, id, name):
+        #id taken from GARPR player page
         self.id = id
+        #name is name that will display in all output formats
         self.name = name
     
+    #specify start and endtimes of season to collect data from (can be any timeframe)
 seasonstart = datetime(2019, 3, 24)
 seasonend = datetime(2019, 9, 22)
 
+#create all players
 Slox = Player('542ded228ab65f7d9c8294d1', 'Slox')
 Joyboy = Player('58c73c7e1d41c8259fa1f9c5', 'Joyboy')
 Kalvar = Player('58c726dd1d41c8259fa1f870', 'Kalvar')
@@ -64,6 +69,7 @@ F4X = Player('5d8187ec421aa954d874aede', 'F4X')
 StacysStepdad = Player('5a4ba1961d41c84881946783', 'Stacy\'s Stepdad')
 Louis = Player('5ba19af6421aa91fa088b641', 'Louis')
 
+#store all players into a list
 players = [Slox, Joyboy, Kalvar, lint, Tiramisu, Palika, Thumbs, BigJoig,
            Warmmer, DrLobster, Ok, Clutch, Ses, Peacecraft, Project, GWM420,
            Rasen, bonfire10,glock, Golden, CNIU, Guillotine, Shuffle, 
@@ -72,39 +78,52 @@ players = [Slox, Joyboy, Kalvar, lint, Tiramisu, Palika, Thumbs, BigJoig,
            Woodcutting, Bank, Spiff, Scooby, PJ, SDHB, BonkCushy, Hysteric, 
            Ferox, PSai, AdmiralZhao, Glasper, F4X, StacysStepdad, Louis]
 
+#open text file to write output to
 results = open("matchups.txt","a") 
 
+#look at each player in the list of players
 for player in players:
     
+    #for each opponent (every other player)
     for opponent in players:
         
+        #check to make sure opponent is different from player
         if(player != opponent):
             
+            #uncomment to print matchup title to console
             #print(player.name + " vs. " + opponent.name)
             results.write(player.name + " vs. " + opponent.name + "\r\n")
             
+            #generate URL to pull head-to-head json data from
             url = "https://notgarpr.com:3001/newengland/matches/" + player.id + "?opponent=" + opponent.id + "&fbclid=IwAR3V8QosRC1_d-tBrPtSLB7pHKWuwXlea6fuKVjU645bq6dKNEshOvL7tv8"
-
+            
+            #load json response from url
             response = requests.get(url)
             data = json.loads(response.text)
 
-            wins = 0
-            losses = 0
-
-            skip = False
-
+            #boolean to check if players have played during timeframe
             played = False
                 
+            #sometimes GARPR will not return match data (this only happens when
+            #the players have not played, but sometiems GARPR will also just
+            #give match data with 0s), check for this case to avoid index not
+            #found error
             if('matches' in data):
+                #look at each match sub-dictionary within the pulled data
                 for match in data['matches']:
+                    #check to make sure the match date is within the timeframe
                     date = datetime.strptime(match['tournament_date'], '%m/%d/%y')
+                    #if a match is found within the timeframe update the played
+                    #boolean and break out of the loop
                     if(seasonstart < date < seasonend):
-                        if(match['result'] == 'win'):
-                            wins +=1
-                            played = True
-                        else:
-                            losses += 1
-                            played = True
+                        played = True
+                        break
+            #write the resulting played boolean to the output text file
             results.write(str(played) + "\r\n")
+            #uncomment to print the played result to the console
             #print(played)
 results.close()
+
+#indicate the program has completed (typically takes a while, time will
+#increase quadratically with more opponents in worst case)
+print("done")
