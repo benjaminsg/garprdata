@@ -145,7 +145,12 @@ for player in players:
     
 resultslist.insert(0, headingslist)
 
-with open('h2hresults.csv', 'w', newline='') as csvFile:
+csvFile = open("h2hresults.csv", "w", newline='')
+
+csvFile.truncate()
+
+with csvFile:
+    csv
     writer = csv.writer(csvFile)
     writer.writerows(resultslist)
 csvFile.close()
