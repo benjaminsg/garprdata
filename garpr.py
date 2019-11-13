@@ -74,7 +74,7 @@ Bank = Player('59ed7c721d41c84361b79498', 'Bank')
 Spiff = Player('58c7321f1d41c8259fa1f8fe', 'Spiff')
 Scooby = Player('59ed70bd1d41c84361b79427', 'Scooby')
 PJ = Player('542cf4d08ab65f5e0c6e0751', 'PJ')
-SDHB = Player('5d818416421aa954d874aed1', 'SDHB')
+Feo = Player('5d818416421aa954d874aed1', 'Feo')
 BonkCushy = Player('542cf48e8ab65f5dcb8ce4ab', 'BonkCushy')
 Hysteric = Player('5b633156421aa91fa088af7a', 'Hysteric')
 Ferox = Player('58cc6fc61d41c8259fa1fb6b', 'Ferox')
@@ -91,7 +91,7 @@ players = [Slox, Joyboy, Kalvar, lint, Tiramisu, Palika, Thumbs, BigJoig,
            Rasen, bonfire10,glock, Golden, CNIU, Guillotine, Shuffle, 
            TimTheGuy, Kikoho, DrewNG, Arty, JNaut, Artelind, Meep, Guex, 
            Silver, Dimension, Yasu, MrHeat, Shmeeli, Swoosh, Unlucky, 
-           Woodcutting, Bank, Spiff, Scooby, PJ, SDHB, BonkCushy, Hysteric, 
+           Woodcutting, Bank, Spiff, Scooby, PJ, Feo, BonkCushy, Hysteric, 
            Ferox, PSai, AdmiralZhao, Glasper, F4X, StacysStepdad, Louis]
 
 #uncomment for reading to text file
