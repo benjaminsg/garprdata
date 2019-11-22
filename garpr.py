@@ -12,7 +12,7 @@ class Player:
         self.name = name
     
 #specify start and endtimes of season to collect data from (can be any timeframe)
-seasonstart = datetime(2019, 9, 24)
+seasonstart = datetime(2019, 9, 23)
 seasonend = datetime(2020, 3, 22)
 
 #create all players
@@ -61,6 +61,7 @@ Arty = Player('53c64c738ab65f6e27751221', 'Arty')
 JNaut = Player('58c7317e1d41c8259fa1f8e3', 'JNaut')
 Artelind = Player('58d20b761d41c8259fa1ff7b', 'Artelind')
 Meep = Player('58c73d181d41c8259fa1f9d0', 'Meep')
+RyuCloud = Player('58c739fa1d41c8259fa1f97f', 'RyuCloud')
 Guex = Player('58c73fce1d41c8259fa1fa3d', 'Guex')
 Silver = Player('58c7303b1d41c8259fa1f8dc', 'Silver')
 Dimension = Player('5b16ba781d41c86e982900e4', 'Dimension')
@@ -82,6 +83,8 @@ PSai = Player('5d82976f421aa954d874af04', 'PSai')
 AdmiralZhao = Player('58cd956a1d41c8259fa1fd0b', 'Admiral Zhao')
 Glasper = Player('58d09a571d41c8259fa1fe86', 'Glasper')
 F4X = Player('5d8187ec421aa954d874aede', 'F4X')
+Twisty = Player('58c729941d41c8259fa1f89b', 'Twisty')
+TedGreene = Player('58b6552e1d41c867e937f7e7', 'Ted Greene')
 StacysStepdad = Player('5a4ba1961d41c84881946783', 'Stacy\'s Stepdad')
 Louis = Player('5ba19af6421aa91fa088b641', 'Louis')
 
@@ -89,10 +92,11 @@ Louis = Player('5ba19af6421aa91fa088b641', 'Louis')
 players = [Slox, Joyboy, Kalvar, lint, Tiramisu, Palika, Thumbs, BigJoig,
            Warmmer, DrLobster, Ok, Clutch, Ses, Peacecraft, Project, GWM420,
            Rasen, bonfire10,glock, Golden, CNIU, Guillotine, Shuffle, 
-           TimTheGuy, Kikoho, DrewNG, Arty, JNaut, Artelind, Meep, Guex, 
-           Silver, Dimension, Yasu, MrHeat, Shmeeli, Swoosh, Unlucky, 
+           TimTheGuy, Kikoho, DrewNG, Arty, JNaut, Artelind, Meep, RyuCloud,
+           Guex, Silver, Dimension, Yasu, MrHeat, Shmeeli, Swoosh, Unlucky, 
            Woodcutting, Bank, Spiff, Scooby, PJ, Feo, BonkCushy, Hysteric, 
-           Ferox, PSai, AdmiralZhao, Glasper, F4X, StacysStepdad, Louis]
+           Ferox, PSai, AdmiralZhao, Glasper, F4X, Twisty, TedGreene,
+           StacysStepdad, Louis]
 
 #uncomment for reading to text file
 #results = open("h2hs.txt","a") 
@@ -141,14 +145,16 @@ for player in players:
                 for match in data['matches']:
                     #check to make sure the match date is within the timeframe
                     date = datetime.strptime(match['tournament_date'], '%m/%d/%y')
-                    if(seasonstart < date < seasonend):
+                    if(seasonstart <= date <= seasonend):
                         #read the match result (win or loss), update the
                         #counts accordingly, and indicate that the players have
                         #played
                         if(match['result'] == 'win'):
                             wins += 1
                             played = True
-                        else:
+                        #check to make sure match isn't excluded (in which case
+                        #it would have a result of 'excluded')
+                        elif(match['result'] == 'lose'):
                             losses += 1
                             played = True
                             

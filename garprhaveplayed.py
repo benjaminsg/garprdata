@@ -45,6 +45,7 @@ Arty = Player('53c64c738ab65f6e27751221', 'Arty')
 JNaut = Player('58c7317e1d41c8259fa1f8e3', 'JNaut')
 Artelind = Player('58d20b761d41c8259fa1ff7b', 'Artelind')
 Meep = Player('58c73d181d41c8259fa1f9d0', 'Meep')
+RyuCloud = Player('58c739fa1d41c8259fa1f97f', 'RyuCloud')
 Guex = Player('58c73fce1d41c8259fa1fa3d', 'Guex')
 Silver = Player('58c7303b1d41c8259fa1f8dc', 'Silver')
 Dimension = Player('5b16ba781d41c86e982900e4', 'Dimension')
@@ -66,6 +67,8 @@ PSai = Player('5d82976f421aa954d874af04', 'PSai')
 AdmiralZhao = Player('58cd956a1d41c8259fa1fd0b', 'Admiral Zhao')
 Glasper = Player('58d09a571d41c8259fa1fe86', 'Glasper')
 F4X = Player('5d8187ec421aa954d874aede', 'F4X')
+Twisty = Player('58c729941d41c8259fa1f89b', 'Twisty')
+TedGreene = Player('58b6552e1d41c867e937f7e7', 'Ted Greene')
 StacysStepdad = Player('5a4ba1961d41c84881946783', 'Stacy\'s Stepdad')
 Louis = Player('5ba19af6421aa91fa088b641', 'Louis')
 
@@ -73,13 +76,17 @@ Louis = Player('5ba19af6421aa91fa088b641', 'Louis')
 players = [Slox, Joyboy, Kalvar, lint, Tiramisu, Palika, Thumbs, BigJoig,
            Warmmer, DrLobster, Ok, Clutch, Ses, Peacecraft, Project, GWM420,
            Rasen, bonfire10,glock, Golden, CNIU, Guillotine, Shuffle, 
-           TimTheGuy, Kikoho, DrewNG, Arty, JNaut, Artelind, Meep, Guex, 
-           Silver, Dimension, Yasu, MrHeat, Shmeeli, Swoosh, Unlucky, 
+           TimTheGuy, Kikoho, DrewNG, Arty, JNaut, Artelind, Meep, RyuCloud,
+           Guex, Silver, Dimension, Yasu, MrHeat, Shmeeli, Swoosh, Unlucky, 
            Woodcutting, Bank, Spiff, Scooby, PJ, Feo, BonkCushy, Hysteric, 
-           Ferox, PSai, AdmiralZhao, Glasper, F4X, StacysStepdad, Louis]
+           Ferox, PSai, AdmiralZhao, Glasper, F4X, Twisty, TedGreene,
+           StacysStepdad, Louis]
 
 #open text file to write output to
 results = open("matchups.txt","a") 
+
+#truncate the text file to remove old results
+results.truncate()
 
 #look at each player in the list of players
 for player in players:
@@ -115,9 +122,11 @@ for player in players:
                     date = datetime.strptime(match['tournament_date'], '%m/%d/%y')
                     #if a match is found within the timeframe update the played
                     #boolean and break out of the loop
-                    if(seasonstart < date < seasonend):
-                        played = True
-                        break
+                    if(seasonstart <= date <= seasonend):
+                        #check to make sure match isn't excluded
+                        if(match['result'] != 'excluded'):
+                            played = True
+                            break
             #write the resulting played boolean to the output text file
             results.write(str(played) + "\r\n")
             #uncomment to print the played result to the console
