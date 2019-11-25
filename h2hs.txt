@@ -2973,3 +2973,412 @@ Yasu vs. PSai
 Yasu vs. Admiral Zhao
 1 - 0
 Yasu vs. F4X
+1 - 0
+Mr. Heat vs. Joyboy
+0 - 2
+Mr. Heat vs. Kalvar
+0 - 1
+Mr. Heat vs. Tiramisu
+0 - 1
+Mr. Heat vs. Palika
+0 - 1
+Mr. Heat vs. GWM420
+0 - 1
+Mr. Heat vs. Rasen
+1 - 0
+Mr. Heat vs. Arty
+1 - 0
+Mr. Heat vs. Guex
+1 - 0
+Mr. Heat vs. Dimension
+0 - 1
+Mr. Heat vs. Shmeeli
+1 - 0
+Mr. Heat vs. PJ
+1 - 0
+Mr. Heat vs. Feo
+1 - 0
+Shmeeli vs. Joyboy
+0 - 2
+Shmeeli vs. BigJoig
+0 - 1
+Shmeeli vs. Clutch
+0 - 1
+Shmeeli vs. Mr. Heat
+0 - 1
+Shmeeli vs. Swoosh$
+1 - 0
+Shmeeli vs. 99 Woodcutting
+0 - 1
+Shmeeli vs. Spiff
+0 - 3
+Shmeeli vs. Scooby
+1 - 0
+Shmeeli vs. PJ
+1 - 1
+Shmeeli vs. Ferox
+1 - 0
+Shmeeli vs. PSai
+2 - 0
+Shmeeli vs. Admiral Zhao
+0 - 1
+Shmeeli vs. Glasper
+2 - 0
+Shmeeli vs. Ted Greene
+1 - 0
+Swoosh$ vs. Joyboy
+0 - 2
+Swoosh$ vs. Rasen
+0 - 1
+Swoosh$ vs. Shmeeli
+0 - 1
+Swoosh$ vs. 99 Woodcutting
+0 - 1
+Swoosh$ vs. Spiff
+0 - 1
+Swoosh$ vs. Scooby
+0 - 1
+Swoosh$ vs. PJ
+1 - 0
+Swoosh$ vs. Feo
+1 - 2
+Swoosh$ vs. Hysteric
+0 - 1
+Swoosh$ vs. F4X
+1 - 0
+Swoosh$ vs. Ted Greene
+1 - 0
+99 Woodcutting vs. Clutch
+0 - 1
+99 Woodcutting vs. Dimension
+0 - 1
+99 Woodcutting vs. Shmeeli
+1 - 0
+99 Woodcutting vs. Swoosh$
+1 - 0
+99 Woodcutting vs. Spiff
+0 - 1
+99 Woodcutting vs. Scooby
+0 - 1
+99 Woodcutting vs. PJ
+0 - 1
+99 Woodcutting vs. Feo
+1 - 0
+99 Woodcutting vs. Hysteric
+0 - 1
+99 Woodcutting vs. Admiral Zhao
+0 - 1
+99 Woodcutting vs. Glasper
+1 - 1
+Bank vs. Project
+0 - 1
+Bank vs. GWM420
+1 - 0
+Bank vs. Scooby
+1 - 0
+Bank vs. Hysteric
+0 - 1
+Spiff vs. Joyboy
+0 - 2
+Spiff vs. BigJoig
+0 - 1
+Spiff vs. Clutch
+0 - 1
+Spiff vs. GWM420
+0 - 1
+Spiff vs. Rasen
+0 - 1
+Spiff vs. Dimension
+0 - 4
+Spiff vs. Shmeeli
+3 - 0
+Spiff vs. Swoosh$
+1 - 0
+Spiff vs. 99 Woodcutting
+1 - 0
+Spiff vs. Scooby
+1 - 1
+Spiff vs. PJ
+1 - 0
+Spiff vs. Feo
+1 - 0
+Spiff vs. Hysteric
+0 - 1
+Spiff vs. PSai
+1 - 0
+Spiff vs. Admiral Zhao
+2 - 0
+Spiff vs. Glasper
+1 - 1
+Spiff vs. F4X
+2 - 0
+Spiff vs. Twisty
+0 - 1
+Scooby vs. BigJoig
+0 - 1
+Scooby vs. Clutch
+0 - 1
+Scooby vs. Project
+0 - 1
+Scooby vs. GWM420
+0 - 1
+Scooby vs. Rasen
+0 - 4
+Scooby vs. Dimension
+0 - 2
+Scooby vs. Yasu
+0 - 1
+Scooby vs. Shmeeli
+0 - 1
+Scooby vs. Swoosh$
+1 - 0
+Scooby vs. 99 Woodcutting
+1 - 0
+Scooby vs. Bank
+0 - 1
+Scooby vs. Spiff
+1 - 1
+Scooby vs. PJ
+1 - 2
+Scooby vs. Feo
+2 - 0
+Scooby vs. BonkCushy
+1 - 0
+Scooby vs. Ferox
+0 - 1
+Scooby vs. PSai
+1 - 0
+Scooby vs. Admiral Zhao
+0 - 1
+Scooby vs. Glasper
+1 - 0
+Scooby vs. F4X
+1 - 0
+Scooby vs. Ted Greene
+1 - 0
+PJ vs. Kalvar
+0 - 1
+PJ vs. BigJoig
+0 - 1
+PJ vs. DrLobster
+0 - 1
+PJ vs. GWM420
+0 - 1
+PJ vs. Rasen
+1 - 0
+PJ vs. bonfire10
+0 - 1
+PJ vs. Shuffle
+1 - 0
+PJ vs. Dimension
+3 - 5
+PJ vs. Yasu
+1 - 2
+PJ vs. Mr. Heat
+0 - 1
+PJ vs. Shmeeli
+1 - 1
+PJ vs. Swoosh$
+0 - 1
+PJ vs. 99 Woodcutting
+1 - 0
+PJ vs. Spiff
+0 - 1
+PJ vs. Scooby
+2 - 1
+PJ vs. Feo
+2 - 0
+PJ vs. Hysteric
+1 - 0
+PJ vs. PSai
+1 - 0
+PJ vs. Admiral Zhao
+1 - 1
+PJ vs. Ted Greene
+1 - 0
+PJ vs. Stacy's Stepdad
+1 - 0
+Feo vs. Rasen
+0 - 1
+Feo vs. Yasu
+0 - 1
+Feo vs. Mr. Heat
+0 - 1
+Feo vs. Swoosh$
+2 - 1
+Feo vs. 99 Woodcutting
+0 - 1
+Feo vs. Spiff
+0 - 1
+Feo vs. Scooby
+0 - 2
+Feo vs. PJ
+0 - 2
+Feo vs. Ted Greene
+0 - 1
+BonkCushy vs. Yasu
+0 - 1
+BonkCushy vs. Scooby
+0 - 1
+Hysteric vs. Tiramisu
+0 - 1
+Hysteric vs. DrLobster
+0 - 1
+Hysteric vs. Clutch
+1 - 1
+Hysteric vs. Project
+1 - 0
+Hysteric vs. bonfire10
+0 - 1
+Hysteric vs. Golden
+1 - 0
+Hysteric vs. Guillotine
+0 - 1
+Hysteric vs. Silver
+0 - 1
+Hysteric vs. Dimension
+0 - 2
+Hysteric vs. Yasu
+0 - 1
+Hysteric vs. Swoosh$
+1 - 0
+Hysteric vs. 99 Woodcutting
+1 - 0
+Hysteric vs. Bank
+1 - 0
+Hysteric vs. Spiff
+1 - 0
+Hysteric vs. PJ
+0 - 1
+Hysteric vs. F4X
+1 - 0
+Hysteric vs. Ted Greene
+1 - 0
+Ferox vs. Kalvar
+0 - 1
+Ferox vs. Project
+0 - 1
+Ferox vs. Shuffle
+1 - 0
+Ferox vs. Shmeeli
+0 - 1
+Ferox vs. Scooby
+1 - 0
+Ferox vs. Admiral Zhao
+1 - 0
+Ferox vs. Glasper
+1 - 0
+PSai vs. Dimension
+0 - 1
+PSai vs. Yasu
+0 - 1
+PSai vs. Shmeeli
+0 - 2
+PSai vs. Spiff
+0 - 1
+PSai vs. Scooby
+0 - 1
+PSai vs. PJ
+0 - 1
+PSai vs. Admiral Zhao
+1 - 0
+PSai vs. Twisty
+1 - 0
+PSai vs. Ted Greene
+1 - 0
+Admiral Zhao vs. Kalvar
+0 - 2
+Admiral Zhao vs. BigJoig
+0 - 1
+Admiral Zhao vs. Rasen
+0 - 1
+Admiral Zhao vs. Guillotine
+0 - 2
+Admiral Zhao vs. Dimension
+0 - 1
+Admiral Zhao vs. Yasu
+0 - 1
+Admiral Zhao vs. Shmeeli
+1 - 0
+Admiral Zhao vs. 99 Woodcutting
+1 - 0
+Admiral Zhao vs. Spiff
+0 - 2
+Admiral Zhao vs. Scooby
+1 - 0
+Admiral Zhao vs. PJ
+1 - 1
+Admiral Zhao vs. Ferox
+0 - 1
+Admiral Zhao vs. PSai
+0 - 1
+Admiral Zhao vs. F4X
+0 - 1
+Admiral Zhao vs. Ted Greene
+1 - 0
+Glasper vs. Tiramisu
+0 - 1
+Glasper vs. Golden
+0 - 1
+Glasper vs. Shmeeli
+0 - 2
+Glasper vs. 99 Woodcutting
+1 - 1
+Glasper vs. Spiff
+1 - 1
+Glasper vs. Scooby
+0 - 1
+Glasper vs. Ferox
+0 - 1
+Glasper vs. F4X
+0 - 1
+F4X vs. GWM420
+0 - 1
+F4X vs. Yasu
+0 - 1
+F4X vs. Swoosh$
+0 - 1
+F4X vs. Spiff
+0 - 2
+F4X vs. Scooby
+0 - 1
+F4X vs. Hysteric
+0 - 1
+F4X vs. Admiral Zhao
+1 - 0
+F4X vs. Glasper
+1 - 0
+Twisty vs. Clutch
+2 - 1
+Twisty vs. Spiff
+1 - 0
+Twisty vs. PSai
+0 - 1
+Twisty vs. Ted Greene
+1 - 0
+Ted Greene vs. GWM420
+0 - 1
+Ted Greene vs. Shmeeli
+0 - 1
+Ted Greene vs. Swoosh$
+0 - 1
+Ted Greene vs. Scooby
+0 - 1
+Ted Greene vs. PJ
+0 - 1
+Ted Greene vs. Feo
+1 - 0
+Ted Greene vs. Hysteric
+0 - 1
+Ted Greene vs. PSai
+0 - 1
+Ted Greene vs. Admiral Zhao
+0 - 1
+Ted Greene vs. Twisty
+0 - 1
+Stacy's Stepdad vs. Clutch
+0 - 1
+Stacy's Stepdad vs. JNaut
+0 - 1
+Stacy's Stepdad vs. PJ
+0 - 1

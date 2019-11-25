@@ -87,6 +87,7 @@ Twisty = Player('58c729941d41c8259fa1f89b', 'Twisty')
 TedGreene = Player('58b6552e1d41c867e937f7e7', 'Ted Greene')
 StacysStepdad = Player('5a4ba1961d41c84881946783', 'Stacy\'s Stepdad')
 Louis = Player('5ba19af6421aa91fa088b641', 'Louis')
+Lochist = Player('5c86c4d1421aa93db94e9ab6', 'Lochist')
 
 #store all players into a list
 players = [Slox, Joyboy, Kalvar, lint, Tiramisu, Palika, Thumbs, BigJoig,
@@ -96,7 +97,7 @@ players = [Slox, Joyboy, Kalvar, lint, Tiramisu, Palika, Thumbs, BigJoig,
            Guex, Silver, Dimension, Yasu, MrHeat, Shmeeli, Swoosh, Unlucky, 
            Woodcutting, Bank, Spiff, Scooby, PJ, Feo, BonkCushy, Hysteric, 
            Ferox, PSai, AdmiralZhao, Glasper, F4X, Twisty, TedGreene,
-           StacysStepdad, Louis]
+           StacysStepdad, Louis, Lochist]
 
 #uncomment for reading to text file
 #results = open("h2hs.txt","a") 
