@@ -136,8 +136,6 @@ for player in players:
                     #check to make sure the match date is within the timeframe
                     date = datetime.strptime(match['tournament_date'], '%m/%d/%y')
                     if(seasonstart <= date <= seasonend):
-                        if(player == Ok or opponent == Ok):
-                            print(match)
                         #read the match result (win or loss), update the
                         #counts accordingly, and indicate that the players have
                         #played
