@@ -1,6 +1,7 @@
 import json
 import requests
 from datetime import datetime
+import time
 
 #Player class
 class Player:
@@ -105,8 +106,24 @@ for player in players:
             #generate URL to pull head-to-head json data from
             url = "https://notgarpr.com:3001/newengland/matches/" + player.id + "?opponent=" + opponent.id + "&fbclid=IwAR3V8QosRC1_d-tBrPtSLB7pHKWuwXlea6fuKVjU645bq6dKNEshOvL7tv8"
             
-            #load json response from url
-            response = requests.get(url)
+            #initialize response
+            response = ''
+            
+            #create loop to try to generate response
+            while(response == ''):
+                try:
+                    #load json response from url
+                    response = requests.get(url)
+                    break
+                #if the connection is refused and an exception occurs
+                except:
+                    #sleep for five seconds and then retry the request
+                    print("Connection refused by the server")
+                    print("Waiting to retry")
+                    time.sleep(5)
+                    print("Retrying connection")
+                    continue
+                    
             data = json.loads(response.text)
 
             #boolean to check if players have played during timeframe
