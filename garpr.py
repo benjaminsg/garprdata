@@ -12,6 +12,9 @@ class Player:
         #name is name that will display in all output formats
         self.name = name
     
+#specify maximum number of retries that can occur during request to the server    
+maxretries = 20
+    
 #specify start and endtimes of season to collect data from (can be any timeframe)
 seasonstart = datetime(2019, 9, 23)
 seasonend = datetime(2020, 3, 22)
@@ -130,6 +133,9 @@ for player in players:
             #initialize response
             response = ''
             
+            #initialize number of retries to connect to server
+            numretries = 0
+            
             #create loop to try to generate response
             while(response == ''):
                 try:
@@ -138,11 +144,18 @@ for player in players:
                     break
                 #if the connection is refused and an exception occurs
                 except:
-                    #sleep for five seconds and then retry the request
+                    #if we have exceeded the maximum number of retries raise an
+                    #exception
+                    if(numretries > maxretries):
+                        raise Exception("Exceeded maximum number of retries to connect to the server")
+                    #otherwise sleep for five seconds and then retry the request
                     print("Connection refused by the server")
                     print("Waiting to retry")
                     time.sleep(5)
                     print("Retrying connection")
+                    
+                    #increment number of retries then retry connection
+                    numretries += 1
                     continue
                     
             #load data from the reponse
