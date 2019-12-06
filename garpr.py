@@ -144,9 +144,8 @@ for player in players:
                     response = requests.get(url)
                     break
                 #if a keyboardinterupt occurs abort execution
-                except KeyboardInterrupt:
-                    print("execution aborted")
-                    sys.exit()
+                except (KeyboardInterrupt, SystemExit):
+                    raise
                 #if an exception occurs due to connection refusal
                 except:
                     #if we have exceeded the maximum number of retries raise an
