@@ -3,6 +3,7 @@ import requests
 from datetime import datetime
 import csv
 import time
+import sys
 
 #Player class
 class Player:
@@ -142,7 +143,11 @@ for player in players:
                     #load json response from url
                     response = requests.get(url)
                     break
-                #if the connection is refused and an exception occurs
+                #if a keyboardinterupt occurs abort execution
+                except KeyboardInterrupt:
+                    print("execution aborted")
+                    sys.exit()
+                #if an exception occurs due to connection refusal
                 except:
                     #if we have exceeded the maximum number of retries raise an
                     #exception
