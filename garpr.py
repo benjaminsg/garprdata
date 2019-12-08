@@ -3,7 +3,6 @@ import requests
 from datetime import datetime
 import csv
 import time
-import sys
 
 #Player class
 class Player:
@@ -222,9 +221,41 @@ for player in players:
 #at the beginning of the resultslist
 resultslist.insert(0, headingslist)
 
-#open the csv output file and avoid creating extra spacing lines
-csvFile = open("h2hresults.csv", "w", newline='')
+#initialize number of retries to access the csv file
+numretries = 0
 
+#initialize boolean to determine if we can write to csv file
+csvWrite = False
+
+#create loop to try to access file
+while(not csvWrite):
+
+    try:
+        #open the csv output file and avoid creating extra spacing lines
+        csvFile = open("h2hresults.csv", "w", newline='')
+        
+        #specify that we can now write
+        csvWrite = True
+        
+    #if a keyboardinterupt occurs abort execution
+    except (KeyboardInterrupt, SystemExit):
+        raise
+    except:
+        #if we have exceeded the maximum number of retries raise an
+        #exception
+        if(numretries > maxretries):
+            raise Exception("Exceeded maximum number of retries to access the file")
+        #otherwise sleep for five seconds and then retry the request
+        print("Permission to access csv file denied, please close any programs with the file open")
+        print("Waiting to retry write request to file")
+        time.sleep(5)
+        print("Retrying write request")
+                    
+        #increment number of retries then retry connection
+        numretries += 1
+        
+        continue
+    
 #truncate the csv file to remove old results
 csvFile.truncate()
 

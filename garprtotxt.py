@@ -2,7 +2,6 @@ import json
 import requests
 from datetime import datetime
 import time
-import sys
 
 #Player class
 class Player:
@@ -103,8 +102,40 @@ players = [Slox, Joyboy, Kalvar, lint, Tiramisu, Palika, Thumbs, BigJoig,
            Ferox, PSai, AdmiralZhao, Glasper, F4X, Twisty, TedGreene,
            StacysStepdad, Louis, Lochist]
 
-#open output text file
-results = open("h2hs.txt","a") 
+#initialize number of retries to access the csv file
+numretries = 0
+
+#initialize boolean to determine if we can write to csv file
+txtWrite = False
+
+#create loop to try to access file
+while(not txtWrite):
+
+    try:
+        #open text file to write output to
+        results = open("matchups.txt","a") 
+        
+        #specify that we can now write
+        txtWrite = True
+        
+    #if a keyboardinterupt occurs abort execution
+    except (KeyboardInterrupt, SystemExit):
+        raise
+    except:
+        #if we have exceeded the maximum number of retries raise an
+        #exception
+        if(numretries > maxretries):
+            raise Exception("Exceeded maximum number of retries to access the file")
+        #otherwise sleep for five seconds and then retry the request
+        print("Permission to access txt file denied, please close any programs with the file open")
+        print("Waiting to retry write request to file")
+        time.sleep(5)
+        print("Retrying write request")
+                    
+        #increment number of retries then retry connection
+        numretries += 1
+        
+        continue
 
 #truncate text file to clear it
 results.truncate()
