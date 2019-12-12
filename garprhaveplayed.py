@@ -27,6 +27,21 @@ Tiramisu = Player('58d08cd91d41c8259fa1fe3b', 'Tiramisu')
 Palika = Player('58cc88171d41c8259fa1fc20', 'Palika')
 Thumbs = Player('58d082921d41c8259fa1fe0a', 'Thumbs')
 BigJoig = Player('545c83e88ab65f126349d8bb', 'BigJoig')
+Warmmer = Player('545c83e88ab65f126349d8bb', 'Warmmer')
+DrLobster = Player('5d4e3f57421aa954d874ac18', 'DrLobster')
+Ok = Player('5d295678421aa90f9fc1bd83', 'WAS | Ok')
+Clutch = Player('5d698f0b421aa954d874acfb', 'Clutch')
+Ses = Player('58c72fd21d41c8259fa1f8cc', 'Ses')
+Peacecraft = Player('587c636d1d41c82e80d55aaf', 'M. Peacecraft')
+Project = Player('58cc748e1d41c8259fa1fbb8', 'Project')
+Slox = Player('542ded228ab65f7d9c8294d1', 'Slox')
+Joyboy = Player('58c73c7e1d41c8259fa1f9c5', 'Joyboy')
+Kalvar = Player('58c726dd1d41c8259fa1f870', 'Kalvar')
+lint = Player('545c8e5f8ab65f12c01061ca', 'lint')
+Tiramisu = Player('58d08cd91d41c8259fa1fe3b', 'Tiramisu')
+Palika = Player('58cc88171d41c8259fa1fc20', 'Palika')
+Thumbs = Player('58d082921d41c8259fa1fe0a', 'Thumbs')
+BigJoig = Player('545c83e88ab65f126349d8bb', 'BigJoig')
 Warmmer = Player('58f8246c1d41c850b8b0fa54', 'Warmmer')
 DrLobster = Player('5d4e3f57421aa954d874ac18', 'DrLobster')
 Ok = Player('5d295678421aa90f9fc1bd83', 'WAS | Ok')
@@ -51,6 +66,7 @@ Artelind = Player('58d20b761d41c8259fa1ff7b', 'Artelind')
 Meep = Player('58c73d181d41c8259fa1f9d0', 'Meep')
 RyuCloud = Player('58c739fa1d41c8259fa1f97f', 'RyuCloud')
 Guex = Player('58c73fce1d41c8259fa1fa3d', 'Guex')
+Trail = Player('5a93cebe1d41c80e2802a7fa', 'Trail')
 Silver = Player('58c7303b1d41c8259fa1f8dc', 'Silver')
 Dimension = Player('5b16ba781d41c86e982900e4', 'Dimension')
 Yasu = Player('5a4ba0ba1d41c8488194677a', 'Yasu')
@@ -73,6 +89,8 @@ Glasper = Player('58d09a571d41c8259fa1fe86', 'Glasper')
 F4X = Player('5d8187ec421aa954d874aede', 'F4X')
 Twisty = Player('58c729941d41c8259fa1f89b', 'Twisty')
 TedGreene = Player('58b6552e1d41c867e937f7e7', 'Ted Greene')
+NotMe = Player('5baa5b0d421aa91fa088b708', 'NotMe')
+Alt = Player('5c65f982421aa93db94e98a5', 'Alt')
 StacysStepdad = Player('5a4ba1961d41c84881946783', 'Stacy\'s Stepdad')
 Louis = Player('5ba19af6421aa91fa088b641', 'Louis')
 Lochist = Player('5c86c4d1421aa93db94e9ab6', 'Lochist')
@@ -82,10 +100,10 @@ players = [Slox, Joyboy, Kalvar, lint, Tiramisu, Palika, Thumbs, BigJoig,
            Warmmer, DrLobster, Ok, Clutch, Ses, Peacecraft, Project, GWM420,
            Rasen, bonfire10,glock, Golden, CNIU, Guillotine, Shuffle, 
            TimTheGuy, Kikoho, DrewNG, Arty, JNaut, Artelind, Meep, RyuCloud,
-           Guex, Silver, Dimension, Yasu, MrHeat, Shmeeli, Swoosh, Unlucky, 
-           Woodcutting, Bank, Spiff, Scooby, PJ, Feo, BonkCushy, Hysteric, 
-           Ferox, PSai, AdmiralZhao, Glasper, F4X, Twisty, TedGreene,
-           StacysStepdad, Louis, Lochist]
+           Guex, Trail, Silver, Dimension, Yasu, MrHeat, Shmeeli, Swoosh, 
+           Unlucky, Woodcutting, Bank, Spiff, Scooby, PJ, Feo, BonkCushy, 
+           Hysteric, Ferox, PSai, AdmiralZhao, Glasper, F4X, Twisty, TedGreene,
+           NotMe, Alt, StacysStepdad, Louis, Lochist]
 
 #initialize number of retries to access the csv file
 numretries = 0
