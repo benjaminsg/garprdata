@@ -38979,3 +38979,7083 @@ Lochist vs. Stacy's Stepdad
 False
 Lochist vs. Louis
 True
+Slox vs. Joyboy
+True
+Slox vs. Kalvar
+True
+Slox vs. lint
+True
+Slox vs. Tiramisu
+True
+Slox vs. Palika
+True
+Slox vs. Thumbs
+True
+Slox vs. BigJoig
+False
+Slox vs. Warmmer
+True
+Slox vs. DrLobster
+False
+Slox vs. WAS | Ok
+True
+Slox vs. Clutch
+False
+Slox vs. Ses
+True
+Slox vs. M. Peacecraft
+True
+Slox vs. Project
+True
+Slox vs. GWM420
+True
+Slox vs. Rasen
+True
+Slox vs. bonfire10
+True
+Slox vs. glock in my toyota
+False
+Slox vs. Golden
+False
+Slox vs. CNIU
+False
+Slox vs. Guillotine
+False
+Slox vs. Shuffle
+False
+Slox vs. TimTheGuy
+True
+Slox vs. Kikoho
+True
+Slox vs. DrewNG
+True
+Slox vs. Arty
+True
+Slox vs. JNaut
+True
+Slox vs. Artelind
+False
+Slox vs. Meep
+False
+Slox vs. RyuCloud
+False
+Slox vs. Guex
+False
+Slox vs. Trail
+False
+Slox vs. Silver
+False
+Slox vs. Dimension
+False
+Slox vs. Yasu
+True
+Slox vs. Mr. Heat
+False
+Slox vs. Shmeeli
+False
+Slox vs. Swoosh$
+False
+Slox vs. Unlucky
+False
+Slox vs. 99 Woodcutting
+False
+Slox vs. Bank
+True
+Slox vs. Spiff
+False
+Slox vs. Scooby
+False
+Slox vs. PJ
+False
+Slox vs. Feo
+False
+Slox vs. BonkCushy
+True
+Slox vs. Hysteric
+False
+Slox vs. Ferox
+False
+Slox vs. PSai
+False
+Slox vs. Admiral Zhao
+True
+Slox vs. Glasper
+True
+Slox vs. F4X
+False
+Slox vs. Twisty
+True
+Slox vs. Ted Greene
+False
+Slox vs. NotMe
+False
+Slox vs. Alt
+False
+Slox vs. Stacy's Stepdad
+False
+Slox vs. Louis
+False
+Slox vs. Lochist
+False
+Joyboy vs. Slox
+True
+Joyboy vs. Kalvar
+True
+Joyboy vs. lint
+True
+Joyboy vs. Tiramisu
+True
+Joyboy vs. Palika
+True
+Joyboy vs. Thumbs
+False
+Joyboy vs. BigJoig
+False
+Joyboy vs. Warmmer
+True
+Joyboy vs. DrLobster
+False
+Joyboy vs. WAS | Ok
+True
+Joyboy vs. Clutch
+False
+Joyboy vs. Ses
+True
+Joyboy vs. M. Peacecraft
+False
+Joyboy vs. Project
+True
+Joyboy vs. GWM420
+True
+Joyboy vs. Rasen
+True
+Joyboy vs. bonfire10
+False
+Joyboy vs. glock in my toyota
+True
+Joyboy vs. Golden
+False
+Joyboy vs. CNIU
+False
+Joyboy vs. Guillotine
+False
+Joyboy vs. Shuffle
+False
+Joyboy vs. TimTheGuy
+False
+Joyboy vs. Kikoho
+True
+Joyboy vs. DrewNG
+False
+Joyboy vs. Arty
+True
+Joyboy vs. JNaut
+True
+Joyboy vs. Artelind
+True
+Joyboy vs. Meep
+True
+Joyboy vs. RyuCloud
+True
+Joyboy vs. Guex
+True
+Joyboy vs. Trail
+False
+Joyboy vs. Silver
+False
+Joyboy vs. Dimension
+False
+Joyboy vs. Yasu
+True
+Joyboy vs. Mr. Heat
+False
+Joyboy vs. Shmeeli
+False
+Joyboy vs. Swoosh$
+False
+Joyboy vs. Unlucky
+False
+Joyboy vs. 99 Woodcutting
+False
+Joyboy vs. Bank
+True
+Joyboy vs. Spiff
+False
+Joyboy vs. Scooby
+True
+Joyboy vs. PJ
+True
+Joyboy vs. Feo
+False
+Joyboy vs. BonkCushy
+True
+Joyboy vs. Hysteric
+True
+Joyboy vs. Ferox
+True
+Joyboy vs. PSai
+False
+Joyboy vs. Admiral Zhao
+False
+Joyboy vs. Glasper
+False
+Joyboy vs. F4X
+False
+Joyboy vs. Twisty
+False
+Joyboy vs. Ted Greene
+True
+Joyboy vs. NotMe
+False
+Joyboy vs. Alt
+False
+Joyboy vs. Stacy's Stepdad
+False
+Joyboy vs. Louis
+False
+Joyboy vs. Lochist
+False
+Kalvar vs. Slox
+True
+Kalvar vs. Joyboy
+True
+Kalvar vs. lint
+True
+Kalvar vs. Tiramisu
+True
+Kalvar vs. Palika
+True
+Kalvar vs. Thumbs
+False
+Kalvar vs. BigJoig
+True
+Kalvar vs. Warmmer
+False
+Kalvar vs. DrLobster
+True
+Kalvar vs. WAS | Ok
+True
+Kalvar vs. Clutch
+True
+Kalvar vs. Ses
+True
+Kalvar vs. M. Peacecraft
+True
+Kalvar vs. Project
+True
+Kalvar vs. GWM420
+True
+Kalvar vs. Rasen
+True
+Kalvar vs. bonfire10
+True
+Kalvar vs. glock in my toyota
+True
+Kalvar vs. Golden
+True
+Kalvar vs. CNIU
+True
+Kalvar vs. Guillotine
+True
+Kalvar vs. Shuffle
+False
+Kalvar vs. TimTheGuy
+True
+Kalvar vs. Kikoho
+False
+Kalvar vs. DrewNG
+False
+Kalvar vs. Arty
+False
+Kalvar vs. JNaut
+True
+Kalvar vs. Artelind
+False
+Kalvar vs. Meep
+True
+Kalvar vs. RyuCloud
+False
+Kalvar vs. Guex
+True
+Kalvar vs. Trail
+False
+Kalvar vs. Silver
+True
+Kalvar vs. Dimension
+False
+Kalvar vs. Yasu
+True
+Kalvar vs. Mr. Heat
+False
+Kalvar vs. Shmeeli
+False
+Kalvar vs. Swoosh$
+False
+Kalvar vs. Unlucky
+False
+Kalvar vs. 99 Woodcutting
+False
+Kalvar vs. Bank
+True
+Kalvar vs. Spiff
+True
+Kalvar vs. Scooby
+True
+Kalvar vs. PJ
+False
+Kalvar vs. Feo
+False
+Kalvar vs. BonkCushy
+True
+Kalvar vs. Hysteric
+False
+Kalvar vs. Ferox
+True
+Kalvar vs. PSai
+False
+Kalvar vs. Admiral Zhao
+False
+Kalvar vs. Glasper
+True
+Kalvar vs. F4X
+False
+Kalvar vs. Twisty
+True
+Kalvar vs. Ted Greene
+True
+Kalvar vs. NotMe
+False
+Kalvar vs. Alt
+True
+Kalvar vs. Stacy's Stepdad
+True
+Kalvar vs. Louis
+False
+Kalvar vs. Lochist
+False
+lint vs. Slox
+True
+lint vs. Joyboy
+True
+lint vs. Kalvar
+True
+lint vs. Tiramisu
+True
+lint vs. Palika
+True
+lint vs. Thumbs
+True
+lint vs. BigJoig
+False
+lint vs. Warmmer
+True
+lint vs. DrLobster
+False
+lint vs. WAS | Ok
+False
+lint vs. Clutch
+False
+lint vs. Ses
+False
+lint vs. M. Peacecraft
+True
+lint vs. Project
+True
+lint vs. GWM420
+True
+lint vs. Rasen
+True
+lint vs. bonfire10
+True
+lint vs. glock in my toyota
+True
+lint vs. Golden
+False
+lint vs. CNIU
+False
+lint vs. Guillotine
+False
+lint vs. Shuffle
+False
+lint vs. TimTheGuy
+True
+lint vs. Kikoho
+True
+lint vs. DrewNG
+True
+lint vs. Arty
+True
+lint vs. JNaut
+False
+lint vs. Artelind
+False
+lint vs. Meep
+False
+lint vs. RyuCloud
+False
+lint vs. Guex
+True
+lint vs. Trail
+False
+lint vs. Silver
+True
+lint vs. Dimension
+False
+lint vs. Yasu
+True
+lint vs. Mr. Heat
+False
+lint vs. Shmeeli
+False
+lint vs. Swoosh$
+False
+lint vs. Unlucky
+False
+lint vs. 99 Woodcutting
+False
+lint vs. Bank
+False
+lint vs. Spiff
+False
+lint vs. Scooby
+True
+lint vs. PJ
+False
+lint vs. Feo
+False
+lint vs. BonkCushy
+False
+lint vs. Hysteric
+False
+lint vs. Ferox
+False
+lint vs. PSai
+False
+lint vs. Admiral Zhao
+False
+lint vs. Glasper
+False
+lint vs. F4X
+False
+lint vs. Twisty
+False
+lint vs. Ted Greene
+False
+lint vs. NotMe
+False
+lint vs. Alt
+False
+lint vs. Stacy's Stepdad
+True
+lint vs. Louis
+False
+lint vs. Lochist
+False
+Tiramisu vs. Slox
+True
+Tiramisu vs. Joyboy
+True
+Tiramisu vs. Kalvar
+True
+Tiramisu vs. lint
+True
+Tiramisu vs. Palika
+True
+Tiramisu vs. Thumbs
+False
+Tiramisu vs. BigJoig
+True
+Tiramisu vs. Warmmer
+True
+Tiramisu vs. DrLobster
+False
+Tiramisu vs. WAS | Ok
+True
+Tiramisu vs. Clutch
+False
+Tiramisu vs. Ses
+False
+Tiramisu vs. M. Peacecraft
+True
+Tiramisu vs. Project
+True
+Tiramisu vs. GWM420
+False
+Tiramisu vs. Rasen
+True
+Tiramisu vs. bonfire10
+False
+Tiramisu vs. glock in my toyota
+False
+Tiramisu vs. Golden
+False
+Tiramisu vs. CNIU
+False
+Tiramisu vs. Guillotine
+False
+Tiramisu vs. Shuffle
+False
+Tiramisu vs. TimTheGuy
+True
+Tiramisu vs. Kikoho
+True
+Tiramisu vs. DrewNG
+True
+Tiramisu vs. Arty
+True
+Tiramisu vs. JNaut
+True
+Tiramisu vs. Artelind
+False
+Tiramisu vs. Meep
+True
+Tiramisu vs. RyuCloud
+True
+Tiramisu vs. Guex
+True
+Tiramisu vs. Trail
+False
+Tiramisu vs. Silver
+True
+Tiramisu vs. Dimension
+True
+Tiramisu vs. Yasu
+True
+Tiramisu vs. Mr. Heat
+True
+Tiramisu vs. Shmeeli
+False
+Tiramisu vs. Swoosh$
+False
+Tiramisu vs. Unlucky
+False
+Tiramisu vs. 99 Woodcutting
+True
+Tiramisu vs. Bank
+True
+Tiramisu vs. Spiff
+True
+Tiramisu vs. Scooby
+False
+Tiramisu vs. PJ
+False
+Tiramisu vs. Feo
+False
+Tiramisu vs. BonkCushy
+True
+Tiramisu vs. Hysteric
+True
+Tiramisu vs. Ferox
+False
+Tiramisu vs. PSai
+False
+Tiramisu vs. Admiral Zhao
+False
+Tiramisu vs. Glasper
+False
+Tiramisu vs. F4X
+False
+Tiramisu vs. Twisty
+True
+Tiramisu vs. Ted Greene
+False
+Tiramisu vs. NotMe
+False
+Tiramisu vs. Alt
+False
+Tiramisu vs. Stacy's Stepdad
+False
+Tiramisu vs. Louis
+False
+Tiramisu vs. Lochist
+False
+Palika vs. Slox
+True
+Palika vs. Joyboy
+True
+Palika vs. Kalvar
+True
+Palika vs. lint
+True
+Palika vs. Tiramisu
+True
+Palika vs. Thumbs
+True
+Palika vs. BigJoig
+False
+Palika vs. Warmmer
+True
+Palika vs. DrLobster
+True
+Palika vs. WAS | Ok
+False
+Palika vs. Clutch
+False
+Palika vs. Ses
+False
+Palika vs. M. Peacecraft
+True
+Palika vs. Project
+False
+Palika vs. GWM420
+True
+Palika vs. Rasen
+True
+Palika vs. bonfire10
+True
+Palika vs. glock in my toyota
+True
+Palika vs. Golden
+False
+Palika vs. CNIU
+False
+Palika vs. Guillotine
+False
+Palika vs. Shuffle
+False
+Palika vs. TimTheGuy
+True
+Palika vs. Kikoho
+True
+Palika vs. DrewNG
+True
+Palika vs. Arty
+True
+Palika vs. JNaut
+False
+Palika vs. Artelind
+True
+Palika vs. Meep
+False
+Palika vs. RyuCloud
+False
+Palika vs. Guex
+False
+Palika vs. Trail
+False
+Palika vs. Silver
+False
+Palika vs. Dimension
+False
+Palika vs. Yasu
+False
+Palika vs. Mr. Heat
+False
+Palika vs. Shmeeli
+False
+Palika vs. Swoosh$
+False
+Palika vs. Unlucky
+False
+Palika vs. 99 Woodcutting
+False
+Palika vs. Bank
+False
+Palika vs. Spiff
+False
+Palika vs. Scooby
+False
+Palika vs. PJ
+False
+Palika vs. Feo
+False
+Palika vs. BonkCushy
+False
+Palika vs. Hysteric
+False
+Palika vs. Ferox
+False
+Palika vs. PSai
+False
+Palika vs. Admiral Zhao
+False
+Palika vs. Glasper
+True
+Palika vs. F4X
+False
+Palika vs. Twisty
+False
+Palika vs. Ted Greene
+False
+Palika vs. NotMe
+False
+Palika vs. Alt
+False
+Palika vs. Stacy's Stepdad
+True
+Palika vs. Louis
+False
+Palika vs. Lochist
+False
+Thumbs vs. Slox
+True
+Thumbs vs. Joyboy
+False
+Thumbs vs. Kalvar
+False
+Thumbs vs. lint
+True
+Thumbs vs. Tiramisu
+False
+Thumbs vs. Palika
+True
+Thumbs vs. BigJoig
+False
+Thumbs vs. Warmmer
+True
+Thumbs vs. DrLobster
+False
+Thumbs vs. WAS | Ok
+True
+Thumbs vs. Clutch
+False
+Thumbs vs. Ses
+True
+Thumbs vs. M. Peacecraft
+True
+Thumbs vs. Project
+False
+Thumbs vs. GWM420
+True
+Thumbs vs. Rasen
+False
+Thumbs vs. bonfire10
+False
+Thumbs vs. glock in my toyota
+False
+Thumbs vs. Golden
+False
+Thumbs vs. CNIU
+False
+Thumbs vs. Guillotine
+False
+Thumbs vs. Shuffle
+False
+Thumbs vs. TimTheGuy
+True
+Thumbs vs. Kikoho
+True
+Thumbs vs. DrewNG
+True
+Thumbs vs. Arty
+True
+Thumbs vs. JNaut
+False
+Thumbs vs. Artelind
+False
+Thumbs vs. Meep
+False
+Thumbs vs. RyuCloud
+False
+Thumbs vs. Guex
+False
+Thumbs vs. Trail
+False
+Thumbs vs. Silver
+False
+Thumbs vs. Dimension
+False
+Thumbs vs. Yasu
+False
+Thumbs vs. Mr. Heat
+False
+Thumbs vs. Shmeeli
+False
+Thumbs vs. Swoosh$
+False
+Thumbs vs. Unlucky
+False
+Thumbs vs. 99 Woodcutting
+False
+Thumbs vs. Bank
+False
+Thumbs vs. Spiff
+False
+Thumbs vs. Scooby
+False
+Thumbs vs. PJ
+False
+Thumbs vs. Feo
+False
+Thumbs vs. BonkCushy
+False
+Thumbs vs. Hysteric
+False
+Thumbs vs. Ferox
+False
+Thumbs vs. PSai
+False
+Thumbs vs. Admiral Zhao
+False
+Thumbs vs. Glasper
+False
+Thumbs vs. F4X
+False
+Thumbs vs. Twisty
+False
+Thumbs vs. Ted Greene
+False
+Thumbs vs. NotMe
+False
+Thumbs vs. Alt
+False
+Thumbs vs. Stacy's Stepdad
+False
+Thumbs vs. Louis
+False
+Thumbs vs. Lochist
+False
+BigJoig vs. Slox
+False
+BigJoig vs. Joyboy
+False
+BigJoig vs. Kalvar
+True
+BigJoig vs. lint
+False
+BigJoig vs. Tiramisu
+True
+BigJoig vs. Palika
+False
+BigJoig vs. Thumbs
+False
+BigJoig vs. Warmmer
+False
+BigJoig vs. DrLobster
+True
+BigJoig vs. WAS | Ok
+False
+BigJoig vs. Clutch
+False
+BigJoig vs. Ses
+True
+BigJoig vs. M. Peacecraft
+False
+BigJoig vs. Project
+True
+BigJoig vs. GWM420
+True
+BigJoig vs. Rasen
+True
+BigJoig vs. bonfire10
+False
+BigJoig vs. glock in my toyota
+False
+BigJoig vs. Golden
+False
+BigJoig vs. CNIU
+False
+BigJoig vs. Guillotine
+True
+BigJoig vs. Shuffle
+False
+BigJoig vs. TimTheGuy
+False
+BigJoig vs. Kikoho
+False
+BigJoig vs. DrewNG
+False
+BigJoig vs. Arty
+False
+BigJoig vs. JNaut
+False
+BigJoig vs. Artelind
+True
+BigJoig vs. Meep
+False
+BigJoig vs. RyuCloud
+False
+BigJoig vs. Guex
+True
+BigJoig vs. Trail
+False
+BigJoig vs. Silver
+False
+BigJoig vs. Dimension
+False
+BigJoig vs. Yasu
+True
+BigJoig vs. Mr. Heat
+False
+BigJoig vs. Shmeeli
+False
+BigJoig vs. Swoosh$
+False
+BigJoig vs. Unlucky
+True
+BigJoig vs. 99 Woodcutting
+True
+BigJoig vs. Bank
+True
+BigJoig vs. Spiff
+False
+BigJoig vs. Scooby
+False
+BigJoig vs. PJ
+False
+BigJoig vs. Feo
+False
+BigJoig vs. BonkCushy
+False
+BigJoig vs. Hysteric
+False
+BigJoig vs. Ferox
+True
+BigJoig vs. PSai
+False
+BigJoig vs. Admiral Zhao
+False
+BigJoig vs. Glasper
+False
+BigJoig vs. F4X
+False
+BigJoig vs. Twisty
+False
+BigJoig vs. Ted Greene
+False
+BigJoig vs. NotMe
+False
+BigJoig vs. Alt
+True
+BigJoig vs. Stacy's Stepdad
+False
+BigJoig vs. Louis
+False
+BigJoig vs. Lochist
+False
+Warmmer vs. Slox
+True
+Warmmer vs. Joyboy
+True
+Warmmer vs. Kalvar
+False
+Warmmer vs. lint
+True
+Warmmer vs. Tiramisu
+True
+Warmmer vs. Palika
+True
+Warmmer vs. Thumbs
+True
+Warmmer vs. BigJoig
+False
+Warmmer vs. DrLobster
+False
+Warmmer vs. WAS | Ok
+False
+Warmmer vs. Clutch
+False
+Warmmer vs. Ses
+True
+Warmmer vs. M. Peacecraft
+True
+Warmmer vs. Project
+True
+Warmmer vs. GWM420
+True
+Warmmer vs. Rasen
+True
+Warmmer vs. bonfire10
+True
+Warmmer vs. glock in my toyota
+False
+Warmmer vs. Golden
+False
+Warmmer vs. CNIU
+False
+Warmmer vs. Guillotine
+False
+Warmmer vs. Shuffle
+False
+Warmmer vs. TimTheGuy
+True
+Warmmer vs. Kikoho
+True
+Warmmer vs. DrewNG
+True
+Warmmer vs. Arty
+True
+Warmmer vs. JNaut
+False
+Warmmer vs. Artelind
+False
+Warmmer vs. Meep
+False
+Warmmer vs. RyuCloud
+False
+Warmmer vs. Guex
+True
+Warmmer vs. Trail
+False
+Warmmer vs. Silver
+True
+Warmmer vs. Dimension
+False
+Warmmer vs. Yasu
+True
+Warmmer vs. Mr. Heat
+True
+Warmmer vs. Shmeeli
+False
+Warmmer vs. Swoosh$
+False
+Warmmer vs. Unlucky
+False
+Warmmer vs. 99 Woodcutting
+True
+Warmmer vs. Bank
+False
+Warmmer vs. Spiff
+False
+Warmmer vs. Scooby
+False
+Warmmer vs. PJ
+False
+Warmmer vs. Feo
+False
+Warmmer vs. BonkCushy
+False
+Warmmer vs. Hysteric
+False
+Warmmer vs. Ferox
+False
+Warmmer vs. PSai
+False
+Warmmer vs. Admiral Zhao
+False
+Warmmer vs. Glasper
+False
+Warmmer vs. F4X
+False
+Warmmer vs. Twisty
+False
+Warmmer vs. Ted Greene
+False
+Warmmer vs. NotMe
+False
+Warmmer vs. Alt
+False
+Warmmer vs. Stacy's Stepdad
+True
+Warmmer vs. Louis
+False
+Warmmer vs. Lochist
+False
+DrLobster vs. Slox
+False
+DrLobster vs. Joyboy
+False
+DrLobster vs. Kalvar
+True
+DrLobster vs. lint
+False
+DrLobster vs. Tiramisu
+False
+DrLobster vs. Palika
+True
+DrLobster vs. Thumbs
+False
+DrLobster vs. BigJoig
+True
+DrLobster vs. Warmmer
+False
+DrLobster vs. WAS | Ok
+True
+DrLobster vs. Clutch
+False
+DrLobster vs. Ses
+True
+DrLobster vs. M. Peacecraft
+False
+DrLobster vs. Project
+False
+DrLobster vs. GWM420
+True
+DrLobster vs. Rasen
+False
+DrLobster vs. bonfire10
+True
+DrLobster vs. glock in my toyota
+False
+DrLobster vs. Golden
+True
+DrLobster vs. CNIU
+False
+DrLobster vs. Guillotine
+False
+DrLobster vs. Shuffle
+False
+DrLobster vs. TimTheGuy
+False
+DrLobster vs. Kikoho
+False
+DrLobster vs. DrewNG
+False
+DrLobster vs. Arty
+False
+DrLobster vs. JNaut
+False
+DrLobster vs. Artelind
+False
+DrLobster vs. Meep
+False
+DrLobster vs. RyuCloud
+False
+DrLobster vs. Guex
+False
+DrLobster vs. Trail
+False
+DrLobster vs. Silver
+False
+DrLobster vs. Dimension
+False
+DrLobster vs. Yasu
+False
+DrLobster vs. Mr. Heat
+True
+DrLobster vs. Shmeeli
+False
+DrLobster vs. Swoosh$
+False
+DrLobster vs. Unlucky
+False
+DrLobster vs. 99 Woodcutting
+True
+DrLobster vs. Bank
+False
+DrLobster vs. Spiff
+False
+DrLobster vs. Scooby
+True
+DrLobster vs. PJ
+False
+DrLobster vs. Feo
+False
+DrLobster vs. BonkCushy
+False
+DrLobster vs. Hysteric
+False
+DrLobster vs. Ferox
+False
+DrLobster vs. PSai
+False
+DrLobster vs. Admiral Zhao
+False
+DrLobster vs. Glasper
+False
+DrLobster vs. F4X
+False
+DrLobster vs. Twisty
+False
+DrLobster vs. Ted Greene
+False
+DrLobster vs. NotMe
+False
+DrLobster vs. Alt
+True
+DrLobster vs. Stacy's Stepdad
+False
+DrLobster vs. Louis
+True
+DrLobster vs. Lochist
+True
+WAS | Ok vs. Slox
+True
+WAS | Ok vs. Joyboy
+True
+WAS | Ok vs. Kalvar
+True
+WAS | Ok vs. lint
+False
+WAS | Ok vs. Tiramisu
+True
+WAS | Ok vs. Palika
+False
+WAS | Ok vs. Thumbs
+True
+WAS | Ok vs. BigJoig
+False
+WAS | Ok vs. Warmmer
+False
+WAS | Ok vs. DrLobster
+True
+WAS | Ok vs. Clutch
+False
+WAS | Ok vs. Ses
+False
+WAS | Ok vs. M. Peacecraft
+False
+WAS | Ok vs. Project
+True
+WAS | Ok vs. GWM420
+True
+WAS | Ok vs. Rasen
+True
+WAS | Ok vs. bonfire10
+False
+WAS | Ok vs. glock in my toyota
+True
+WAS | Ok vs. Golden
+False
+WAS | Ok vs. CNIU
+False
+WAS | Ok vs. Guillotine
+False
+WAS | Ok vs. Shuffle
+False
+WAS | Ok vs. TimTheGuy
+False
+WAS | Ok vs. Kikoho
+False
+WAS | Ok vs. DrewNG
+False
+WAS | Ok vs. Arty
+False
+WAS | Ok vs. JNaut
+True
+WAS | Ok vs. Artelind
+False
+WAS | Ok vs. Meep
+False
+WAS | Ok vs. RyuCloud
+False
+WAS | Ok vs. Guex
+False
+WAS | Ok vs. Trail
+False
+WAS | Ok vs. Silver
+True
+WAS | Ok vs. Dimension
+False
+WAS | Ok vs. Yasu
+False
+WAS | Ok vs. Mr. Heat
+False
+WAS | Ok vs. Shmeeli
+False
+WAS | Ok vs. Swoosh$
+False
+WAS | Ok vs. Unlucky
+False
+WAS | Ok vs. 99 Woodcutting
+False
+WAS | Ok vs. Bank
+False
+WAS | Ok vs. Spiff
+False
+WAS | Ok vs. Scooby
+True
+WAS | Ok vs. PJ
+False
+WAS | Ok vs. Feo
+False
+WAS | Ok vs. BonkCushy
+False
+WAS | Ok vs. Hysteric
+False
+WAS | Ok vs. Ferox
+True
+WAS | Ok vs. PSai
+False
+WAS | Ok vs. Admiral Zhao
+False
+WAS | Ok vs. Glasper
+False
+WAS | Ok vs. F4X
+False
+WAS | Ok vs. Twisty
+False
+WAS | Ok vs. Ted Greene
+False
+WAS | Ok vs. NotMe
+False
+WAS | Ok vs. Alt
+False
+WAS | Ok vs. Stacy's Stepdad
+False
+WAS | Ok vs. Louis
+False
+WAS | Ok vs. Lochist
+False
+Clutch vs. Slox
+False
+Clutch vs. Joyboy
+False
+Clutch vs. Kalvar
+True
+Clutch vs. lint
+False
+Clutch vs. Tiramisu
+False
+Clutch vs. Palika
+False
+Clutch vs. Thumbs
+False
+Clutch vs. BigJoig
+False
+Clutch vs. Warmmer
+False
+Clutch vs. DrLobster
+False
+Clutch vs. WAS | Ok
+False
+Clutch vs. Ses
+True
+Clutch vs. M. Peacecraft
+False
+Clutch vs. Project
+False
+Clutch vs. GWM420
+False
+Clutch vs. Rasen
+False
+Clutch vs. bonfire10
+False
+Clutch vs. glock in my toyota
+False
+Clutch vs. Golden
+False
+Clutch vs. CNIU
+False
+Clutch vs. Guillotine
+True
+Clutch vs. Shuffle
+False
+Clutch vs. TimTheGuy
+False
+Clutch vs. Kikoho
+False
+Clutch vs. DrewNG
+False
+Clutch vs. Arty
+False
+Clutch vs. JNaut
+True
+Clutch vs. Artelind
+False
+Clutch vs. Meep
+False
+Clutch vs. RyuCloud
+False
+Clutch vs. Guex
+True
+Clutch vs. Trail
+False
+Clutch vs. Silver
+False
+Clutch vs. Dimension
+False
+Clutch vs. Yasu
+False
+Clutch vs. Mr. Heat
+True
+Clutch vs. Shmeeli
+False
+Clutch vs. Swoosh$
+False
+Clutch vs. Unlucky
+True
+Clutch vs. 99 Woodcutting
+True
+Clutch vs. Bank
+False
+Clutch vs. Spiff
+True
+Clutch vs. Scooby
+True
+Clutch vs. PJ
+False
+Clutch vs. Feo
+False
+Clutch vs. BonkCushy
+True
+Clutch vs. Hysteric
+False
+Clutch vs. Ferox
+False
+Clutch vs. PSai
+False
+Clutch vs. Admiral Zhao
+False
+Clutch vs. Glasper
+True
+Clutch vs. F4X
+True
+Clutch vs. Twisty
+False
+Clutch vs. Ted Greene
+False
+Clutch vs. NotMe
+True
+Clutch vs. Alt
+False
+Clutch vs. Stacy's Stepdad
+False
+Clutch vs. Louis
+False
+Clutch vs. Lochist
+False
+Ses vs. Slox
+True
+Ses vs. Joyboy
+True
+Ses vs. Kalvar
+True
+Ses vs. lint
+False
+Ses vs. Tiramisu
+False
+Ses vs. Palika
+False
+Ses vs. Thumbs
+True
+Ses vs. BigJoig
+True
+Ses vs. Warmmer
+True
+Ses vs. DrLobster
+True
+Ses vs. WAS | Ok
+False
+Ses vs. Clutch
+True
+Ses vs. M. Peacecraft
+False
+Ses vs. Project
+True
+Ses vs. GWM420
+True
+Ses vs. Rasen
+False
+Ses vs. bonfire10
+False
+Ses vs. glock in my toyota
+False
+Ses vs. Golden
+False
+Ses vs. CNIU
+False
+Ses vs. Guillotine
+True
+Ses vs. Shuffle
+False
+Ses vs. TimTheGuy
+False
+Ses vs. Kikoho
+False
+Ses vs. DrewNG
+False
+Ses vs. Arty
+False
+Ses vs. JNaut
+False
+Ses vs. Artelind
+False
+Ses vs. Meep
+False
+Ses vs. RyuCloud
+False
+Ses vs. Guex
+False
+Ses vs. Trail
+False
+Ses vs. Silver
+True
+Ses vs. Dimension
+False
+Ses vs. Yasu
+False
+Ses vs. Mr. Heat
+True
+Ses vs. Shmeeli
+False
+Ses vs. Swoosh$
+False
+Ses vs. Unlucky
+False
+Ses vs. 99 Woodcutting
+False
+Ses vs. Bank
+False
+Ses vs. Spiff
+False
+Ses vs. Scooby
+False
+Ses vs. PJ
+False
+Ses vs. Feo
+False
+Ses vs. BonkCushy
+False
+Ses vs. Hysteric
+False
+Ses vs. Ferox
+True
+Ses vs. PSai
+False
+Ses vs. Admiral Zhao
+False
+Ses vs. Glasper
+False
+Ses vs. F4X
+False
+Ses vs. Twisty
+True
+Ses vs. Ted Greene
+False
+Ses vs. NotMe
+False
+Ses vs. Alt
+False
+Ses vs. Stacy's Stepdad
+False
+Ses vs. Louis
+False
+Ses vs. Lochist
+False
+M. Peacecraft vs. Slox
+True
+M. Peacecraft vs. Joyboy
+False
+M. Peacecraft vs. Kalvar
+True
+M. Peacecraft vs. lint
+True
+M. Peacecraft vs. Tiramisu
+True
+M. Peacecraft vs. Palika
+True
+M. Peacecraft vs. Thumbs
+True
+M. Peacecraft vs. BigJoig
+False
+M. Peacecraft vs. Warmmer
+True
+M. Peacecraft vs. DrLobster
+False
+M. Peacecraft vs. WAS | Ok
+False
+M. Peacecraft vs. Clutch
+False
+M. Peacecraft vs. Ses
+False
+M. Peacecraft vs. Project
+False
+M. Peacecraft vs. GWM420
+False
+M. Peacecraft vs. Rasen
+False
+M. Peacecraft vs. bonfire10
+False
+M. Peacecraft vs. glock in my toyota
+False
+M. Peacecraft vs. Golden
+False
+M. Peacecraft vs. CNIU
+False
+M. Peacecraft vs. Guillotine
+False
+M. Peacecraft vs. Shuffle
+False
+M. Peacecraft vs. TimTheGuy
+True
+M. Peacecraft vs. Kikoho
+True
+M. Peacecraft vs. DrewNG
+False
+M. Peacecraft vs. Arty
+True
+M. Peacecraft vs. JNaut
+False
+M. Peacecraft vs. Artelind
+True
+M. Peacecraft vs. Meep
+False
+M. Peacecraft vs. RyuCloud
+False
+M. Peacecraft vs. Guex
+False
+M. Peacecraft vs. Trail
+False
+M. Peacecraft vs. Silver
+False
+M. Peacecraft vs. Dimension
+False
+M. Peacecraft vs. Yasu
+False
+M. Peacecraft vs. Mr. Heat
+False
+M. Peacecraft vs. Shmeeli
+False
+M. Peacecraft vs. Swoosh$
+False
+M. Peacecraft vs. Unlucky
+False
+M. Peacecraft vs. 99 Woodcutting
+False
+M. Peacecraft vs. Bank
+False
+M. Peacecraft vs. Spiff
+False
+M. Peacecraft vs. Scooby
+False
+M. Peacecraft vs. PJ
+False
+M. Peacecraft vs. Feo
+False
+M. Peacecraft vs. BonkCushy
+False
+M. Peacecraft vs. Hysteric
+False
+M. Peacecraft vs. Ferox
+False
+M. Peacecraft vs. PSai
+False
+M. Peacecraft vs. Admiral Zhao
+False
+M. Peacecraft vs. Glasper
+False
+M. Peacecraft vs. F4X
+False
+M. Peacecraft vs. Twisty
+False
+M. Peacecraft vs. Ted Greene
+False
+M. Peacecraft vs. NotMe
+False
+M. Peacecraft vs. Alt
+False
+M. Peacecraft vs. Stacy's Stepdad
+False
+M. Peacecraft vs. Louis
+False
+M. Peacecraft vs. Lochist
+False
+Project vs. Slox
+True
+Project vs. Joyboy
+True
+Project vs. Kalvar
+True
+Project vs. lint
+True
+Project vs. Tiramisu
+True
+Project vs. Palika
+False
+Project vs. Thumbs
+False
+Project vs. BigJoig
+True
+Project vs. Warmmer
+True
+Project vs. DrLobster
+False
+Project vs. WAS | Ok
+True
+Project vs. Clutch
+False
+Project vs. Ses
+True
+Project vs. M. Peacecraft
+False
+Project vs. GWM420
+True
+Project vs. Rasen
+True
+Project vs. bonfire10
+False
+Project vs. glock in my toyota
+True
+Project vs. Golden
+True
+Project vs. CNIU
+True
+Project vs. Guillotine
+False
+Project vs. Shuffle
+True
+Project vs. TimTheGuy
+True
+Project vs. Kikoho
+False
+Project vs. DrewNG
+False
+Project vs. Arty
+False
+Project vs. JNaut
+False
+Project vs. Artelind
+False
+Project vs. Meep
+False
+Project vs. RyuCloud
+False
+Project vs. Guex
+True
+Project vs. Trail
+False
+Project vs. Silver
+True
+Project vs. Dimension
+False
+Project vs. Yasu
+True
+Project vs. Mr. Heat
+False
+Project vs. Shmeeli
+False
+Project vs. Swoosh$
+False
+Project vs. Unlucky
+False
+Project vs. 99 Woodcutting
+False
+Project vs. Bank
+False
+Project vs. Spiff
+True
+Project vs. Scooby
+True
+Project vs. PJ
+False
+Project vs. Feo
+False
+Project vs. BonkCushy
+True
+Project vs. Hysteric
+True
+Project vs. Ferox
+False
+Project vs. PSai
+False
+Project vs. Admiral Zhao
+False
+Project vs. Glasper
+False
+Project vs. F4X
+False
+Project vs. Twisty
+False
+Project vs. Ted Greene
+False
+Project vs. NotMe
+False
+Project vs. Alt
+False
+Project vs. Stacy's Stepdad
+True
+Project vs. Louis
+False
+Project vs. Lochist
+False
+GWM420 vs. Slox
+True
+GWM420 vs. Joyboy
+True
+GWM420 vs. Kalvar
+True
+GWM420 vs. lint
+True
+GWM420 vs. Tiramisu
+False
+GWM420 vs. Palika
+True
+GWM420 vs. Thumbs
+True
+GWM420 vs. BigJoig
+True
+GWM420 vs. Warmmer
+True
+GWM420 vs. DrLobster
+True
+GWM420 vs. WAS | Ok
+True
+GWM420 vs. Clutch
+False
+GWM420 vs. Ses
+True
+GWM420 vs. M. Peacecraft
+False
+GWM420 vs. Project
+True
+GWM420 vs. Rasen
+True
+GWM420 vs. bonfire10
+True
+GWM420 vs. glock in my toyota
+True
+GWM420 vs. Golden
+True
+GWM420 vs. CNIU
+True
+GWM420 vs. Guillotine
+True
+GWM420 vs. Shuffle
+False
+GWM420 vs. TimTheGuy
+False
+GWM420 vs. Kikoho
+False
+GWM420 vs. DrewNG
+False
+GWM420 vs. Arty
+False
+GWM420 vs. JNaut
+False
+GWM420 vs. Artelind
+False
+GWM420 vs. Meep
+False
+GWM420 vs. RyuCloud
+False
+GWM420 vs. Guex
+True
+GWM420 vs. Trail
+False
+GWM420 vs. Silver
+True
+GWM420 vs. Dimension
+False
+GWM420 vs. Yasu
+True
+GWM420 vs. Mr. Heat
+True
+GWM420 vs. Shmeeli
+True
+GWM420 vs. Swoosh$
+False
+GWM420 vs. Unlucky
+False
+GWM420 vs. 99 Woodcutting
+False
+GWM420 vs. Bank
+False
+GWM420 vs. Spiff
+True
+GWM420 vs. Scooby
+True
+GWM420 vs. PJ
+False
+GWM420 vs. Feo
+False
+GWM420 vs. BonkCushy
+True
+GWM420 vs. Hysteric
+True
+GWM420 vs. Ferox
+True
+GWM420 vs. PSai
+False
+GWM420 vs. Admiral Zhao
+True
+GWM420 vs. Glasper
+True
+GWM420 vs. F4X
+False
+GWM420 vs. Twisty
+False
+GWM420 vs. Ted Greene
+False
+GWM420 vs. NotMe
+False
+GWM420 vs. Alt
+True
+GWM420 vs. Stacy's Stepdad
+False
+GWM420 vs. Louis
+False
+GWM420 vs. Lochist
+False
+Rasen vs. Slox
+True
+Rasen vs. Joyboy
+True
+Rasen vs. Kalvar
+True
+Rasen vs. lint
+True
+Rasen vs. Tiramisu
+True
+Rasen vs. Palika
+True
+Rasen vs. Thumbs
+False
+Rasen vs. BigJoig
+True
+Rasen vs. Warmmer
+True
+Rasen vs. DrLobster
+False
+Rasen vs. WAS | Ok
+True
+Rasen vs. Clutch
+False
+Rasen vs. Ses
+False
+Rasen vs. M. Peacecraft
+False
+Rasen vs. Project
+True
+Rasen vs. GWM420
+True
+Rasen vs. bonfire10
+True
+Rasen vs. glock in my toyota
+True
+Rasen vs. Golden
+True
+Rasen vs. CNIU
+False
+Rasen vs. Guillotine
+True
+Rasen vs. Shuffle
+False
+Rasen vs. TimTheGuy
+True
+Rasen vs. Kikoho
+True
+Rasen vs. DrewNG
+False
+Rasen vs. Arty
+False
+Rasen vs. JNaut
+True
+Rasen vs. Artelind
+False
+Rasen vs. Meep
+True
+Rasen vs. RyuCloud
+False
+Rasen vs. Guex
+True
+Rasen vs. Trail
+False
+Rasen vs. Silver
+True
+Rasen vs. Dimension
+True
+Rasen vs. Yasu
+False
+Rasen vs. Mr. Heat
+True
+Rasen vs. Shmeeli
+False
+Rasen vs. Swoosh$
+False
+Rasen vs. Unlucky
+False
+Rasen vs. 99 Woodcutting
+False
+Rasen vs. Bank
+True
+Rasen vs. Spiff
+True
+Rasen vs. Scooby
+True
+Rasen vs. PJ
+False
+Rasen vs. Feo
+False
+Rasen vs. BonkCushy
+True
+Rasen vs. Hysteric
+True
+Rasen vs. Ferox
+True
+Rasen vs. PSai
+False
+Rasen vs. Admiral Zhao
+True
+Rasen vs. Glasper
+False
+Rasen vs. F4X
+False
+Rasen vs. Twisty
+True
+Rasen vs. Ted Greene
+True
+Rasen vs. NotMe
+False
+Rasen vs. Alt
+False
+Rasen vs. Stacy's Stepdad
+True
+Rasen vs. Louis
+True
+Rasen vs. Lochist
+False
+bonfire10 vs. Slox
+True
+bonfire10 vs. Joyboy
+False
+bonfire10 vs. Kalvar
+True
+bonfire10 vs. lint
+True
+bonfire10 vs. Tiramisu
+False
+bonfire10 vs. Palika
+True
+bonfire10 vs. Thumbs
+False
+bonfire10 vs. BigJoig
+False
+bonfire10 vs. Warmmer
+True
+bonfire10 vs. DrLobster
+True
+bonfire10 vs. WAS | Ok
+False
+bonfire10 vs. Clutch
+False
+bonfire10 vs. Ses
+False
+bonfire10 vs. M. Peacecraft
+False
+bonfire10 vs. Project
+False
+bonfire10 vs. GWM420
+True
+bonfire10 vs. Rasen
+True
+bonfire10 vs. glock in my toyota
+True
+bonfire10 vs. Golden
+True
+bonfire10 vs. CNIU
+False
+bonfire10 vs. Guillotine
+True
+bonfire10 vs. Shuffle
+False
+bonfire10 vs. TimTheGuy
+True
+bonfire10 vs. Kikoho
+False
+bonfire10 vs. DrewNG
+False
+bonfire10 vs. Arty
+False
+bonfire10 vs. JNaut
+True
+bonfire10 vs. Artelind
+False
+bonfire10 vs. Meep
+False
+bonfire10 vs. RyuCloud
+False
+bonfire10 vs. Guex
+False
+bonfire10 vs. Trail
+False
+bonfire10 vs. Silver
+False
+bonfire10 vs. Dimension
+False
+bonfire10 vs. Yasu
+False
+bonfire10 vs. Mr. Heat
+False
+bonfire10 vs. Shmeeli
+False
+bonfire10 vs. Swoosh$
+False
+bonfire10 vs. Unlucky
+False
+bonfire10 vs. 99 Woodcutting
+True
+bonfire10 vs. Bank
+False
+bonfire10 vs. Spiff
+False
+bonfire10 vs. Scooby
+True
+bonfire10 vs. PJ
+False
+bonfire10 vs. Feo
+False
+bonfire10 vs. BonkCushy
+False
+bonfire10 vs. Hysteric
+False
+bonfire10 vs. Ferox
+False
+bonfire10 vs. PSai
+False
+bonfire10 vs. Admiral Zhao
+False
+bonfire10 vs. Glasper
+False
+bonfire10 vs. F4X
+True
+bonfire10 vs. Twisty
+False
+bonfire10 vs. Ted Greene
+False
+bonfire10 vs. NotMe
+False
+bonfire10 vs. Alt
+True
+bonfire10 vs. Stacy's Stepdad
+True
+bonfire10 vs. Louis
+False
+bonfire10 vs. Lochist
+False
+glock in my toyota vs. Slox
+False
+glock in my toyota vs. Joyboy
+True
+glock in my toyota vs. Kalvar
+True
+glock in my toyota vs. lint
+True
+glock in my toyota vs. Tiramisu
+False
+glock in my toyota vs. Palika
+True
+glock in my toyota vs. Thumbs
+False
+glock in my toyota vs. BigJoig
+False
+glock in my toyota vs. Warmmer
+False
+glock in my toyota vs. DrLobster
+False
+glock in my toyota vs. WAS | Ok
+True
+glock in my toyota vs. Clutch
+False
+glock in my toyota vs. Ses
+False
+glock in my toyota vs. M. Peacecraft
+False
+glock in my toyota vs. Project
+True
+glock in my toyota vs. GWM420
+True
+glock in my toyota vs. Rasen
+True
+glock in my toyota vs. bonfire10
+True
+glock in my toyota vs. Golden
+True
+glock in my toyota vs. CNIU
+True
+glock in my toyota vs. Guillotine
+True
+glock in my toyota vs. Shuffle
+False
+glock in my toyota vs. TimTheGuy
+False
+glock in my toyota vs. Kikoho
+False
+glock in my toyota vs. DrewNG
+False
+glock in my toyota vs. Arty
+False
+glock in my toyota vs. JNaut
+True
+glock in my toyota vs. Artelind
+False
+glock in my toyota vs. Meep
+False
+glock in my toyota vs. RyuCloud
+False
+glock in my toyota vs. Guex
+True
+glock in my toyota vs. Trail
+False
+glock in my toyota vs. Silver
+False
+glock in my toyota vs. Dimension
+False
+glock in my toyota vs. Yasu
+True
+glock in my toyota vs. Mr. Heat
+False
+glock in my toyota vs. Shmeeli
+False
+glock in my toyota vs. Swoosh$
+False
+glock in my toyota vs. Unlucky
+False
+glock in my toyota vs. 99 Woodcutting
+False
+glock in my toyota vs. Bank
+True
+glock in my toyota vs. Spiff
+False
+glock in my toyota vs. Scooby
+True
+glock in my toyota vs. PJ
+False
+glock in my toyota vs. Feo
+False
+glock in my toyota vs. BonkCushy
+False
+glock in my toyota vs. Hysteric
+False
+glock in my toyota vs. Ferox
+True
+glock in my toyota vs. PSai
+False
+glock in my toyota vs. Admiral Zhao
+True
+glock in my toyota vs. Glasper
+False
+glock in my toyota vs. F4X
+False
+glock in my toyota vs. Twisty
+False
+glock in my toyota vs. Ted Greene
+False
+glock in my toyota vs. NotMe
+False
+glock in my toyota vs. Alt
+False
+glock in my toyota vs. Stacy's Stepdad
+True
+glock in my toyota vs. Louis
+False
+glock in my toyota vs. Lochist
+False
+Golden vs. Slox
+False
+Golden vs. Joyboy
+False
+Golden vs. Kalvar
+True
+Golden vs. lint
+False
+Golden vs. Tiramisu
+False
+Golden vs. Palika
+False
+Golden vs. Thumbs
+False
+Golden vs. BigJoig
+False
+Golden vs. Warmmer
+False
+Golden vs. DrLobster
+True
+Golden vs. WAS | Ok
+False
+Golden vs. Clutch
+False
+Golden vs. Ses
+False
+Golden vs. M. Peacecraft
+False
+Golden vs. Project
+True
+Golden vs. GWM420
+True
+Golden vs. Rasen
+True
+Golden vs. bonfire10
+True
+Golden vs. glock in my toyota
+True
+Golden vs. CNIU
+True
+Golden vs. Guillotine
+True
+Golden vs. Shuffle
+True
+Golden vs. TimTheGuy
+False
+Golden vs. Kikoho
+False
+Golden vs. DrewNG
+False
+Golden vs. Arty
+False
+Golden vs. JNaut
+False
+Golden vs. Artelind
+True
+Golden vs. Meep
+False
+Golden vs. RyuCloud
+False
+Golden vs. Guex
+False
+Golden vs. Trail
+False
+Golden vs. Silver
+False
+Golden vs. Dimension
+False
+Golden vs. Yasu
+False
+Golden vs. Mr. Heat
+False
+Golden vs. Shmeeli
+False
+Golden vs. Swoosh$
+False
+Golden vs. Unlucky
+False
+Golden vs. 99 Woodcutting
+False
+Golden vs. Bank
+True
+Golden vs. Spiff
+False
+Golden vs. Scooby
+False
+Golden vs. PJ
+False
+Golden vs. Feo
+False
+Golden vs. BonkCushy
+False
+Golden vs. Hysteric
+False
+Golden vs. Ferox
+False
+Golden vs. PSai
+False
+Golden vs. Admiral Zhao
+False
+Golden vs. Glasper
+True
+Golden vs. F4X
+False
+Golden vs. Twisty
+False
+Golden vs. Ted Greene
+False
+Golden vs. NotMe
+False
+Golden vs. Alt
+True
+Golden vs. Stacy's Stepdad
+False
+Golden vs. Louis
+True
+Golden vs. Lochist
+False
+CNIU vs. Slox
+False
+CNIU vs. Joyboy
+False
+CNIU vs. Kalvar
+True
+CNIU vs. lint
+False
+CNIU vs. Tiramisu
+False
+CNIU vs. Palika
+False
+CNIU vs. Thumbs
+False
+CNIU vs. BigJoig
+False
+CNIU vs. Warmmer
+False
+CNIU vs. DrLobster
+False
+CNIU vs. WAS | Ok
+False
+CNIU vs. Clutch
+False
+CNIU vs. Ses
+False
+CNIU vs. M. Peacecraft
+False
+CNIU vs. Project
+True
+CNIU vs. GWM420
+True
+CNIU vs. Rasen
+False
+CNIU vs. bonfire10
+False
+CNIU vs. glock in my toyota
+True
+CNIU vs. Golden
+True
+CNIU vs. Guillotine
+False
+CNIU vs. Shuffle
+False
+CNIU vs. TimTheGuy
+True
+CNIU vs. Kikoho
+False
+CNIU vs. DrewNG
+False
+CNIU vs. Arty
+False
+CNIU vs. JNaut
+False
+CNIU vs. Artelind
+False
+CNIU vs. Meep
+False
+CNIU vs. RyuCloud
+False
+CNIU vs. Guex
+False
+CNIU vs. Trail
+False
+CNIU vs. Silver
+True
+CNIU vs. Dimension
+False
+CNIU vs. Yasu
+False
+CNIU vs. Mr. Heat
+False
+CNIU vs. Shmeeli
+False
+CNIU vs. Swoosh$
+False
+CNIU vs. Unlucky
+False
+CNIU vs. 99 Woodcutting
+False
+CNIU vs. Bank
+False
+CNIU vs. Spiff
+False
+CNIU vs. Scooby
+False
+CNIU vs. PJ
+False
+CNIU vs. Feo
+False
+CNIU vs. BonkCushy
+False
+CNIU vs. Hysteric
+False
+CNIU vs. Ferox
+False
+CNIU vs. PSai
+False
+CNIU vs. Admiral Zhao
+False
+CNIU vs. Glasper
+False
+CNIU vs. F4X
+False
+CNIU vs. Twisty
+False
+CNIU vs. Ted Greene
+False
+CNIU vs. NotMe
+False
+CNIU vs. Alt
+False
+CNIU vs. Stacy's Stepdad
+False
+CNIU vs. Louis
+False
+CNIU vs. Lochist
+False
+Guillotine vs. Slox
+False
+Guillotine vs. Joyboy
+False
+Guillotine vs. Kalvar
+True
+Guillotine vs. lint
+False
+Guillotine vs. Tiramisu
+False
+Guillotine vs. Palika
+False
+Guillotine vs. Thumbs
+False
+Guillotine vs. BigJoig
+True
+Guillotine vs. Warmmer
+False
+Guillotine vs. DrLobster
+False
+Guillotine vs. WAS | Ok
+False
+Guillotine vs. Clutch
+True
+Guillotine vs. Ses
+True
+Guillotine vs. M. Peacecraft
+False
+Guillotine vs. Project
+False
+Guillotine vs. GWM420
+True
+Guillotine vs. Rasen
+True
+Guillotine vs. bonfire10
+True
+Guillotine vs. glock in my toyota
+True
+Guillotine vs. Golden
+True
+Guillotine vs. CNIU
+False
+Guillotine vs. Shuffle
+False
+Guillotine vs. TimTheGuy
+False
+Guillotine vs. Kikoho
+False
+Guillotine vs. DrewNG
+False
+Guillotine vs. Arty
+False
+Guillotine vs. JNaut
+False
+Guillotine vs. Artelind
+False
+Guillotine vs. Meep
+False
+Guillotine vs. RyuCloud
+False
+Guillotine vs. Guex
+True
+Guillotine vs. Trail
+False
+Guillotine vs. Silver
+True
+Guillotine vs. Dimension
+False
+Guillotine vs. Yasu
+False
+Guillotine vs. Mr. Heat
+True
+Guillotine vs. Shmeeli
+False
+Guillotine vs. Swoosh$
+False
+Guillotine vs. Unlucky
+False
+Guillotine vs. 99 Woodcutting
+False
+Guillotine vs. Bank
+False
+Guillotine vs. Spiff
+True
+Guillotine vs. Scooby
+True
+Guillotine vs. PJ
+False
+Guillotine vs. Feo
+False
+Guillotine vs. BonkCushy
+False
+Guillotine vs. Hysteric
+False
+Guillotine vs. Ferox
+True
+Guillotine vs. PSai
+False
+Guillotine vs. Admiral Zhao
+False
+Guillotine vs. Glasper
+False
+Guillotine vs. F4X
+False
+Guillotine vs. Twisty
+False
+Guillotine vs. Ted Greene
+True
+Guillotine vs. NotMe
+False
+Guillotine vs. Alt
+False
+Guillotine vs. Stacy's Stepdad
+True
+Guillotine vs. Louis
+False
+Guillotine vs. Lochist
+False
+Shuffle vs. Slox
+False
+Shuffle vs. Joyboy
+False
+Shuffle vs. Kalvar
+False
+Shuffle vs. lint
+False
+Shuffle vs. Tiramisu
+False
+Shuffle vs. Palika
+False
+Shuffle vs. Thumbs
+False
+Shuffle vs. BigJoig
+False
+Shuffle vs. Warmmer
+False
+Shuffle vs. DrLobster
+False
+Shuffle vs. WAS | Ok
+False
+Shuffle vs. Clutch
+False
+Shuffle vs. Ses
+False
+Shuffle vs. M. Peacecraft
+False
+Shuffle vs. Project
+True
+Shuffle vs. GWM420
+False
+Shuffle vs. Rasen
+False
+Shuffle vs. bonfire10
+False
+Shuffle vs. glock in my toyota
+False
+Shuffle vs. Golden
+True
+Shuffle vs. CNIU
+False
+Shuffle vs. Guillotine
+False
+Shuffle vs. TimTheGuy
+True
+Shuffle vs. Kikoho
+True
+Shuffle vs. DrewNG
+False
+Shuffle vs. Arty
+False
+Shuffle vs. JNaut
+False
+Shuffle vs. Artelind
+False
+Shuffle vs. Meep
+False
+Shuffle vs. RyuCloud
+False
+Shuffle vs. Guex
+False
+Shuffle vs. Trail
+False
+Shuffle vs. Silver
+False
+Shuffle vs. Dimension
+False
+Shuffle vs. Yasu
+False
+Shuffle vs. Mr. Heat
+False
+Shuffle vs. Shmeeli
+False
+Shuffle vs. Swoosh$
+False
+Shuffle vs. Unlucky
+False
+Shuffle vs. 99 Woodcutting
+True
+Shuffle vs. Bank
+False
+Shuffle vs. Spiff
+False
+Shuffle vs. Scooby
+False
+Shuffle vs. PJ
+False
+Shuffle vs. Feo
+False
+Shuffle vs. BonkCushy
+False
+Shuffle vs. Hysteric
+False
+Shuffle vs. Ferox
+False
+Shuffle vs. PSai
+False
+Shuffle vs. Admiral Zhao
+False
+Shuffle vs. Glasper
+False
+Shuffle vs. F4X
+False
+Shuffle vs. Twisty
+False
+Shuffle vs. Ted Greene
+True
+Shuffle vs. NotMe
+False
+Shuffle vs. Alt
+False
+Shuffle vs. Stacy's Stepdad
+True
+Shuffle vs. Louis
+False
+Shuffle vs. Lochist
+False
+TimTheGuy vs. Slox
+True
+TimTheGuy vs. Joyboy
+False
+TimTheGuy vs. Kalvar
+True
+TimTheGuy vs. lint
+True
+TimTheGuy vs. Tiramisu
+True
+TimTheGuy vs. Palika
+True
+TimTheGuy vs. Thumbs
+True
+TimTheGuy vs. BigJoig
+False
+TimTheGuy vs. Warmmer
+True
+TimTheGuy vs. DrLobster
+False
+TimTheGuy vs. WAS | Ok
+False
+TimTheGuy vs. Clutch
+False
+TimTheGuy vs. Ses
+False
+TimTheGuy vs. M. Peacecraft
+True
+TimTheGuy vs. Project
+True
+TimTheGuy vs. GWM420
+False
+TimTheGuy vs. Rasen
+True
+TimTheGuy vs. bonfire10
+True
+TimTheGuy vs. glock in my toyota
+False
+TimTheGuy vs. Golden
+False
+TimTheGuy vs. CNIU
+True
+TimTheGuy vs. Guillotine
+False
+TimTheGuy vs. Shuffle
+True
+TimTheGuy vs. Kikoho
+True
+TimTheGuy vs. DrewNG
+True
+TimTheGuy vs. Arty
+True
+TimTheGuy vs. JNaut
+False
+TimTheGuy vs. Artelind
+False
+TimTheGuy vs. Meep
+False
+TimTheGuy vs. RyuCloud
+False
+TimTheGuy vs. Guex
+True
+TimTheGuy vs. Trail
+False
+TimTheGuy vs. Silver
+False
+TimTheGuy vs. Dimension
+False
+TimTheGuy vs. Yasu
+False
+TimTheGuy vs. Mr. Heat
+False
+TimTheGuy vs. Shmeeli
+True
+TimTheGuy vs. Swoosh$
+False
+TimTheGuy vs. Unlucky
+False
+TimTheGuy vs. 99 Woodcutting
+True
+TimTheGuy vs. Bank
+False
+TimTheGuy vs. Spiff
+True
+TimTheGuy vs. Scooby
+True
+TimTheGuy vs. PJ
+False
+TimTheGuy vs. Feo
+False
+TimTheGuy vs. BonkCushy
+True
+TimTheGuy vs. Hysteric
+True
+TimTheGuy vs. Ferox
+False
+TimTheGuy vs. PSai
+False
+TimTheGuy vs. Admiral Zhao
+False
+TimTheGuy vs. Glasper
+False
+TimTheGuy vs. F4X
+False
+TimTheGuy vs. Twisty
+False
+TimTheGuy vs. Ted Greene
+True
+TimTheGuy vs. NotMe
+False
+TimTheGuy vs. Alt
+False
+TimTheGuy vs. Stacy's Stepdad
+False
+TimTheGuy vs. Louis
+False
+TimTheGuy vs. Lochist
+False
+Kikoho vs. Slox
+True
+Kikoho vs. Joyboy
+True
+Kikoho vs. Kalvar
+False
+Kikoho vs. lint
+True
+Kikoho vs. Tiramisu
+True
+Kikoho vs. Palika
+True
+Kikoho vs. Thumbs
+True
+Kikoho vs. BigJoig
+False
+Kikoho vs. Warmmer
+True
+Kikoho vs. DrLobster
+False
+Kikoho vs. WAS | Ok
+False
+Kikoho vs. Clutch
+False
+Kikoho vs. Ses
+False
+Kikoho vs. M. Peacecraft
+True
+Kikoho vs. Project
+False
+Kikoho vs. GWM420
+False
+Kikoho vs. Rasen
+True
+Kikoho vs. bonfire10
+False
+Kikoho vs. glock in my toyota
+False
+Kikoho vs. Golden
+False
+Kikoho vs. CNIU
+False
+Kikoho vs. Guillotine
+False
+Kikoho vs. Shuffle
+True
+Kikoho vs. TimTheGuy
+True
+Kikoho vs. DrewNG
+True
+Kikoho vs. Arty
+True
+Kikoho vs. JNaut
+False
+Kikoho vs. Artelind
+False
+Kikoho vs. Meep
+False
+Kikoho vs. RyuCloud
+False
+Kikoho vs. Guex
+False
+Kikoho vs. Trail
+False
+Kikoho vs. Silver
+False
+Kikoho vs. Dimension
+False
+Kikoho vs. Yasu
+False
+Kikoho vs. Mr. Heat
+False
+Kikoho vs. Shmeeli
+False
+Kikoho vs. Swoosh$
+False
+Kikoho vs. Unlucky
+False
+Kikoho vs. 99 Woodcutting
+False
+Kikoho vs. Bank
+False
+Kikoho vs. Spiff
+False
+Kikoho vs. Scooby
+False
+Kikoho vs. PJ
+False
+Kikoho vs. Feo
+False
+Kikoho vs. BonkCushy
+False
+Kikoho vs. Hysteric
+False
+Kikoho vs. Ferox
+False
+Kikoho vs. PSai
+False
+Kikoho vs. Admiral Zhao
+False
+Kikoho vs. Glasper
+False
+Kikoho vs. F4X
+False
+Kikoho vs. Twisty
+False
+Kikoho vs. Ted Greene
+False
+Kikoho vs. NotMe
+False
+Kikoho vs. Alt
+False
+Kikoho vs. Stacy's Stepdad
+False
+Kikoho vs. Louis
+False
+Kikoho vs. Lochist
+False
+DrewNG vs. Slox
+True
+DrewNG vs. Joyboy
+False
+DrewNG vs. Kalvar
+False
+DrewNG vs. lint
+True
+DrewNG vs. Tiramisu
+True
+DrewNG vs. Palika
+True
+DrewNG vs. Thumbs
+True
+DrewNG vs. BigJoig
+False
+DrewNG vs. Warmmer
+True
+DrewNG vs. DrLobster
+False
+DrewNG vs. WAS | Ok
+False
+DrewNG vs. Clutch
+False
+DrewNG vs. Ses
+False
+DrewNG vs. M. Peacecraft
+False
+DrewNG vs. Project
+False
+DrewNG vs. GWM420
+False
+DrewNG vs. Rasen
+False
+DrewNG vs. bonfire10
+False
+DrewNG vs. glock in my toyota
+False
+DrewNG vs. Golden
+False
+DrewNG vs. CNIU
+False
+DrewNG vs. Guillotine
+False
+DrewNG vs. Shuffle
+False
+DrewNG vs. TimTheGuy
+True
+DrewNG vs. Kikoho
+True
+DrewNG vs. Arty
+True
+DrewNG vs. JNaut
+True
+DrewNG vs. Artelind
+False
+DrewNG vs. Meep
+False
+DrewNG vs. RyuCloud
+False
+DrewNG vs. Guex
+False
+DrewNG vs. Trail
+False
+DrewNG vs. Silver
+False
+DrewNG vs. Dimension
+False
+DrewNG vs. Yasu
+False
+DrewNG vs. Mr. Heat
+False
+DrewNG vs. Shmeeli
+False
+DrewNG vs. Swoosh$
+False
+DrewNG vs. Unlucky
+False
+DrewNG vs. 99 Woodcutting
+False
+DrewNG vs. Bank
+False
+DrewNG vs. Spiff
+False
+DrewNG vs. Scooby
+False
+DrewNG vs. PJ
+False
+DrewNG vs. Feo
+False
+DrewNG vs. BonkCushy
+False
+DrewNG vs. Hysteric
+False
+DrewNG vs. Ferox
+False
+DrewNG vs. PSai
+False
+DrewNG vs. Admiral Zhao
+False
+DrewNG vs. Glasper
+False
+DrewNG vs. F4X
+False
+DrewNG vs. Twisty
+False
+DrewNG vs. Ted Greene
+False
+DrewNG vs. NotMe
+False
+DrewNG vs. Alt
+False
+DrewNG vs. Stacy's Stepdad
+False
+DrewNG vs. Louis
+False
+DrewNG vs. Lochist
+False
+Arty vs. Slox
+True
+Arty vs. Joyboy
+True
+Arty vs. Kalvar
+False
+Arty vs. lint
+True
+Arty vs. Tiramisu
+True
+Arty vs. Palika
+True
+Arty vs. Thumbs
+True
+Arty vs. BigJoig
+False
+Arty vs. Warmmer
+True
+Arty vs. DrLobster
+False
+Arty vs. WAS | Ok
+False
+Arty vs. Clutch
+False
+Arty vs. Ses
+False
+Arty vs. M. Peacecraft
+True
+Arty vs. Project
+False
+Arty vs. GWM420
+False
+Arty vs. Rasen
+False
+Arty vs. bonfire10
+False
+Arty vs. glock in my toyota
+False
+Arty vs. Golden
+False
+Arty vs. CNIU
+False
+Arty vs. Guillotine
+False
+Arty vs. Shuffle
+False
+Arty vs. TimTheGuy
+True
+Arty vs. Kikoho
+True
+Arty vs. DrewNG
+True
+Arty vs. JNaut
+False
+Arty vs. Artelind
+False
+Arty vs. Meep
+False
+Arty vs. RyuCloud
+False
+Arty vs. Guex
+True
+Arty vs. Trail
+False
+Arty vs. Silver
+False
+Arty vs. Dimension
+False
+Arty vs. Yasu
+False
+Arty vs. Mr. Heat
+False
+Arty vs. Shmeeli
+False
+Arty vs. Swoosh$
+False
+Arty vs. Unlucky
+False
+Arty vs. 99 Woodcutting
+False
+Arty vs. Bank
+False
+Arty vs. Spiff
+False
+Arty vs. Scooby
+False
+Arty vs. PJ
+False
+Arty vs. Feo
+False
+Arty vs. BonkCushy
+False
+Arty vs. Hysteric
+True
+Arty vs. Ferox
+False
+Arty vs. PSai
+False
+Arty vs. Admiral Zhao
+False
+Arty vs. Glasper
+False
+Arty vs. F4X
+False
+Arty vs. Twisty
+False
+Arty vs. Ted Greene
+False
+Arty vs. NotMe
+False
+Arty vs. Alt
+False
+Arty vs. Stacy's Stepdad
+False
+Arty vs. Louis
+False
+Arty vs. Lochist
+False
+JNaut vs. Slox
+True
+JNaut vs. Joyboy
+True
+JNaut vs. Kalvar
+True
+JNaut vs. lint
+False
+JNaut vs. Tiramisu
+True
+JNaut vs. Palika
+False
+JNaut vs. Thumbs
+False
+JNaut vs. BigJoig
+False
+JNaut vs. Warmmer
+False
+JNaut vs. DrLobster
+False
+JNaut vs. WAS | Ok
+True
+JNaut vs. Clutch
+True
+JNaut vs. Ses
+False
+JNaut vs. M. Peacecraft
+False
+JNaut vs. Project
+False
+JNaut vs. GWM420
+False
+JNaut vs. Rasen
+True
+JNaut vs. bonfire10
+True
+JNaut vs. glock in my toyota
+True
+JNaut vs. Golden
+False
+JNaut vs. CNIU
+False
+JNaut vs. Guillotine
+False
+JNaut vs. Shuffle
+False
+JNaut vs. TimTheGuy
+False
+JNaut vs. Kikoho
+False
+JNaut vs. DrewNG
+True
+JNaut vs. Arty
+False
+JNaut vs. Artelind
+True
+JNaut vs. Meep
+True
+JNaut vs. RyuCloud
+True
+JNaut vs. Guex
+True
+JNaut vs. Trail
+False
+JNaut vs. Silver
+True
+JNaut vs. Dimension
+False
+JNaut vs. Yasu
+True
+JNaut vs. Mr. Heat
+True
+JNaut vs. Shmeeli
+False
+JNaut vs. Swoosh$
+False
+JNaut vs. Unlucky
+False
+JNaut vs. 99 Woodcutting
+True
+JNaut vs. Bank
+True
+JNaut vs. Spiff
+False
+JNaut vs. Scooby
+False
+JNaut vs. PJ
+True
+JNaut vs. Feo
+False
+JNaut vs. BonkCushy
+False
+JNaut vs. Hysteric
+True
+JNaut vs. Ferox
+False
+JNaut vs. PSai
+False
+JNaut vs. Admiral Zhao
+False
+JNaut vs. Glasper
+True
+JNaut vs. F4X
+False
+JNaut vs. Twisty
+True
+JNaut vs. Ted Greene
+False
+JNaut vs. NotMe
+False
+JNaut vs. Alt
+True
+JNaut vs. Stacy's Stepdad
+False
+JNaut vs. Louis
+False
+JNaut vs. Lochist
+False
+Artelind vs. Slox
+False
+Artelind vs. Joyboy
+True
+Artelind vs. Kalvar
+False
+Artelind vs. lint
+False
+Artelind vs. Tiramisu
+False
+Artelind vs. Palika
+True
+Artelind vs. Thumbs
+False
+Artelind vs. BigJoig
+True
+Artelind vs. Warmmer
+False
+Artelind vs. DrLobster
+False
+Artelind vs. WAS | Ok
+False
+Artelind vs. Clutch
+False
+Artelind vs. Ses
+False
+Artelind vs. M. Peacecraft
+True
+Artelind vs. Project
+False
+Artelind vs. GWM420
+False
+Artelind vs. Rasen
+False
+Artelind vs. bonfire10
+False
+Artelind vs. glock in my toyota
+False
+Artelind vs. Golden
+True
+Artelind vs. CNIU
+False
+Artelind vs. Guillotine
+False
+Artelind vs. Shuffle
+False
+Artelind vs. TimTheGuy
+False
+Artelind vs. Kikoho
+False
+Artelind vs. DrewNG
+False
+Artelind vs. Arty
+False
+Artelind vs. JNaut
+True
+Artelind vs. Meep
+True
+Artelind vs. RyuCloud
+True
+Artelind vs. Guex
+True
+Artelind vs. Trail
+False
+Artelind vs. Silver
+False
+Artelind vs. Dimension
+False
+Artelind vs. Yasu
+False
+Artelind vs. Mr. Heat
+False
+Artelind vs. Shmeeli
+False
+Artelind vs. Swoosh$
+False
+Artelind vs. Unlucky
+False
+Artelind vs. 99 Woodcutting
+False
+Artelind vs. Bank
+True
+Artelind vs. Spiff
+False
+Artelind vs. Scooby
+True
+Artelind vs. PJ
+False
+Artelind vs. Feo
+False
+Artelind vs. BonkCushy
+False
+Artelind vs. Hysteric
+False
+Artelind vs. Ferox
+False
+Artelind vs. PSai
+False
+Artelind vs. Admiral Zhao
+False
+Artelind vs. Glasper
+False
+Artelind vs. F4X
+True
+Artelind vs. Twisty
+False
+Artelind vs. Ted Greene
+False
+Artelind vs. NotMe
+False
+Artelind vs. Alt
+False
+Artelind vs. Stacy's Stepdad
+False
+Artelind vs. Louis
+False
+Artelind vs. Lochist
+False
+Meep vs. Slox
+False
+Meep vs. Joyboy
+True
+Meep vs. Kalvar
+True
+Meep vs. lint
+False
+Meep vs. Tiramisu
+True
+Meep vs. Palika
+False
+Meep vs. Thumbs
+False
+Meep vs. BigJoig
+False
+Meep vs. Warmmer
+False
+Meep vs. DrLobster
+False
+Meep vs. WAS | Ok
+False
+Meep vs. Clutch
+False
+Meep vs. Ses
+False
+Meep vs. M. Peacecraft
+False
+Meep vs. Project
+False
+Meep vs. GWM420
+False
+Meep vs. Rasen
+True
+Meep vs. bonfire10
+False
+Meep vs. glock in my toyota
+False
+Meep vs. Golden
+False
+Meep vs. CNIU
+False
+Meep vs. Guillotine
+False
+Meep vs. Shuffle
+False
+Meep vs. TimTheGuy
+False
+Meep vs. Kikoho
+False
+Meep vs. DrewNG
+False
+Meep vs. Arty
+False
+Meep vs. JNaut
+True
+Meep vs. Artelind
+True
+Meep vs. RyuCloud
+True
+Meep vs. Guex
+True
+Meep vs. Trail
+False
+Meep vs. Silver
+True
+Meep vs. Dimension
+False
+Meep vs. Yasu
+False
+Meep vs. Mr. Heat
+False
+Meep vs. Shmeeli
+False
+Meep vs. Swoosh$
+False
+Meep vs. Unlucky
+False
+Meep vs. 99 Woodcutting
+False
+Meep vs. Bank
+False
+Meep vs. Spiff
+False
+Meep vs. Scooby
+False
+Meep vs. PJ
+False
+Meep vs. Feo
+False
+Meep vs. BonkCushy
+False
+Meep vs. Hysteric
+False
+Meep vs. Ferox
+False
+Meep vs. PSai
+False
+Meep vs. Admiral Zhao
+False
+Meep vs. Glasper
+False
+Meep vs. F4X
+False
+Meep vs. Twisty
+False
+Meep vs. Ted Greene
+False
+Meep vs. NotMe
+True
+Meep vs. Alt
+False
+Meep vs. Stacy's Stepdad
+False
+Meep vs. Louis
+False
+Meep vs. Lochist
+False
+RyuCloud vs. Slox
+False
+RyuCloud vs. Joyboy
+True
+RyuCloud vs. Kalvar
+False
+RyuCloud vs. lint
+False
+RyuCloud vs. Tiramisu
+True
+RyuCloud vs. Palika
+False
+RyuCloud vs. Thumbs
+False
+RyuCloud vs. BigJoig
+False
+RyuCloud vs. Warmmer
+False
+RyuCloud vs. DrLobster
+False
+RyuCloud vs. WAS | Ok
+False
+RyuCloud vs. Clutch
+False
+RyuCloud vs. Ses
+False
+RyuCloud vs. M. Peacecraft
+False
+RyuCloud vs. Project
+False
+RyuCloud vs. GWM420
+False
+RyuCloud vs. Rasen
+False
+RyuCloud vs. bonfire10
+False
+RyuCloud vs. glock in my toyota
+False
+RyuCloud vs. Golden
+False
+RyuCloud vs. CNIU
+False
+RyuCloud vs. Guillotine
+False
+RyuCloud vs. Shuffle
+False
+RyuCloud vs. TimTheGuy
+False
+RyuCloud vs. Kikoho
+False
+RyuCloud vs. DrewNG
+False
+RyuCloud vs. Arty
+False
+RyuCloud vs. JNaut
+True
+RyuCloud vs. Artelind
+True
+RyuCloud vs. Meep
+True
+RyuCloud vs. Guex
+True
+RyuCloud vs. Trail
+False
+RyuCloud vs. Silver
+False
+RyuCloud vs. Dimension
+False
+RyuCloud vs. Yasu
+False
+RyuCloud vs. Mr. Heat
+False
+RyuCloud vs. Shmeeli
+False
+RyuCloud vs. Swoosh$
+False
+RyuCloud vs. Unlucky
+False
+RyuCloud vs. 99 Woodcutting
+False
+RyuCloud vs. Bank
+False
+RyuCloud vs. Spiff
+False
+RyuCloud vs. Scooby
+False
+RyuCloud vs. PJ
+False
+RyuCloud vs. Feo
+False
+RyuCloud vs. BonkCushy
+False
+RyuCloud vs. Hysteric
+False
+RyuCloud vs. Ferox
+False
+RyuCloud vs. PSai
+False
+RyuCloud vs. Admiral Zhao
+False
+RyuCloud vs. Glasper
+False
+RyuCloud vs. F4X
+False
+RyuCloud vs. Twisty
+False
+RyuCloud vs. Ted Greene
+False
+RyuCloud vs. NotMe
+True
+RyuCloud vs. Alt
+False
+RyuCloud vs. Stacy's Stepdad
+False
+RyuCloud vs. Louis
+False
+RyuCloud vs. Lochist
+False
+Guex vs. Slox
+False
+Guex vs. Joyboy
+True
+Guex vs. Kalvar
+True
+Guex vs. lint
+True
+Guex vs. Tiramisu
+True
+Guex vs. Palika
+False
+Guex vs. Thumbs
+False
+Guex vs. BigJoig
+True
+Guex vs. Warmmer
+True
+Guex vs. DrLobster
+False
+Guex vs. WAS | Ok
+False
+Guex vs. Clutch
+True
+Guex vs. Ses
+False
+Guex vs. M. Peacecraft
+False
+Guex vs. Project
+True
+Guex vs. GWM420
+True
+Guex vs. Rasen
+True
+Guex vs. bonfire10
+False
+Guex vs. glock in my toyota
+True
+Guex vs. Golden
+False
+Guex vs. CNIU
+False
+Guex vs. Guillotine
+True
+Guex vs. Shuffle
+False
+Guex vs. TimTheGuy
+True
+Guex vs. Kikoho
+False
+Guex vs. DrewNG
+False
+Guex vs. Arty
+True
+Guex vs. JNaut
+True
+Guex vs. Artelind
+True
+Guex vs. Meep
+True
+Guex vs. RyuCloud
+True
+Guex vs. Trail
+False
+Guex vs. Silver
+True
+Guex vs. Dimension
+False
+Guex vs. Yasu
+True
+Guex vs. Mr. Heat
+True
+Guex vs. Shmeeli
+False
+Guex vs. Swoosh$
+False
+Guex vs. Unlucky
+False
+Guex vs. 99 Woodcutting
+False
+Guex vs. Bank
+True
+Guex vs. Spiff
+True
+Guex vs. Scooby
+True
+Guex vs. PJ
+False
+Guex vs. Feo
+False
+Guex vs. BonkCushy
+True
+Guex vs. Hysteric
+False
+Guex vs. Ferox
+True
+Guex vs. PSai
+False
+Guex vs. Admiral Zhao
+True
+Guex vs. Glasper
+False
+Guex vs. F4X
+False
+Guex vs. Twisty
+False
+Guex vs. Ted Greene
+True
+Guex vs. NotMe
+False
+Guex vs. Alt
+False
+Guex vs. Stacy's Stepdad
+False
+Guex vs. Louis
+False
+Guex vs. Lochist
+False
+Trail vs. Slox
+False
+Trail vs. Joyboy
+False
+Trail vs. Kalvar
+False
+Trail vs. lint
+False
+Trail vs. Tiramisu
+False
+Trail vs. Palika
+False
+Trail vs. Thumbs
+False
+Trail vs. BigJoig
+False
+Trail vs. Warmmer
+False
+Trail vs. DrLobster
+False
+Trail vs. WAS | Ok
+False
+Trail vs. Clutch
+False
+Trail vs. Ses
+False
+Trail vs. M. Peacecraft
+False
+Trail vs. Project
+False
+Trail vs. GWM420
+False
+Trail vs. Rasen
+False
+Trail vs. bonfire10
+False
+Trail vs. glock in my toyota
+False
+Trail vs. Golden
+False
+Trail vs. CNIU
+False
+Trail vs. Guillotine
+False
+Trail vs. Shuffle
+False
+Trail vs. TimTheGuy
+False
+Trail vs. Kikoho
+False
+Trail vs. DrewNG
+False
+Trail vs. Arty
+False
+Trail vs. JNaut
+False
+Trail vs. Artelind
+False
+Trail vs. Meep
+False
+Trail vs. RyuCloud
+False
+Trail vs. Guex
+False
+Trail vs. Silver
+False
+Trail vs. Dimension
+False
+Trail vs. Yasu
+False
+Trail vs. Mr. Heat
+False
+Trail vs. Shmeeli
+False
+Trail vs. Swoosh$
+False
+Trail vs. Unlucky
+False
+Trail vs. 99 Woodcutting
+False
+Trail vs. Bank
+False
+Trail vs. Spiff
+False
+Trail vs. Scooby
+False
+Trail vs. PJ
+False
+Trail vs. Feo
+False
+Trail vs. BonkCushy
+False
+Trail vs. Hysteric
+False
+Trail vs. Ferox
+False
+Trail vs. PSai
+False
+Trail vs. Admiral Zhao
+False
+Trail vs. Glasper
+False
+Trail vs. F4X
+False
+Trail vs. Twisty
+False
+Trail vs. Ted Greene
+False
+Trail vs. NotMe
+False
+Trail vs. Alt
+False
+Trail vs. Stacy's Stepdad
+False
+Trail vs. Louis
+False
+Trail vs. Lochist
+False
+Silver vs. Slox
+False
+Silver vs. Joyboy
+False
+Silver vs. Kalvar
+True
+Silver vs. lint
+True
+Silver vs. Tiramisu
+True
+Silver vs. Palika
+False
+Silver vs. Thumbs
+False
+Silver vs. BigJoig
+False
+Silver vs. Warmmer
+True
+Silver vs. DrLobster
+False
+Silver vs. WAS | Ok
+True
+Silver vs. Clutch
+False
+Silver vs. Ses
+True
+Silver vs. M. Peacecraft
+False
+Silver vs. Project
+True
+Silver vs. GWM420
+True
+Silver vs. Rasen
+True
+Silver vs. bonfire10
+False
+Silver vs. glock in my toyota
+False
+Silver vs. Golden
+False
+Silver vs. CNIU
+True
+Silver vs. Guillotine
+True
+Silver vs. Shuffle
+False
+Silver vs. TimTheGuy
+False
+Silver vs. Kikoho
+False
+Silver vs. DrewNG
+False
+Silver vs. Arty
+False
+Silver vs. JNaut
+True
+Silver vs. Artelind
+False
+Silver vs. Meep
+True
+Silver vs. RyuCloud
+False
+Silver vs. Guex
+True
+Silver vs. Trail
+False
+Silver vs. Dimension
+False
+Silver vs. Yasu
+True
+Silver vs. Mr. Heat
+False
+Silver vs. Shmeeli
+False
+Silver vs. Swoosh$
+False
+Silver vs. Unlucky
+False
+Silver vs. 99 Woodcutting
+False
+Silver vs. Bank
+False
+Silver vs. Spiff
+False
+Silver vs. Scooby
+True
+Silver vs. PJ
+False
+Silver vs. Feo
+False
+Silver vs. BonkCushy
+True
+Silver vs. Hysteric
+False
+Silver vs. Ferox
+False
+Silver vs. PSai
+False
+Silver vs. Admiral Zhao
+False
+Silver vs. Glasper
+False
+Silver vs. F4X
+False
+Silver vs. Twisty
+True
+Silver vs. Ted Greene
+False
+Silver vs. NotMe
+False
+Silver vs. Alt
+True
+Silver vs. Stacy's Stepdad
+False
+Silver vs. Louis
+False
+Silver vs. Lochist
+False
+Dimension vs. Slox
+False
+Dimension vs. Joyboy
+False
+Dimension vs. Kalvar
+False
+Dimension vs. lint
+False
+Dimension vs. Tiramisu
+True
+Dimension vs. Palika
+False
+Dimension vs. Thumbs
+False
+Dimension vs. BigJoig
+False
+Dimension vs. Warmmer
+False
+Dimension vs. DrLobster
+False
+Dimension vs. WAS | Ok
+False
+Dimension vs. Clutch
+False
+Dimension vs. Ses
+False
+Dimension vs. M. Peacecraft
+False
+Dimension vs. Project
+False
+Dimension vs. GWM420
+False
+Dimension vs. Rasen
+True
+Dimension vs. bonfire10
+False
+Dimension vs. glock in my toyota
+False
+Dimension vs. Golden
+False
+Dimension vs. CNIU
+False
+Dimension vs. Guillotine
+False
+Dimension vs. Shuffle
+False
+Dimension vs. TimTheGuy
+False
+Dimension vs. Kikoho
+False
+Dimension vs. DrewNG
+False
+Dimension vs. Arty
+False
+Dimension vs. JNaut
+False
+Dimension vs. Artelind
+False
+Dimension vs. Meep
+False
+Dimension vs. RyuCloud
+False
+Dimension vs. Guex
+False
+Dimension vs. Trail
+False
+Dimension vs. Silver
+False
+Dimension vs. Yasu
+False
+Dimension vs. Mr. Heat
+True
+Dimension vs. Shmeeli
+True
+Dimension vs. Swoosh$
+False
+Dimension vs. Unlucky
+False
+Dimension vs. 99 Woodcutting
+True
+Dimension vs. Bank
+False
+Dimension vs. Spiff
+True
+Dimension vs. Scooby
+True
+Dimension vs. PJ
+False
+Dimension vs. Feo
+False
+Dimension vs. BonkCushy
+True
+Dimension vs. Hysteric
+True
+Dimension vs. Ferox
+False
+Dimension vs. PSai
+True
+Dimension vs. Admiral Zhao
+False
+Dimension vs. Glasper
+True
+Dimension vs. F4X
+False
+Dimension vs. Twisty
+False
+Dimension vs. Ted Greene
+False
+Dimension vs. NotMe
+False
+Dimension vs. Alt
+False
+Dimension vs. Stacy's Stepdad
+False
+Dimension vs. Louis
+False
+Dimension vs. Lochist
+False
+Yasu vs. Slox
+True
+Yasu vs. Joyboy
+True
+Yasu vs. Kalvar
+True
+Yasu vs. lint
+True
+Yasu vs. Tiramisu
+True
+Yasu vs. Palika
+False
+Yasu vs. Thumbs
+False
+Yasu vs. BigJoig
+True
+Yasu vs. Warmmer
+True
+Yasu vs. DrLobster
+False
+Yasu vs. WAS | Ok
+False
+Yasu vs. Clutch
+False
+Yasu vs. Ses
+False
+Yasu vs. M. Peacecraft
+False
+Yasu vs. Project
+True
+Yasu vs. GWM420
+True
+Yasu vs. Rasen
+False
+Yasu vs. bonfire10
+False
+Yasu vs. glock in my toyota
+True
+Yasu vs. Golden
+False
+Yasu vs. CNIU
+False
+Yasu vs. Guillotine
+False
+Yasu vs. Shuffle
+False
+Yasu vs. TimTheGuy
+False
+Yasu vs. Kikoho
+False
+Yasu vs. DrewNG
+False
+Yasu vs. Arty
+False
+Yasu vs. JNaut
+True
+Yasu vs. Artelind
+False
+Yasu vs. Meep
+False
+Yasu vs. RyuCloud
+False
+Yasu vs. Guex
+True
+Yasu vs. Trail
+False
+Yasu vs. Silver
+True
+Yasu vs. Dimension
+False
+Yasu vs. Mr. Heat
+True
+Yasu vs. Shmeeli
+True
+Yasu vs. Swoosh$
+False
+Yasu vs. Unlucky
+False
+Yasu vs. 99 Woodcutting
+True
+Yasu vs. Bank
+True
+Yasu vs. Spiff
+True
+Yasu vs. Scooby
+False
+Yasu vs. PJ
+True
+Yasu vs. Feo
+False
+Yasu vs. BonkCushy
+False
+Yasu vs. Hysteric
+False
+Yasu vs. Ferox
+True
+Yasu vs. PSai
+False
+Yasu vs. Admiral Zhao
+True
+Yasu vs. Glasper
+True
+Yasu vs. F4X
+False
+Yasu vs. Twisty
+False
+Yasu vs. Ted Greene
+True
+Yasu vs. NotMe
+True
+Yasu vs. Alt
+True
+Yasu vs. Stacy's Stepdad
+False
+Yasu vs. Louis
+False
+Yasu vs. Lochist
+False
+Mr. Heat vs. Slox
+False
+Mr. Heat vs. Joyboy
+False
+Mr. Heat vs. Kalvar
+False
+Mr. Heat vs. lint
+False
+Mr. Heat vs. Tiramisu
+True
+Mr. Heat vs. Palika
+False
+Mr. Heat vs. Thumbs
+False
+Mr. Heat vs. BigJoig
+False
+Mr. Heat vs. Warmmer
+True
+Mr. Heat vs. DrLobster
+True
+Mr. Heat vs. WAS | Ok
+False
+Mr. Heat vs. Clutch
+True
+Mr. Heat vs. Ses
+True
+Mr. Heat vs. M. Peacecraft
+False
+Mr. Heat vs. Project
+False
+Mr. Heat vs. GWM420
+True
+Mr. Heat vs. Rasen
+True
+Mr. Heat vs. bonfire10
+False
+Mr. Heat vs. glock in my toyota
+False
+Mr. Heat vs. Golden
+False
+Mr. Heat vs. CNIU
+False
+Mr. Heat vs. Guillotine
+True
+Mr. Heat vs. Shuffle
+False
+Mr. Heat vs. TimTheGuy
+False
+Mr. Heat vs. Kikoho
+False
+Mr. Heat vs. DrewNG
+False
+Mr. Heat vs. Arty
+False
+Mr. Heat vs. JNaut
+True
+Mr. Heat vs. Artelind
+False
+Mr. Heat vs. Meep
+False
+Mr. Heat vs. RyuCloud
+False
+Mr. Heat vs. Guex
+True
+Mr. Heat vs. Trail
+False
+Mr. Heat vs. Silver
+False
+Mr. Heat vs. Dimension
+True
+Mr. Heat vs. Yasu
+True
+Mr. Heat vs. Shmeeli
+True
+Mr. Heat vs. Swoosh$
+False
+Mr. Heat vs. Unlucky
+True
+Mr. Heat vs. 99 Woodcutting
+True
+Mr. Heat vs. Bank
+True
+Mr. Heat vs. Spiff
+True
+Mr. Heat vs. Scooby
+True
+Mr. Heat vs. PJ
+False
+Mr. Heat vs. Feo
+True
+Mr. Heat vs. BonkCushy
+True
+Mr. Heat vs. Hysteric
+False
+Mr. Heat vs. Ferox
+False
+Mr. Heat vs. PSai
+False
+Mr. Heat vs. Admiral Zhao
+False
+Mr. Heat vs. Glasper
+True
+Mr. Heat vs. F4X
+False
+Mr. Heat vs. Twisty
+True
+Mr. Heat vs. Ted Greene
+True
+Mr. Heat vs. NotMe
+False
+Mr. Heat vs. Alt
+False
+Mr. Heat vs. Stacy's Stepdad
+False
+Mr. Heat vs. Louis
+False
+Mr. Heat vs. Lochist
+False
+Shmeeli vs. Slox
+False
+Shmeeli vs. Joyboy
+False
+Shmeeli vs. Kalvar
+False
+Shmeeli vs. lint
+False
+Shmeeli vs. Tiramisu
+False
+Shmeeli vs. Palika
+False
+Shmeeli vs. Thumbs
+False
+Shmeeli vs. BigJoig
+False
+Shmeeli vs. Warmmer
+False
+Shmeeli vs. DrLobster
+False
+Shmeeli vs. WAS | Ok
+False
+Shmeeli vs. Clutch
+False
+Shmeeli vs. Ses
+False
+Shmeeli vs. M. Peacecraft
+False
+Shmeeli vs. Project
+False
+Shmeeli vs. GWM420
+True
+Shmeeli vs. Rasen
+False
+Shmeeli vs. bonfire10
+False
+Shmeeli vs. glock in my toyota
+False
+Shmeeli vs. Golden
+False
+Shmeeli vs. CNIU
+False
+Shmeeli vs. Guillotine
+False
+Shmeeli vs. Shuffle
+False
+Shmeeli vs. TimTheGuy
+True
+Shmeeli vs. Kikoho
+False
+Shmeeli vs. DrewNG
+False
+Shmeeli vs. Arty
+False
+Shmeeli vs. JNaut
+False
+Shmeeli vs. Artelind
+False
+Shmeeli vs. Meep
+False
+Shmeeli vs. RyuCloud
+False
+Shmeeli vs. Guex
+False
+Shmeeli vs. Trail
+False
+Shmeeli vs. Silver
+False
+Shmeeli vs. Dimension
+True
+Shmeeli vs. Yasu
+True
+Shmeeli vs. Mr. Heat
+True
+Shmeeli vs. Swoosh$
+False
+Shmeeli vs. Unlucky
+False
+Shmeeli vs. 99 Woodcutting
+False
+Shmeeli vs. Bank
+False
+Shmeeli vs. Spiff
+False
+Shmeeli vs. Scooby
+False
+Shmeeli vs. PJ
+True
+Shmeeli vs. Feo
+False
+Shmeeli vs. BonkCushy
+True
+Shmeeli vs. Hysteric
+False
+Shmeeli vs. Ferox
+False
+Shmeeli vs. PSai
+False
+Shmeeli vs. Admiral Zhao
+False
+Shmeeli vs. Glasper
+True
+Shmeeli vs. F4X
+False
+Shmeeli vs. Twisty
+False
+Shmeeli vs. Ted Greene
+True
+Shmeeli vs. NotMe
+False
+Shmeeli vs. Alt
+False
+Shmeeli vs. Stacy's Stepdad
+False
+Shmeeli vs. Louis
+False
+Shmeeli vs. Lochist
+False
+Swoosh$ vs. Slox
+False
+Swoosh$ vs. Joyboy
+False
+Swoosh$ vs. Kalvar
+False
+Swoosh$ vs. lint
+False
+Swoosh$ vs. Tiramisu
+False
+Swoosh$ vs. Palika
+False
+Swoosh$ vs. Thumbs
+False
+Swoosh$ vs. BigJoig
+False
+Swoosh$ vs. Warmmer
+False
+Swoosh$ vs. DrLobster
+False
+Swoosh$ vs. WAS | Ok
+False
+Swoosh$ vs. Clutch
+False
+Swoosh$ vs. Ses
+False
+Swoosh$ vs. M. Peacecraft
+False
+Swoosh$ vs. Project
+False
+Swoosh$ vs. GWM420
+False
+Swoosh$ vs. Rasen
+False
+Swoosh$ vs. bonfire10
+False
+Swoosh$ vs. glock in my toyota
+False
+Swoosh$ vs. Golden
+False
+Swoosh$ vs. CNIU
+False
+Swoosh$ vs. Guillotine
+False
+Swoosh$ vs. Shuffle
+False
+Swoosh$ vs. TimTheGuy
+False
+Swoosh$ vs. Kikoho
+False
+Swoosh$ vs. DrewNG
+False
+Swoosh$ vs. Arty
+False
+Swoosh$ vs. JNaut
+False
+Swoosh$ vs. Artelind
+False
+Swoosh$ vs. Meep
+False
+Swoosh$ vs. RyuCloud
+False
+Swoosh$ vs. Guex
+False
+Swoosh$ vs. Trail
+False
+Swoosh$ vs. Silver
+False
+Swoosh$ vs. Dimension
+False
+Swoosh$ vs. Yasu
+False
+Swoosh$ vs. Mr. Heat
+False
+Swoosh$ vs. Shmeeli
+False
+Swoosh$ vs. Unlucky
+False
+Swoosh$ vs. 99 Woodcutting
+False
+Swoosh$ vs. Bank
+False
+Swoosh$ vs. Spiff
+True
+Swoosh$ vs. Scooby
+False
+Swoosh$ vs. PJ
+False
+Swoosh$ vs. Feo
+False
+Swoosh$ vs. BonkCushy
+False
+Swoosh$ vs. Hysteric
+False
+Swoosh$ vs. Ferox
+False
+Swoosh$ vs. PSai
+False
+Swoosh$ vs. Admiral Zhao
+False
+Swoosh$ vs. Glasper
+True
+Swoosh$ vs. F4X
+False
+Swoosh$ vs. Twisty
+False
+Swoosh$ vs. Ted Greene
+False
+Swoosh$ vs. NotMe
+False
+Swoosh$ vs. Alt
+False
+Swoosh$ vs. Stacy's Stepdad
+False
+Swoosh$ vs. Louis
+False
+Swoosh$ vs. Lochist
+False
+Unlucky vs. Slox
+False
+Unlucky vs. Joyboy
+False
+Unlucky vs. Kalvar
+False
+Unlucky vs. lint
+False
+Unlucky vs. Tiramisu
+False
+Unlucky vs. Palika
+False
+Unlucky vs. Thumbs
+False
+Unlucky vs. BigJoig
+True
+Unlucky vs. Warmmer
+False
+Unlucky vs. DrLobster
+False
+Unlucky vs. WAS | Ok
+False
+Unlucky vs. Clutch
+True
+Unlucky vs. Ses
+False
+Unlucky vs. M. Peacecraft
+False
+Unlucky vs. Project
+False
+Unlucky vs. GWM420
+False
+Unlucky vs. Rasen
+False
+Unlucky vs. bonfire10
+False
+Unlucky vs. glock in my toyota
+False
+Unlucky vs. Golden
+False
+Unlucky vs. CNIU
+False
+Unlucky vs. Guillotine
+False
+Unlucky vs. Shuffle
+False
+Unlucky vs. TimTheGuy
+False
+Unlucky vs. Kikoho
+False
+Unlucky vs. DrewNG
+False
+Unlucky vs. Arty
+False
+Unlucky vs. JNaut
+False
+Unlucky vs. Artelind
+False
+Unlucky vs. Meep
+False
+Unlucky vs. RyuCloud
+False
+Unlucky vs. Guex
+False
+Unlucky vs. Trail
+False
+Unlucky vs. Silver
+False
+Unlucky vs. Dimension
+False
+Unlucky vs. Yasu
+False
+Unlucky vs. Mr. Heat
+True
+Unlucky vs. Shmeeli
+False
+Unlucky vs. Swoosh$
+False
+Unlucky vs. 99 Woodcutting
+True
+Unlucky vs. Bank
+False
+Unlucky vs. Spiff
+True
+Unlucky vs. Scooby
+True
+Unlucky vs. PJ
+True
+Unlucky vs. Feo
+False
+Unlucky vs. BonkCushy
+True
+Unlucky vs. Hysteric
+False
+Unlucky vs. Ferox
+True
+Unlucky vs. PSai
+False
+Unlucky vs. Admiral Zhao
+True
+Unlucky vs. Glasper
+True
+Unlucky vs. F4X
+False
+Unlucky vs. Twisty
+True
+Unlucky vs. Ted Greene
+False
+Unlucky vs. NotMe
+True
+Unlucky vs. Alt
+False
+Unlucky vs. Stacy's Stepdad
+True
+Unlucky vs. Louis
+False
+Unlucky vs. Lochist
+False
+99 Woodcutting vs. Slox
+False
+99 Woodcutting vs. Joyboy
+False
+99 Woodcutting vs. Kalvar
+False
+99 Woodcutting vs. lint
+False
+99 Woodcutting vs. Tiramisu
+True
+99 Woodcutting vs. Palika
+False
+99 Woodcutting vs. Thumbs
+False
+99 Woodcutting vs. BigJoig
+True
+99 Woodcutting vs. Warmmer
+True
+99 Woodcutting vs. DrLobster
+True
+99 Woodcutting vs. WAS | Ok
+False
+99 Woodcutting vs. Clutch
+True
+99 Woodcutting vs. Ses
+False
+99 Woodcutting vs. M. Peacecraft
+False
+99 Woodcutting vs. Project
+False
+99 Woodcutting vs. GWM420
+False
+99 Woodcutting vs. Rasen
+False
+99 Woodcutting vs. bonfire10
+True
+99 Woodcutting vs. glock in my toyota
+False
+99 Woodcutting vs. Golden
+False
+99 Woodcutting vs. CNIU
+False
+99 Woodcutting vs. Guillotine
+False
+99 Woodcutting vs. Shuffle
+True
+99 Woodcutting vs. TimTheGuy
+True
+99 Woodcutting vs. Kikoho
+False
+99 Woodcutting vs. DrewNG
+False
+99 Woodcutting vs. Arty
+False
+99 Woodcutting vs. JNaut
+True
+99 Woodcutting vs. Artelind
+False
+99 Woodcutting vs. Meep
+False
+99 Woodcutting vs. RyuCloud
+False
+99 Woodcutting vs. Guex
+False
+99 Woodcutting vs. Trail
+False
+99 Woodcutting vs. Silver
+False
+99 Woodcutting vs. Dimension
+True
+99 Woodcutting vs. Yasu
+True
+99 Woodcutting vs. Mr. Heat
+True
+99 Woodcutting vs. Shmeeli
+False
+99 Woodcutting vs. Swoosh$
+False
+99 Woodcutting vs. Unlucky
+True
+99 Woodcutting vs. Bank
+True
+99 Woodcutting vs. Spiff
+True
+99 Woodcutting vs. Scooby
+True
+99 Woodcutting vs. PJ
+True
+99 Woodcutting vs. Feo
+False
+99 Woodcutting vs. BonkCushy
+True
+99 Woodcutting vs. Hysteric
+False
+99 Woodcutting vs. Ferox
+True
+99 Woodcutting vs. PSai
+False
+99 Woodcutting vs. Admiral Zhao
+True
+99 Woodcutting vs. Glasper
+True
+99 Woodcutting vs. F4X
+False
+99 Woodcutting vs. Twisty
+True
+99 Woodcutting vs. Ted Greene
+True
+99 Woodcutting vs. NotMe
+True
+99 Woodcutting vs. Alt
+True
+99 Woodcutting vs. Stacy's Stepdad
+False
+99 Woodcutting vs. Louis
+False
+99 Woodcutting vs. Lochist
+False
+Bank vs. Slox
+True
+Bank vs. Joyboy
+True
+Bank vs. Kalvar
+True
+Bank vs. lint
+False
+Bank vs. Tiramisu
+True
+Bank vs. Palika
+False
+Bank vs. Thumbs
+False
+Bank vs. BigJoig
+True
+Bank vs. Warmmer
+False
+Bank vs. DrLobster
+False
+Bank vs. WAS | Ok
+False
+Bank vs. Clutch
+False
+Bank vs. Ses
+False
+Bank vs. M. Peacecraft
+False
+Bank vs. Project
+False
+Bank vs. GWM420
+False
+Bank vs. Rasen
+True
+Bank vs. bonfire10
+False
+Bank vs. glock in my toyota
+True
+Bank vs. Golden
+True
+Bank vs. CNIU
+False
+Bank vs. Guillotine
+False
+Bank vs. Shuffle
+False
+Bank vs. TimTheGuy
+False
+Bank vs. Kikoho
+False
+Bank vs. DrewNG
+False
+Bank vs. Arty
+False
+Bank vs. JNaut
+True
+Bank vs. Artelind
+True
+Bank vs. Meep
+False
+Bank vs. RyuCloud
+False
+Bank vs. Guex
+True
+Bank vs. Trail
+False
+Bank vs. Silver
+False
+Bank vs. Dimension
+False
+Bank vs. Yasu
+True
+Bank vs. Mr. Heat
+True
+Bank vs. Shmeeli
+False
+Bank vs. Swoosh$
+False
+Bank vs. Unlucky
+False
+Bank vs. 99 Woodcutting
+True
+Bank vs. Spiff
+True
+Bank vs. Scooby
+True
+Bank vs. PJ
+False
+Bank vs. Feo
+False
+Bank vs. BonkCushy
+True
+Bank vs. Hysteric
+True
+Bank vs. Ferox
+True
+Bank vs. PSai
+False
+Bank vs. Admiral Zhao
+True
+Bank vs. Glasper
+True
+Bank vs. F4X
+False
+Bank vs. Twisty
+False
+Bank vs. Ted Greene
+False
+Bank vs. NotMe
+False
+Bank vs. Alt
+False
+Bank vs. Stacy's Stepdad
+False
+Bank vs. Louis
+False
+Bank vs. Lochist
+False
+Spiff vs. Slox
+False
+Spiff vs. Joyboy
+False
+Spiff vs. Kalvar
+True
+Spiff vs. lint
+False
+Spiff vs. Tiramisu
+True
+Spiff vs. Palika
+False
+Spiff vs. Thumbs
+False
+Spiff vs. BigJoig
+False
+Spiff vs. Warmmer
+False
+Spiff vs. DrLobster
+False
+Spiff vs. WAS | Ok
+False
+Spiff vs. Clutch
+True
+Spiff vs. Ses
+False
+Spiff vs. M. Peacecraft
+False
+Spiff vs. Project
+True
+Spiff vs. GWM420
+True
+Spiff vs. Rasen
+True
+Spiff vs. bonfire10
+False
+Spiff vs. glock in my toyota
+False
+Spiff vs. Golden
+False
+Spiff vs. CNIU
+False
+Spiff vs. Guillotine
+True
+Spiff vs. Shuffle
+False
+Spiff vs. TimTheGuy
+True
+Spiff vs. Kikoho
+False
+Spiff vs. DrewNG
+False
+Spiff vs. Arty
+False
+Spiff vs. JNaut
+False
+Spiff vs. Artelind
+False
+Spiff vs. Meep
+False
+Spiff vs. RyuCloud
+False
+Spiff vs. Guex
+True
+Spiff vs. Trail
+False
+Spiff vs. Silver
+False
+Spiff vs. Dimension
+True
+Spiff vs. Yasu
+True
+Spiff vs. Mr. Heat
+True
+Spiff vs. Shmeeli
+False
+Spiff vs. Swoosh$
+True
+Spiff vs. Unlucky
+True
+Spiff vs. 99 Woodcutting
+True
+Spiff vs. Bank
+True
+Spiff vs. Scooby
+True
+Spiff vs. PJ
+True
+Spiff vs. Feo
+False
+Spiff vs. BonkCushy
+False
+Spiff vs. Hysteric
+True
+Spiff vs. Ferox
+True
+Spiff vs. PSai
+False
+Spiff vs. Admiral Zhao
+True
+Spiff vs. Glasper
+True
+Spiff vs. F4X
+False
+Spiff vs. Twisty
+True
+Spiff vs. Ted Greene
+True
+Spiff vs. NotMe
+False
+Spiff vs. Alt
+False
+Spiff vs. Stacy's Stepdad
+False
+Spiff vs. Louis
+False
+Spiff vs. Lochist
+False
+Scooby vs. Slox
+False
+Scooby vs. Joyboy
+True
+Scooby vs. Kalvar
+True
+Scooby vs. lint
+True
+Scooby vs. Tiramisu
+False
+Scooby vs. Palika
+False
+Scooby vs. Thumbs
+False
+Scooby vs. BigJoig
+False
+Scooby vs. Warmmer
+False
+Scooby vs. DrLobster
+True
+Scooby vs. WAS | Ok
+True
+Scooby vs. Clutch
+True
+Scooby vs. Ses
+False
+Scooby vs. M. Peacecraft
+False
+Scooby vs. Project
+True
+Scooby vs. GWM420
+True
+Scooby vs. Rasen
+True
+Scooby vs. bonfire10
+True
+Scooby vs. glock in my toyota
+True
+Scooby vs. Golden
+False
+Scooby vs. CNIU
+False
+Scooby vs. Guillotine
+True
+Scooby vs. Shuffle
+False
+Scooby vs. TimTheGuy
+True
+Scooby vs. Kikoho
+False
+Scooby vs. DrewNG
+False
+Scooby vs. Arty
+False
+Scooby vs. JNaut
+False
+Scooby vs. Artelind
+True
+Scooby vs. Meep
+False
+Scooby vs. RyuCloud
+False
+Scooby vs. Guex
+True
+Scooby vs. Trail
+False
+Scooby vs. Silver
+True
+Scooby vs. Dimension
+True
+Scooby vs. Yasu
+False
+Scooby vs. Mr. Heat
+True
+Scooby vs. Shmeeli
+False
+Scooby vs. Swoosh$
+False
+Scooby vs. Unlucky
+True
+Scooby vs. 99 Woodcutting
+True
+Scooby vs. Bank
+True
+Scooby vs. Spiff
+True
+Scooby vs. PJ
+True
+Scooby vs. Feo
+False
+Scooby vs. BonkCushy
+True
+Scooby vs. Hysteric
+True
+Scooby vs. Ferox
+True
+Scooby vs. PSai
+False
+Scooby vs. Admiral Zhao
+True
+Scooby vs. Glasper
+True
+Scooby vs. F4X
+False
+Scooby vs. Twisty
+True
+Scooby vs. Ted Greene
+True
+Scooby vs. NotMe
+False
+Scooby vs. Alt
+True
+Scooby vs. Stacy's Stepdad
+True
+Scooby vs. Louis
+False
+Scooby vs. Lochist
+False
+PJ vs. Slox
+False
+PJ vs. Joyboy
+True
+PJ vs. Kalvar
+False
+PJ vs. lint
+False
+PJ vs. Tiramisu
+False
+PJ vs. Palika
+False
+PJ vs. Thumbs
+False
+PJ vs. BigJoig
+False
+PJ vs. Warmmer
+False
+PJ vs. DrLobster
+False
+PJ vs. WAS | Ok
+False
+PJ vs. Clutch
+False
+PJ vs. Ses
+False
+PJ vs. M. Peacecraft
+False
+PJ vs. Project
+False
+PJ vs. GWM420
+False
+PJ vs. Rasen
+False
+PJ vs. bonfire10
+False
+PJ vs. glock in my toyota
+False
+PJ vs. Golden
+False
+PJ vs. CNIU
+False
+PJ vs. Guillotine
+False
+PJ vs. Shuffle
+False
+PJ vs. TimTheGuy
+False
+PJ vs. Kikoho
+False
+PJ vs. DrewNG
+False
+PJ vs. Arty
+False
+PJ vs. JNaut
+True
+PJ vs. Artelind
+False
+PJ vs. Meep
+False
+PJ vs. RyuCloud
+False
+PJ vs. Guex
+False
+PJ vs. Trail
+False
+PJ vs. Silver
+False
+PJ vs. Dimension
+False
+PJ vs. Yasu
+True
+PJ vs. Mr. Heat
+False
+PJ vs. Shmeeli
+True
+PJ vs. Swoosh$
+False
+PJ vs. Unlucky
+True
+PJ vs. 99 Woodcutting
+True
+PJ vs. Bank
+False
+PJ vs. Spiff
+True
+PJ vs. Scooby
+True
+PJ vs. Feo
+False
+PJ vs. BonkCushy
+True
+PJ vs. Hysteric
+True
+PJ vs. Ferox
+True
+PJ vs. PSai
+False
+PJ vs. Admiral Zhao
+False
+PJ vs. Glasper
+False
+PJ vs. F4X
+False
+PJ vs. Twisty
+True
+PJ vs. Ted Greene
+False
+PJ vs. NotMe
+True
+PJ vs. Alt
+False
+PJ vs. Stacy's Stepdad
+False
+PJ vs. Louis
+False
+PJ vs. Lochist
+False
+Feo vs. Slox
+False
+Feo vs. Joyboy
+False
+Feo vs. Kalvar
+False
+Feo vs. lint
+False
+Feo vs. Tiramisu
+False
+Feo vs. Palika
+False
+Feo vs. Thumbs
+False
+Feo vs. BigJoig
+False
+Feo vs. Warmmer
+False
+Feo vs. DrLobster
+False
+Feo vs. WAS | Ok
+False
+Feo vs. Clutch
+False
+Feo vs. Ses
+False
+Feo vs. M. Peacecraft
+False
+Feo vs. Project
+False
+Feo vs. GWM420
+False
+Feo vs. Rasen
+False
+Feo vs. bonfire10
+False
+Feo vs. glock in my toyota
+False
+Feo vs. Golden
+False
+Feo vs. CNIU
+False
+Feo vs. Guillotine
+False
+Feo vs. Shuffle
+False
+Feo vs. TimTheGuy
+False
+Feo vs. Kikoho
+False
+Feo vs. DrewNG
+False
+Feo vs. Arty
+False
+Feo vs. JNaut
+False
+Feo vs. Artelind
+False
+Feo vs. Meep
+False
+Feo vs. RyuCloud
+False
+Feo vs. Guex
+False
+Feo vs. Trail
+False
+Feo vs. Silver
+False
+Feo vs. Dimension
+False
+Feo vs. Yasu
+False
+Feo vs. Mr. Heat
+True
+Feo vs. Shmeeli
+False
+Feo vs. Swoosh$
+False
+Feo vs. Unlucky
+False
+Feo vs. 99 Woodcutting
+False
+Feo vs. Bank
+False
+Feo vs. Spiff
+False
+Feo vs. Scooby
+False
+Feo vs. PJ
+False
+Feo vs. BonkCushy
+False
+Feo vs. Hysteric
+False
+Feo vs. Ferox
+False
+Feo vs. PSai
+False
+Feo vs. Admiral Zhao
+False
+Feo vs. Glasper
+False
+Feo vs. F4X
+False
+Feo vs. Twisty
+False
+Feo vs. Ted Greene
+False
+Feo vs. NotMe
+False
+Feo vs. Alt
+False
+Feo vs. Stacy's Stepdad
+False
+Feo vs. Louis
+False
+Feo vs. Lochist
+False
+BonkCushy vs. Slox
+True
+BonkCushy vs. Joyboy
+True
+BonkCushy vs. Kalvar
+True
+BonkCushy vs. lint
+False
+BonkCushy vs. Tiramisu
+True
+BonkCushy vs. Palika
+False
+BonkCushy vs. Thumbs
+False
+BonkCushy vs. BigJoig
+False
+BonkCushy vs. Warmmer
+False
+BonkCushy vs. DrLobster
+False
+BonkCushy vs. WAS | Ok
+False
+BonkCushy vs. Clutch
+True
+BonkCushy vs. Ses
+False
+BonkCushy vs. M. Peacecraft
+False
+BonkCushy vs. Project
+True
+BonkCushy vs. GWM420
+True
+BonkCushy vs. Rasen
+True
+BonkCushy vs. bonfire10
+False
+BonkCushy vs. glock in my toyota
+False
+BonkCushy vs. Golden
+False
+BonkCushy vs. CNIU
+False
+BonkCushy vs. Guillotine
+False
+BonkCushy vs. Shuffle
+False
+BonkCushy vs. TimTheGuy
+True
+BonkCushy vs. Kikoho
+False
+BonkCushy vs. DrewNG
+False
+BonkCushy vs. Arty
+False
+BonkCushy vs. JNaut
+False
+BonkCushy vs. Artelind
+False
+BonkCushy vs. Meep
+False
+BonkCushy vs. RyuCloud
+False
+BonkCushy vs. Guex
+True
+BonkCushy vs. Trail
+False
+BonkCushy vs. Silver
+True
+BonkCushy vs. Dimension
+True
+BonkCushy vs. Yasu
+False
+BonkCushy vs. Mr. Heat
+True
+BonkCushy vs. Shmeeli
+True
+BonkCushy vs. Swoosh$
+False
+BonkCushy vs. Unlucky
+True
+BonkCushy vs. 99 Woodcutting
+True
+BonkCushy vs. Bank
+True
+BonkCushy vs. Spiff
+False
+BonkCushy vs. Scooby
+True
+BonkCushy vs. PJ
+True
+BonkCushy vs. Feo
+False
+BonkCushy vs. Hysteric
+True
+BonkCushy vs. Ferox
+False
+BonkCushy vs. PSai
+False
+BonkCushy vs. Admiral Zhao
+True
+BonkCushy vs. Glasper
+True
+BonkCushy vs. F4X
+False
+BonkCushy vs. Twisty
+False
+BonkCushy vs. Ted Greene
+False
+BonkCushy vs. NotMe
+False
+BonkCushy vs. Alt
+False
+BonkCushy vs. Stacy's Stepdad
+False
+BonkCushy vs. Louis
+False
+BonkCushy vs. Lochist
+False
+Hysteric vs. Slox
+False
+Hysteric vs. Joyboy
+True
+Hysteric vs. Kalvar
+False
+Hysteric vs. lint
+False
+Hysteric vs. Tiramisu
+True
+Hysteric vs. Palika
+False
+Hysteric vs. Thumbs
+False
+Hysteric vs. BigJoig
+False
+Hysteric vs. Warmmer
+False
+Hysteric vs. DrLobster
+False
+Hysteric vs. WAS | Ok
+False
+Hysteric vs. Clutch
+False
+Hysteric vs. Ses
+False
+Hysteric vs. M. Peacecraft
+False
+Hysteric vs. Project
+True
+Hysteric vs. GWM420
+True
+Hysteric vs. Rasen
+True
+Hysteric vs. bonfire10
+False
+Hysteric vs. glock in my toyota
+False
+Hysteric vs. Golden
+False
+Hysteric vs. CNIU
+False
+Hysteric vs. Guillotine
+False
+Hysteric vs. Shuffle
+False
+Hysteric vs. TimTheGuy
+True
+Hysteric vs. Kikoho
+False
+Hysteric vs. DrewNG
+False
+Hysteric vs. Arty
+True
+Hysteric vs. JNaut
+True
+Hysteric vs. Artelind
+False
+Hysteric vs. Meep
+False
+Hysteric vs. RyuCloud
+False
+Hysteric vs. Guex
+False
+Hysteric vs. Trail
+False
+Hysteric vs. Silver
+False
+Hysteric vs. Dimension
+True
+Hysteric vs. Yasu
+False
+Hysteric vs. Mr. Heat
+False
+Hysteric vs. Shmeeli
+False
+Hysteric vs. Swoosh$
+False
+Hysteric vs. Unlucky
+False
+Hysteric vs. 99 Woodcutting
+False
+Hysteric vs. Bank
+True
+Hysteric vs. Spiff
+True
+Hysteric vs. Scooby
+True
+Hysteric vs. PJ
+True
+Hysteric vs. Feo
+False
+Hysteric vs. BonkCushy
+True
+Hysteric vs. Ferox
+True
+Hysteric vs. PSai
+False
+Hysteric vs. Admiral Zhao
+True
+Hysteric vs. Glasper
+True
+Hysteric vs. F4X
+False
+Hysteric vs. Twisty
+True
+Hysteric vs. Ted Greene
+False
+Hysteric vs. NotMe
+False
+Hysteric vs. Alt
+True
+Hysteric vs. Stacy's Stepdad
+False
+Hysteric vs. Louis
+False
+Hysteric vs. Lochist
+False
+Ferox vs. Slox
+False
+Ferox vs. Joyboy
+True
+Ferox vs. Kalvar
+True
+Ferox vs. lint
+False
+Ferox vs. Tiramisu
+False
+Ferox vs. Palika
+False
+Ferox vs. Thumbs
+False
+Ferox vs. BigJoig
+True
+Ferox vs. Warmmer
+False
+Ferox vs. DrLobster
+False
+Ferox vs. WAS | Ok
+True
+Ferox vs. Clutch
+False
+Ferox vs. Ses
+True
+Ferox vs. M. Peacecraft
+False
+Ferox vs. Project
+False
+Ferox vs. GWM420
+True
+Ferox vs. Rasen
+True
+Ferox vs. bonfire10
+False
+Ferox vs. glock in my toyota
+True
+Ferox vs. Golden
+False
+Ferox vs. CNIU
+False
+Ferox vs. Guillotine
+True
+Ferox vs. Shuffle
+False
+Ferox vs. TimTheGuy
+False
+Ferox vs. Kikoho
+False
+Ferox vs. DrewNG
+False
+Ferox vs. Arty
+False
+Ferox vs. JNaut
+False
+Ferox vs. Artelind
+False
+Ferox vs. Meep
+False
+Ferox vs. RyuCloud
+False
+Ferox vs. Guex
+True
+Ferox vs. Trail
+False
+Ferox vs. Silver
+False
+Ferox vs. Dimension
+False
+Ferox vs. Yasu
+True
+Ferox vs. Mr. Heat
+False
+Ferox vs. Shmeeli
+False
+Ferox vs. Swoosh$
+False
+Ferox vs. Unlucky
+True
+Ferox vs. 99 Woodcutting
+True
+Ferox vs. Bank
+True
+Ferox vs. Spiff
+True
+Ferox vs. Scooby
+True
+Ferox vs. PJ
+True
+Ferox vs. Feo
+False
+Ferox vs. BonkCushy
+False
+Ferox vs. Hysteric
+True
+Ferox vs. PSai
+False
+Ferox vs. Admiral Zhao
+False
+Ferox vs. Glasper
+True
+Ferox vs. F4X
+False
+Ferox vs. Twisty
+True
+Ferox vs. Ted Greene
+True
+Ferox vs. NotMe
+False
+Ferox vs. Alt
+False
+Ferox vs. Stacy's Stepdad
+False
+Ferox vs. Louis
+False
+Ferox vs. Lochist
+False
+PSai vs. Slox
+False
+PSai vs. Joyboy
+False
+PSai vs. Kalvar
+False
+PSai vs. lint
+False
+PSai vs. Tiramisu
+False
+PSai vs. Palika
+False
+PSai vs. Thumbs
+False
+PSai vs. BigJoig
+False
+PSai vs. Warmmer
+False
+PSai vs. DrLobster
+False
+PSai vs. WAS | Ok
+False
+PSai vs. Clutch
+False
+PSai vs. Ses
+False
+PSai vs. M. Peacecraft
+False
+PSai vs. Project
+False
+PSai vs. GWM420
+False
+PSai vs. Rasen
+False
+PSai vs. bonfire10
+False
+PSai vs. glock in my toyota
+False
+PSai vs. Golden
+False
+PSai vs. CNIU
+False
+PSai vs. Guillotine
+False
+PSai vs. Shuffle
+False
+PSai vs. TimTheGuy
+False
+PSai vs. Kikoho
+False
+PSai vs. DrewNG
+False
+PSai vs. Arty
+False
+PSai vs. JNaut
+False
+PSai vs. Artelind
+False
+PSai vs. Meep
+False
+PSai vs. RyuCloud
+False
+PSai vs. Guex
+False
+PSai vs. Trail
+False
+PSai vs. Silver
+False
+PSai vs. Dimension
+True
+PSai vs. Yasu
+False
+PSai vs. Mr. Heat
+False
+PSai vs. Shmeeli
+False
+PSai vs. Swoosh$
+False
+PSai vs. Unlucky
+False
+PSai vs. 99 Woodcutting
+False
+PSai vs. Bank
+False
+PSai vs. Spiff
+False
+PSai vs. Scooby
+False
+PSai vs. PJ
+False
+PSai vs. Feo
+False
+PSai vs. BonkCushy
+False
+PSai vs. Hysteric
+False
+PSai vs. Ferox
+False
+PSai vs. Admiral Zhao
+True
+PSai vs. Glasper
+False
+PSai vs. F4X
+False
+PSai vs. Twisty
+False
+PSai vs. Ted Greene
+False
+PSai vs. NotMe
+False
+PSai vs. Alt
+False
+PSai vs. Stacy's Stepdad
+False
+PSai vs. Louis
+False
+PSai vs. Lochist
+False
+Admiral Zhao vs. Slox
+True
+Admiral Zhao vs. Joyboy
+False
+Admiral Zhao vs. Kalvar
+False
+Admiral Zhao vs. lint
+False
+Admiral Zhao vs. Tiramisu
+False
+Admiral Zhao vs. Palika
+False
+Admiral Zhao vs. Thumbs
+False
+Admiral Zhao vs. BigJoig
+False
+Admiral Zhao vs. Warmmer
+False
+Admiral Zhao vs. DrLobster
+False
+Admiral Zhao vs. WAS | Ok
+False
+Admiral Zhao vs. Clutch
+False
+Admiral Zhao vs. Ses
+False
+Admiral Zhao vs. M. Peacecraft
+False
+Admiral Zhao vs. Project
+False
+Admiral Zhao vs. GWM420
+True
+Admiral Zhao vs. Rasen
+True
+Admiral Zhao vs. bonfire10
+False
+Admiral Zhao vs. glock in my toyota
+True
+Admiral Zhao vs. Golden
+False
+Admiral Zhao vs. CNIU
+False
+Admiral Zhao vs. Guillotine
+False
+Admiral Zhao vs. Shuffle
+False
+Admiral Zhao vs. TimTheGuy
+False
+Admiral Zhao vs. Kikoho
+False
+Admiral Zhao vs. DrewNG
+False
+Admiral Zhao vs. Arty
+False
+Admiral Zhao vs. JNaut
+False
+Admiral Zhao vs. Artelind
+False
+Admiral Zhao vs. Meep
+False
+Admiral Zhao vs. RyuCloud
+False
+Admiral Zhao vs. Guex
+True
+Admiral Zhao vs. Trail
+False
+Admiral Zhao vs. Silver
+False
+Admiral Zhao vs. Dimension
+False
+Admiral Zhao vs. Yasu
+True
+Admiral Zhao vs. Mr. Heat
+False
+Admiral Zhao vs. Shmeeli
+False
+Admiral Zhao vs. Swoosh$
+False
+Admiral Zhao vs. Unlucky
+True
+Admiral Zhao vs. 99 Woodcutting
+True
+Admiral Zhao vs. Bank
+True
+Admiral Zhao vs. Spiff
+True
+Admiral Zhao vs. Scooby
+True
+Admiral Zhao vs. PJ
+False
+Admiral Zhao vs. Feo
+False
+Admiral Zhao vs. BonkCushy
+True
+Admiral Zhao vs. Hysteric
+True
+Admiral Zhao vs. Ferox
+False
+Admiral Zhao vs. PSai
+True
+Admiral Zhao vs. Glasper
+True
+Admiral Zhao vs. F4X
+False
+Admiral Zhao vs. Twisty
+True
+Admiral Zhao vs. Ted Greene
+False
+Admiral Zhao vs. NotMe
+False
+Admiral Zhao vs. Alt
+True
+Admiral Zhao vs. Stacy's Stepdad
+True
+Admiral Zhao vs. Louis
+False
+Admiral Zhao vs. Lochist
+False
+Glasper vs. Slox
+True
+Glasper vs. Joyboy
+False
+Glasper vs. Kalvar
+True
+Glasper vs. lint
+False
+Glasper vs. Tiramisu
+False
+Glasper vs. Palika
+True
+Glasper vs. Thumbs
+False
+Glasper vs. BigJoig
+False
+Glasper vs. Warmmer
+False
+Glasper vs. DrLobster
+False
+Glasper vs. WAS | Ok
+False
+Glasper vs. Clutch
+True
+Glasper vs. Ses
+False
+Glasper vs. M. Peacecraft
+False
+Glasper vs. Project
+False
+Glasper vs. GWM420
+True
+Glasper vs. Rasen
+False
+Glasper vs. bonfire10
+False
+Glasper vs. glock in my toyota
+False
+Glasper vs. Golden
+True
+Glasper vs. CNIU
+False
+Glasper vs. Guillotine
+False
+Glasper vs. Shuffle
+False
+Glasper vs. TimTheGuy
+False
+Glasper vs. Kikoho
+False
+Glasper vs. DrewNG
+False
+Glasper vs. Arty
+False
+Glasper vs. JNaut
+True
+Glasper vs. Artelind
+False
+Glasper vs. Meep
+False
+Glasper vs. RyuCloud
+False
+Glasper vs. Guex
+False
+Glasper vs. Trail
+False
+Glasper vs. Silver
+False
+Glasper vs. Dimension
+True
+Glasper vs. Yasu
+True
+Glasper vs. Mr. Heat
+True
+Glasper vs. Shmeeli
+True
+Glasper vs. Swoosh$
+True
+Glasper vs. Unlucky
+True
+Glasper vs. 99 Woodcutting
+True
+Glasper vs. Bank
+True
+Glasper vs. Spiff
+True
+Glasper vs. Scooby
+True
+Glasper vs. PJ
+False
+Glasper vs. Feo
+False
+Glasper vs. BonkCushy
+True
+Glasper vs. Hysteric
+True
+Glasper vs. Ferox
+True
+Glasper vs. PSai
+False
+Glasper vs. Admiral Zhao
+True
+Glasper vs. F4X
+False
+Glasper vs. Twisty
+False
+Glasper vs. Ted Greene
+True
+Glasper vs. NotMe
+True
+Glasper vs. Alt
+True
+Glasper vs. Stacy's Stepdad
+True
+Glasper vs. Louis
+False
+Glasper vs. Lochist
+False
+F4X vs. Slox
+False
+F4X vs. Joyboy
+False
+F4X vs. Kalvar
+False
+F4X vs. lint
+False
+F4X vs. Tiramisu
+False
+F4X vs. Palika
+False
+F4X vs. Thumbs
+False
+F4X vs. BigJoig
+False
+F4X vs. Warmmer
+False
+F4X vs. DrLobster
+False
+F4X vs. WAS | Ok
+False
+F4X vs. Clutch
+True
+F4X vs. Ses
+False
+F4X vs. M. Peacecraft
+False
+F4X vs. Project
+False
+F4X vs. GWM420
+False
+F4X vs. Rasen
+False
+F4X vs. bonfire10
+True
+F4X vs. glock in my toyota
+False
+F4X vs. Golden
+False
+F4X vs. CNIU
+False
+F4X vs. Guillotine
+False
+F4X vs. Shuffle
+False
+F4X vs. TimTheGuy
+False
+F4X vs. Kikoho
+False
+F4X vs. DrewNG
+False
+F4X vs. Arty
+False
+F4X vs. JNaut
+False
+F4X vs. Artelind
+True
+F4X vs. Meep
+False
+F4X vs. RyuCloud
+False
+F4X vs. Guex
+False
+F4X vs. Trail
+False
+F4X vs. Silver
+False
+F4X vs. Dimension
+False
+F4X vs. Yasu
+False
+F4X vs. Mr. Heat
+False
+F4X vs. Shmeeli
+False
+F4X vs. Swoosh$
+False
+F4X vs. Unlucky
+False
+F4X vs. 99 Woodcutting
+False
+F4X vs. Bank
+False
+F4X vs. Spiff
+False
+F4X vs. Scooby
+False
+F4X vs. PJ
+False
+F4X vs. Feo
+False
+F4X vs. BonkCushy
+False
+F4X vs. Hysteric
+False
+F4X vs. Ferox
+False
+F4X vs. PSai
+False
+F4X vs. Admiral Zhao
+False
+F4X vs. Glasper
+False
+F4X vs. Twisty
+False
+F4X vs. Ted Greene
+True
+F4X vs. NotMe
+False
+F4X vs. Alt
+False
+F4X vs. Stacy's Stepdad
+False
+F4X vs. Louis
+False
+F4X vs. Lochist
+False
+Twisty vs. Slox
+True
+Twisty vs. Joyboy
+False
+Twisty vs. Kalvar
+True
+Twisty vs. lint
+False
+Twisty vs. Tiramisu
+True
+Twisty vs. Palika
+False
+Twisty vs. Thumbs
+False
+Twisty vs. BigJoig
+False
+Twisty vs. Warmmer
+False
+Twisty vs. DrLobster
+False
+Twisty vs. WAS | Ok
+False
+Twisty vs. Clutch
+False
+Twisty vs. Ses
+True
+Twisty vs. M. Peacecraft
+False
+Twisty vs. Project
+False
+Twisty vs. GWM420
+False
+Twisty vs. Rasen
+True
+Twisty vs. bonfire10
+False
+Twisty vs. glock in my toyota
+False
+Twisty vs. Golden
+False
+Twisty vs. CNIU
+False
+Twisty vs. Guillotine
+False
+Twisty vs. Shuffle
+False
+Twisty vs. TimTheGuy
+False
+Twisty vs. Kikoho
+False
+Twisty vs. DrewNG
+False
+Twisty vs. Arty
+False
+Twisty vs. JNaut
+True
+Twisty vs. Artelind
+False
+Twisty vs. Meep
+False
+Twisty vs. RyuCloud
+False
+Twisty vs. Guex
+False
+Twisty vs. Trail
+False
+Twisty vs. Silver
+True
+Twisty vs. Dimension
+False
+Twisty vs. Yasu
+False
+Twisty vs. Mr. Heat
+True
+Twisty vs. Shmeeli
+False
+Twisty vs. Swoosh$
+False
+Twisty vs. Unlucky
+True
+Twisty vs. 99 Woodcutting
+True
+Twisty vs. Bank
+False
+Twisty vs. Spiff
+True
+Twisty vs. Scooby
+True
+Twisty vs. PJ
+True
+Twisty vs. Feo
+False
+Twisty vs. BonkCushy
+False
+Twisty vs. Hysteric
+True
+Twisty vs. Ferox
+True
+Twisty vs. PSai
+False
+Twisty vs. Admiral Zhao
+True
+Twisty vs. Glasper
+False
+Twisty vs. F4X
+False
+Twisty vs. Ted Greene
+False
+Twisty vs. NotMe
+False
+Twisty vs. Alt
+True
+Twisty vs. Stacy's Stepdad
+False
+Twisty vs. Louis
+False
+Twisty vs. Lochist
+False
+Ted Greene vs. Slox
+False
+Ted Greene vs. Joyboy
+True
+Ted Greene vs. Kalvar
+True
+Ted Greene vs. lint
+False
+Ted Greene vs. Tiramisu
+False
+Ted Greene vs. Palika
+False
+Ted Greene vs. Thumbs
+False
+Ted Greene vs. BigJoig
+False
+Ted Greene vs. Warmmer
+False
+Ted Greene vs. DrLobster
+False
+Ted Greene vs. WAS | Ok
+False
+Ted Greene vs. Clutch
+False
+Ted Greene vs. Ses
+False
+Ted Greene vs. M. Peacecraft
+False
+Ted Greene vs. Project
+False
+Ted Greene vs. GWM420
+False
+Ted Greene vs. Rasen
+True
+Ted Greene vs. bonfire10
+False
+Ted Greene vs. glock in my toyota
+False
+Ted Greene vs. Golden
+False
+Ted Greene vs. CNIU
+False
+Ted Greene vs. Guillotine
+True
+Ted Greene vs. Shuffle
+True
+Ted Greene vs. TimTheGuy
+True
+Ted Greene vs. Kikoho
+False
+Ted Greene vs. DrewNG
+False
+Ted Greene vs. Arty
+False
+Ted Greene vs. JNaut
+False
+Ted Greene vs. Artelind
+False
+Ted Greene vs. Meep
+False
+Ted Greene vs. RyuCloud
+False
+Ted Greene vs. Guex
+True
+Ted Greene vs. Trail
+False
+Ted Greene vs. Silver
+False
+Ted Greene vs. Dimension
+False
+Ted Greene vs. Yasu
+True
+Ted Greene vs. Mr. Heat
+True
+Ted Greene vs. Shmeeli
+True
+Ted Greene vs. Swoosh$
+False
+Ted Greene vs. Unlucky
+False
+Ted Greene vs. 99 Woodcutting
+True
+Ted Greene vs. Bank
+False
+Ted Greene vs. Spiff
+True
+Ted Greene vs. Scooby
+True
+Ted Greene vs. PJ
+False
+Ted Greene vs. Feo
+False
+Ted Greene vs. BonkCushy
+False
+Ted Greene vs. Hysteric
+False
+Ted Greene vs. Ferox
+True
+Ted Greene vs. PSai
+False
+Ted Greene vs. Admiral Zhao
+False
+Ted Greene vs. Glasper
+True
+Ted Greene vs. F4X
+True
+Ted Greene vs. Twisty
+False
+Ted Greene vs. NotMe
+False
+Ted Greene vs. Alt
+False
+Ted Greene vs. Stacy's Stepdad
+False
+Ted Greene vs. Louis
+False
+Ted Greene vs. Lochist
+False
+NotMe vs. Slox
+False
+NotMe vs. Joyboy
+False
+NotMe vs. Kalvar
+False
+NotMe vs. lint
+False
+NotMe vs. Tiramisu
+False
+NotMe vs. Palika
+False
+NotMe vs. Thumbs
+False
+NotMe vs. BigJoig
+False
+NotMe vs. Warmmer
+False
+NotMe vs. DrLobster
+False
+NotMe vs. WAS | Ok
+False
+NotMe vs. Clutch
+True
+NotMe vs. Ses
+False
+NotMe vs. M. Peacecraft
+False
+NotMe vs. Project
+False
+NotMe vs. GWM420
+False
+NotMe vs. Rasen
+False
+NotMe vs. bonfire10
+False
+NotMe vs. glock in my toyota
+False
+NotMe vs. Golden
+False
+NotMe vs. CNIU
+False
+NotMe vs. Guillotine
+False
+NotMe vs. Shuffle
+False
+NotMe vs. TimTheGuy
+False
+NotMe vs. Kikoho
+False
+NotMe vs. DrewNG
+False
+NotMe vs. Arty
+False
+NotMe vs. JNaut
+False
+NotMe vs. Artelind
+False
+NotMe vs. Meep
+True
+NotMe vs. RyuCloud
+True
+NotMe vs. Guex
+False
+NotMe vs. Trail
+False
+NotMe vs. Silver
+False
+NotMe vs. Dimension
+False
+NotMe vs. Yasu
+True
+NotMe vs. Mr. Heat
+False
+NotMe vs. Shmeeli
+False
+NotMe vs. Swoosh$
+False
+NotMe vs. Unlucky
+True
+NotMe vs. 99 Woodcutting
+True
+NotMe vs. Bank
+False
+NotMe vs. Spiff
+False
+NotMe vs. Scooby
+False
+NotMe vs. PJ
+True
+NotMe vs. Feo
+False
+NotMe vs. BonkCushy
+False
+NotMe vs. Hysteric
+False
+NotMe vs. Ferox
+False
+NotMe vs. PSai
+False
+NotMe vs. Admiral Zhao
+False
+NotMe vs. Glasper
+True
+NotMe vs. F4X
+False
+NotMe vs. Twisty
+False
+NotMe vs. Ted Greene
+False
+NotMe vs. Alt
+False
+NotMe vs. Stacy's Stepdad
+False
+NotMe vs. Louis
+False
+NotMe vs. Lochist
+False
+Alt vs. Slox
+False
+Alt vs. Joyboy
+False
+Alt vs. Kalvar
+True
+Alt vs. lint
+False
+Alt vs. Tiramisu
+False
+Alt vs. Palika
+False
+Alt vs. Thumbs
+False
+Alt vs. BigJoig
+True
+Alt vs. Warmmer
+False
+Alt vs. DrLobster
+True
+Alt vs. WAS | Ok
+False
+Alt vs. Clutch
+False
+Alt vs. Ses
+False
+Alt vs. M. Peacecraft
+False
+Alt vs. Project
+False
+Alt vs. GWM420
+True
+Alt vs. Rasen
+False
+Alt vs. bonfire10
+True
+Alt vs. glock in my toyota
+False
+Alt vs. Golden
+True
+Alt vs. CNIU
+False
+Alt vs. Guillotine
+False
+Alt vs. Shuffle
+False
+Alt vs. TimTheGuy
+False
+Alt vs. Kikoho
+False
+Alt vs. DrewNG
+False
+Alt vs. Arty
+False
+Alt vs. JNaut
+True
+Alt vs. Artelind
+False
+Alt vs. Meep
+False
+Alt vs. RyuCloud
+False
+Alt vs. Guex
+False
+Alt vs. Trail
+False
+Alt vs. Silver
+True
+Alt vs. Dimension
+False
+Alt vs. Yasu
+True
+Alt vs. Mr. Heat
+False
+Alt vs. Shmeeli
+False
+Alt vs. Swoosh$
+False
+Alt vs. Unlucky
+False
+Alt vs. 99 Woodcutting
+True
+Alt vs. Bank
+False
+Alt vs. Spiff
+False
+Alt vs. Scooby
+True
+Alt vs. PJ
+False
+Alt vs. Feo
+False
+Alt vs. BonkCushy
+False
+Alt vs. Hysteric
+True
+Alt vs. Ferox
+False
+Alt vs. PSai
+False
+Alt vs. Admiral Zhao
+True
+Alt vs. Glasper
+True
+Alt vs. F4X
+False
+Alt vs. Twisty
+True
+Alt vs. Ted Greene
+False
+Alt vs. NotMe
+False
+Alt vs. Stacy's Stepdad
+False
+Alt vs. Louis
+False
+Alt vs. Lochist
+False
+Stacy's Stepdad vs. Slox
+False
+Stacy's Stepdad vs. Joyboy
+False
+Stacy's Stepdad vs. Kalvar
+True
+Stacy's Stepdad vs. lint
+True
+Stacy's Stepdad vs. Tiramisu
+False
+Stacy's Stepdad vs. Palika
+True
+Stacy's Stepdad vs. Thumbs
+False
+Stacy's Stepdad vs. BigJoig
+False
+Stacy's Stepdad vs. Warmmer
+True
+Stacy's Stepdad vs. DrLobster
+False
+Stacy's Stepdad vs. WAS | Ok
+False
+Stacy's Stepdad vs. Clutch
+False
+Stacy's Stepdad vs. Ses
+False
+Stacy's Stepdad vs. M. Peacecraft
+False
+Stacy's Stepdad vs. Project
+True
+Stacy's Stepdad vs. GWM420
+False
+Stacy's Stepdad vs. Rasen
+True
+Stacy's Stepdad vs. bonfire10
+True
+Stacy's Stepdad vs. glock in my toyota
+True
+Stacy's Stepdad vs. Golden
+False
+Stacy's Stepdad vs. CNIU
+False
+Stacy's Stepdad vs. Guillotine
+True
+Stacy's Stepdad vs. Shuffle
+True
+Stacy's Stepdad vs. TimTheGuy
+False
+Stacy's Stepdad vs. Kikoho
+False
+Stacy's Stepdad vs. DrewNG
+False
+Stacy's Stepdad vs. Arty
+False
+Stacy's Stepdad vs. JNaut
+False
+Stacy's Stepdad vs. Artelind
+False
+Stacy's Stepdad vs. Meep
+False
+Stacy's Stepdad vs. RyuCloud
+False
+Stacy's Stepdad vs. Guex
+False
+Stacy's Stepdad vs. Trail
+False
+Stacy's Stepdad vs. Silver
+False
+Stacy's Stepdad vs. Dimension
+False
+Stacy's Stepdad vs. Yasu
+False
+Stacy's Stepdad vs. Mr. Heat
+False
+Stacy's Stepdad vs. Shmeeli
+False
+Stacy's Stepdad vs. Swoosh$
+False
+Stacy's Stepdad vs. Unlucky
+True
+Stacy's Stepdad vs. 99 Woodcutting
+False
+Stacy's Stepdad vs. Bank
+False
+Stacy's Stepdad vs. Spiff
+False
+Stacy's Stepdad vs. Scooby
+True
+Stacy's Stepdad vs. PJ
+False
+Stacy's Stepdad vs. Feo
+False
+Stacy's Stepdad vs. BonkCushy
+False
+Stacy's Stepdad vs. Hysteric
+False
+Stacy's Stepdad vs. Ferox
+False
+Stacy's Stepdad vs. PSai
+False
+Stacy's Stepdad vs. Admiral Zhao
+True
+Stacy's Stepdad vs. Glasper
+True
+Stacy's Stepdad vs. F4X
+False
+Stacy's Stepdad vs. Twisty
+False
+Stacy's Stepdad vs. Ted Greene
+False
+Stacy's Stepdad vs. NotMe
+False
+Stacy's Stepdad vs. Alt
+False
+Stacy's Stepdad vs. Louis
+False
+Stacy's Stepdad vs. Lochist
+False
+Louis vs. Slox
+False
+Louis vs. Joyboy
+False
+Louis vs. Kalvar
+False
+Louis vs. lint
+False
+Louis vs. Tiramisu
+False
+Louis vs. Palika
+False
+Louis vs. Thumbs
+False
+Louis vs. BigJoig
+False
+Louis vs. Warmmer
+False
+Louis vs. DrLobster
+True
+Louis vs. WAS | Ok
+False
+Louis vs. Clutch
+False
+Louis vs. Ses
+False
+Louis vs. M. Peacecraft
+False
+Louis vs. Project
+False
+Louis vs. GWM420
+False
+Louis vs. Rasen
+True
+Louis vs. bonfire10
+False
+Louis vs. glock in my toyota
+False
+Louis vs. Golden
+True
+Louis vs. CNIU
+False
+Louis vs. Guillotine
+False
+Louis vs. Shuffle
+False
+Louis vs. TimTheGuy
+False
+Louis vs. Kikoho
+False
+Louis vs. DrewNG
+False
+Louis vs. Arty
+False
+Louis vs. JNaut
+False
+Louis vs. Artelind
+False
+Louis vs. Meep
+False
+Louis vs. RyuCloud
+False
+Louis vs. Guex
+False
+Louis vs. Trail
+False
+Louis vs. Silver
+False
+Louis vs. Dimension
+False
+Louis vs. Yasu
+False
+Louis vs. Mr. Heat
+False
+Louis vs. Shmeeli
+False
+Louis vs. Swoosh$
+False
+Louis vs. Unlucky
+False
+Louis vs. 99 Woodcutting
+False
+Louis vs. Bank
+False
+Louis vs. Spiff
+False
+Louis vs. Scooby
+False
+Louis vs. PJ
+False
+Louis vs. Feo
+False
+Louis vs. BonkCushy
+False
+Louis vs. Hysteric
+False
+Louis vs. Ferox
+False
+Louis vs. PSai
+False
+Louis vs. Admiral Zhao
+False
+Louis vs. Glasper
+False
+Louis vs. F4X
+False
+Louis vs. Twisty
+False
+Louis vs. Ted Greene
+False
+Louis vs. NotMe
+False
+Louis vs. Alt
+False
+Louis vs. Stacy's Stepdad
+False
+Louis vs. Lochist
+True
+Lochist vs. Slox
+False
+Lochist vs. Joyboy
+False
+Lochist vs. Kalvar
+False
+Lochist vs. lint
+False
+Lochist vs. Tiramisu
+False
+Lochist vs. Palika
+False
+Lochist vs. Thumbs
+False
+Lochist vs. BigJoig
+False
+Lochist vs. Warmmer
+False
+Lochist vs. DrLobster
+True
+Lochist vs. WAS | Ok
+False
+Lochist vs. Clutch
+False
+Lochist vs. Ses
+False
+Lochist vs. M. Peacecraft
+False
+Lochist vs. Project
+False
+Lochist vs. GWM420
+False
+Lochist vs. Rasen
+False
+Lochist vs. bonfire10
+False
+Lochist vs. glock in my toyota
+False
+Lochist vs. Golden
+False
+Lochist vs. CNIU
+False
+Lochist vs. Guillotine
+False
+Lochist vs. Shuffle
+False
+Lochist vs. TimTheGuy
+False
+Lochist vs. Kikoho
+False
+Lochist vs. DrewNG
+False
+Lochist vs. Arty
+False
+Lochist vs. JNaut
+False
+Lochist vs. Artelind
+False
+Lochist vs. Meep
+False
+Lochist vs. RyuCloud
+False
+Lochist vs. Guex
+False
+Lochist vs. Trail
+False
+Lochist vs. Silver
+False
+Lochist vs. Dimension
+False
+Lochist vs. Yasu
+False
+Lochist vs. Mr. Heat
+False
+Lochist vs. Shmeeli
+False
+Lochist vs. Swoosh$
+False
+Lochist vs. Unlucky
+False
+Lochist vs. 99 Woodcutting
+False
+Lochist vs. Bank
+False
+Lochist vs. Spiff
+False
+Lochist vs. Scooby
+False
+Lochist vs. PJ
+False
+Lochist vs. Feo
+False
+Lochist vs. BonkCushy
+False
+Lochist vs. Hysteric
+False
+Lochist vs. Ferox
+False
+Lochist vs. PSai
+False
+Lochist vs. Admiral Zhao
+False
+Lochist vs. Glasper
+False
+Lochist vs. F4X
+False
+Lochist vs. Twisty
+False
+Lochist vs. Ted Greene
+False
+Lochist vs. NotMe
+False
+Lochist vs. Alt
+False
+Lochist vs. Stacy's Stepdad
+False
+Lochist vs. Louis
+True
