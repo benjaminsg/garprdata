@@ -46059,3 +46059,1459 @@ Lochist vs. Stacy's Stepdad
 False
 Lochist vs. Louis
 True
+Slox vs. Kalvar
+1 - 0
+Slox vs. lint
+5 - 2
+Slox vs. Palika
+3 - 0
+Slox vs. Warmmer
+1 - 1
+Slox vs. M. Peacecraft
+1 - 1
+Slox vs. Rasen
+2 - 0
+Slox vs. Kikoho
+3 - 0
+Slox vs. DrewNG
+1 - 0
+Slox vs. Arty
+1 - 0
+Joyboy vs. Tiramisu
+0 - 2
+Joyboy vs. BigJoig
+1 - 0
+Joyboy vs. Clutch
+1 - 0
+Joyboy vs. GWM420
+1 - 0
+Joyboy vs. Rasen
+1 - 0
+Joyboy vs. JNaut
+4 - 1
+Joyboy vs. Artelind
+3 - 0
+Joyboy vs. Meep
+2 - 0
+Joyboy vs. RyuCloud
+1 - 0
+Joyboy vs. Trail
+1 - 0
+Joyboy vs. Dimension
+5 - 0
+Joyboy vs. Mr. Heat
+2 - 0
+Joyboy vs. Shmeeli
+2 - 0
+Joyboy vs. Swoosh$
+2 - 0
+Joyboy vs. Spiff
+2 - 0
+Kalvar vs. Slox
+0 - 1
+Kalvar vs. Palika
+1 - 1
+Kalvar vs. BigJoig
+2 - 0
+Kalvar vs. DrLobster
+3 - 3
+Kalvar vs. Clutch
+2 - 0
+Kalvar vs. GWM420
+1 - 0
+Kalvar vs. bonfire10
+2 - 0
+Kalvar vs. glock in my toyota
+1 - 1
+Kalvar vs. Golden
+2 - 2
+Kalvar vs. Guillotine
+2 - 0
+Kalvar vs. Shuffle
+1 - 0
+Kalvar vs. Kikoho
+1 - 0
+Kalvar vs. JNaut
+2 - 1
+Kalvar vs. Mr. Heat
+1 - 1
+Kalvar vs. Scooby
+1 - 0
+Kalvar vs. PJ
+3 - 0
+Kalvar vs. Ferox
+1 - 0
+Kalvar vs. PSai
+1 - 0
+Kalvar vs. Admiral Zhao
+2 - 0
+Kalvar vs. Alt
+2 - 0
+lint vs. Slox
+2 - 5
+lint vs. Palika
+8 - 1
+lint vs. Warmmer
+1 - 0
+lint vs. TimTheGuy
+1 - 0
+lint vs. Kikoho
+1 - 1
+lint vs. Arty
+1 - 0
+Tiramisu vs. Joyboy
+2 - 0
+Tiramisu vs. Project
+0 - 1
+Tiramisu vs. Dimension
+2 - 0
+Tiramisu vs. Mr. Heat
+1 - 0
+Tiramisu vs. Hysteric
+1 - 0
+Tiramisu vs. Glasper
+1 - 0
+Palika vs. Slox
+0 - 3
+Palika vs. Kalvar
+1 - 1
+Palika vs. lint
+1 - 8
+Palika vs. Thumbs
+0 - 2
+Palika vs. Warmmer
+3 - 4
+Palika vs. M. Peacecraft
+2 - 1
+Palika vs. bonfire10
+0 - 1
+Palika vs. TimTheGuy
+2 - 0
+Palika vs. Kikoho
+10 - 2
+Palika vs. DrewNG
+1 - 0
+Palika vs. Arty
+3 - 0
+Palika vs. Mr. Heat
+1 - 0
+Thumbs vs. Palika
+2 - 0
+Thumbs vs. TimTheGuy
+0 - 1
+Thumbs vs. Kikoho
+3 - 1
+Thumbs vs. Arty
+1 - 0
+BigJoig vs. Joyboy
+0 - 1
+BigJoig vs. Kalvar
+0 - 2
+BigJoig vs. DrLobster
+0 - 2
+BigJoig vs. GWM420
+2 - 0
+BigJoig vs. bonfire10
+1 - 0
+BigJoig vs. glock in my toyota
+1 - 0
+BigJoig vs. Dimension
+2 - 0
+BigJoig vs. Shmeeli
+1 - 0
+BigJoig vs. Spiff
+1 - 0
+BigJoig vs. Scooby
+1 - 0
+BigJoig vs. PJ
+1 - 0
+BigJoig vs. Admiral Zhao
+1 - 0
+BigJoig vs. Alt
+1 - 0
+Warmmer vs. Slox
+1 - 1
+Warmmer vs. lint
+0 - 1
+Warmmer vs. Palika
+4 - 3
+Warmmer vs. Ses
+1 - 0
+Warmmer vs. TimTheGuy
+2 - 1
+Warmmer vs. Kikoho
+2 - 4
+Warmmer vs. Arty
+2 - 0
+Warmmer vs. JNaut
+1 - 0
+DrLobster vs. Kalvar
+3 - 3
+DrLobster vs. BigJoig
+2 - 0
+DrLobster vs. Clutch
+1 - 0
+DrLobster vs. GWM420
+3 - 2
+DrLobster vs. bonfire10
+1 - 1
+DrLobster vs. glock in my toyota
+2 - 0
+DrLobster vs. Golden
+0 - 1
+DrLobster vs. Guillotine
+1 - 0
+DrLobster vs. JNaut
+2 - 0
+DrLobster vs. Dimension
+1 - 0
+DrLobster vs. Yasu
+1 - 0
+DrLobster vs. PJ
+1 - 0
+DrLobster vs. Hysteric
+1 - 0
+DrLobster vs. Admiral Zhao
+1 - 0
+DrLobster vs. Alt
+2 - 0
+Clutch vs. Joyboy
+0 - 1
+Clutch vs. Kalvar
+0 - 2
+Clutch vs. DrLobster
+0 - 1
+Clutch vs. GWM420
+0 - 1
+Clutch vs. Rasen
+1 - 2
+Clutch vs. bonfire10
+2 - 2
+Clutch vs. Guillotine
+2 - 1
+Clutch vs. Guex
+1 - 0
+Clutch vs. Silver
+2 - 1
+Clutch vs. Yasu
+1 - 0
+Clutch vs. Shmeeli
+1 - 0
+Clutch vs. 99 Woodcutting
+1 - 0
+Clutch vs. Spiff
+1 - 0
+Clutch vs. Scooby
+1 - 0
+Clutch vs. Hysteric
+1 - 1
+Clutch vs. F4X
+2 - 0
+Clutch vs. Twisty
+1 - 2
+Clutch vs. Alt
+1 - 0
+Clutch vs. Stacy's Stepdad
+1 - 0
+Clutch vs. Lochist
+1 - 0
+Ses vs. Warmmer
+0 - 1
+Ses vs. Guillotine
+1 - 0
+Ses vs. Yasu
+1 - 0
+M. Peacecraft vs. Slox
+1 - 1
+M. Peacecraft vs. Palika
+1 - 2
+M. Peacecraft vs. Kikoho
+1 - 0
+Project vs. Tiramisu
+1 - 0
+Project vs. bonfire10
+0 - 1
+Project vs. glock in my toyota
+1 - 0
+Project vs. CNIU
+1 - 0
+Project vs. Guillotine
+1 - 0
+Project vs. Bank
+1 - 0
+Project vs. Scooby
+1 - 0
+Project vs. Hysteric
+0 - 1
+Project vs. Ferox
+1 - 0
+Project vs. Alt
+1 - 0
+Project vs. Louis
+0 - 1
+GWM420 vs. Joyboy
+0 - 1
+GWM420 vs. Kalvar
+0 - 1
+GWM420 vs. BigJoig
+0 - 2
+GWM420 vs. DrLobster
+2 - 3
+GWM420 vs. Clutch
+1 - 0
+GWM420 vs. Rasen
+4 - 1
+GWM420 vs. bonfire10
+1 - 0
+GWM420 vs. glock in my toyota
+2 - 0
+GWM420 vs. Golden
+6 - 3
+GWM420 vs. CNIU
+0 - 1
+GWM420 vs. JNaut
+1 - 0
+GWM420 vs. Dimension
+0 - 1
+GWM420 vs. Yasu
+1 - 0
+GWM420 vs. Mr. Heat
+1 - 0
+GWM420 vs. Bank
+0 - 1
+GWM420 vs. Spiff
+1 - 0
+GWM420 vs. Scooby
+1 - 0
+GWM420 vs. PJ
+1 - 0
+GWM420 vs. F4X
+1 - 0
+GWM420 vs. Ted Greene
+1 - 0
+GWM420 vs. Alt
+2 - 1
+Rasen vs. Slox
+0 - 2
+Rasen vs. Joyboy
+0 - 1
+Rasen vs. Clutch
+2 - 1
+Rasen vs. GWM420
+1 - 4
+Rasen vs. bonfire10
+0 - 1
+Rasen vs. CNIU
+0 - 1
+Rasen vs. Guillotine
+1 - 0
+Rasen vs. Kikoho
+0 - 1
+Rasen vs. Artelind
+1 - 0
+Rasen vs. Dimension
+3 - 0
+Rasen vs. Mr. Heat
+0 - 1
+Rasen vs. Swoosh$
+1 - 0
+Rasen vs. Unlucky
+1 - 0
+Rasen vs. Bank
+1 - 0
+Rasen vs. Spiff
+1 - 0
+Rasen vs. Scooby
+4 - 0
+Rasen vs. PJ
+1 - 1
+Rasen vs. Feo
+1 - 0
+Rasen vs. Hysteric
+0 - 1
+Rasen vs. Admiral Zhao
+1 - 0
+Rasen vs. NotMe
+0 - 1
+bonfire10 vs. Kalvar
+0 - 2
+bonfire10 vs. Palika
+1 - 0
+bonfire10 vs. BigJoig
+0 - 1
+bonfire10 vs. DrLobster
+1 - 1
+bonfire10 vs. Clutch
+2 - 2
+bonfire10 vs. Project
+1 - 0
+bonfire10 vs. GWM420
+0 - 1
+bonfire10 vs. Rasen
+1 - 0
+bonfire10 vs. glock in my toyota
+2 - 0
+bonfire10 vs. Golden
+0 - 2
+bonfire10 vs. Guillotine
+2 - 0
+bonfire10 vs. Guex
+1 - 0
+bonfire10 vs. Yasu
+1 - 0
+bonfire10 vs. Mr. Heat
+1 - 0
+bonfire10 vs. Swoosh$
+1 - 0
+bonfire10 vs. PJ
+2 - 0
+bonfire10 vs. Hysteric
+1 - 0
+bonfire10 vs. Louis
+2 - 0
+glock in my toyota vs. Kalvar
+1 - 1
+glock in my toyota vs. BigJoig
+0 - 1
+glock in my toyota vs. DrLobster
+0 - 2
+glock in my toyota vs. Project
+0 - 1
+glock in my toyota vs. GWM420
+0 - 2
+glock in my toyota vs. bonfire10
+0 - 2
+glock in my toyota vs. CNIU
+1 - 0
+glock in my toyota vs. Guillotine
+1 - 0
+glock in my toyota vs. JNaut
+0 - 2
+glock in my toyota vs. Guex
+1 - 0
+glock in my toyota vs. Dimension
+1 - 0
+glock in my toyota vs. Mr. Heat
+2 - 0
+glock in my toyota vs. Shmeeli
+1 - 0
+glock in my toyota vs. 99 Woodcutting
+1 - 0
+glock in my toyota vs. Twisty
+1 - 0
+glock in my toyota vs. NotMe
+1 - 0
+glock in my toyota vs. Alt
+1 - 0
+glock in my toyota vs. Louis
+0 - 1
+Golden vs. Kalvar
+2 - 2
+Golden vs. DrLobster
+1 - 0
+Golden vs. GWM420
+3 - 6
+Golden vs. bonfire10
+2 - 0
+Golden vs. Guillotine
+1 - 0
+Golden vs. JNaut
+0 - 2
+Golden vs. PJ
+1 - 0
+Golden vs. Hysteric
+0 - 1
+Golden vs. Glasper
+1 - 0
+Golden vs. Alt
+0 - 2
+Golden vs. Louis
+0 - 1
+Golden vs. Lochist
+0 - 1
+CNIU vs. Project
+0 - 1
+CNIU vs. GWM420
+1 - 0
+CNIU vs. Rasen
+1 - 0
+CNIU vs. glock in my toyota
+0 - 1
+CNIU vs. Scooby
+2 - 0
+Guillotine vs. Kalvar
+0 - 2
+Guillotine vs. DrLobster
+0 - 1
+Guillotine vs. Clutch
+1 - 2
+Guillotine vs. Ses
+0 - 1
+Guillotine vs. Project
+0 - 1
+Guillotine vs. Rasen
+0 - 1
+Guillotine vs. bonfire10
+0 - 2
+Guillotine vs. glock in my toyota
+0 - 1
+Guillotine vs. Golden
+0 - 1
+Guillotine vs. Guex
+0 - 1
+Guillotine vs. Dimension
+0 - 1
+Guillotine vs. Mr. Heat
+0 - 1
+Guillotine vs. Bank
+1 - 0
+Guillotine vs. Scooby
+0 - 1
+Guillotine vs. PJ
+1 - 1
+Guillotine vs. Hysteric
+1 - 0
+Guillotine vs. Admiral Zhao
+2 - 0
+Guillotine vs. Twisty
+1 - 0
+Guillotine vs. Alt
+1 - 1
+Shuffle vs. Kalvar
+0 - 1
+Shuffle vs. PJ
+0 - 1
+Shuffle vs. Ferox
+0 - 1
+TimTheGuy vs. lint
+0 - 1
+TimTheGuy vs. Palika
+0 - 2
+TimTheGuy vs. Thumbs
+1 - 0
+TimTheGuy vs. Warmmer
+1 - 2
+TimTheGuy vs. Kikoho
+0 - 7
+TimTheGuy vs. Arty
+1 - 1
+TimTheGuy vs. Artelind
+0 - 1
+Kikoho vs. Slox
+0 - 3
+Kikoho vs. Kalvar
+0 - 1
+Kikoho vs. lint
+1 - 1
+Kikoho vs. Palika
+2 - 10
+Kikoho vs. Thumbs
+1 - 3
+Kikoho vs. Warmmer
+4 - 2
+Kikoho vs. M. Peacecraft
+0 - 1
+Kikoho vs. Rasen
+1 - 0
+Kikoho vs. TimTheGuy
+7 - 0
+Kikoho vs. DrewNG
+1 - 0
+Kikoho vs. Arty
+5 - 1
+Kikoho vs. Artelind
+0 - 1
+Kikoho vs. Unlucky
+1 - 0
+Kikoho vs. Alt
+1 - 0
+DrewNG vs. Slox
+0 - 1
+DrewNG vs. Palika
+0 - 1
+DrewNG vs. Kikoho
+0 - 1
+DrewNG vs. Arty
+0 - 1
+DrewNG vs. Artelind
+1 - 0
+DrewNG vs. Guex
+1 - 0
+DrewNG vs. Alt
+1 - 0
+Arty vs. Slox
+0 - 1
+Arty vs. lint
+0 - 1
+Arty vs. Palika
+0 - 3
+Arty vs. Thumbs
+0 - 1
+Arty vs. Warmmer
+0 - 2
+Arty vs. TimTheGuy
+1 - 1
+Arty vs. Kikoho
+1 - 5
+Arty vs. DrewNG
+1 - 0
+Arty vs. JNaut
+0 - 1
+Arty vs. Guex
+2 - 0
+Arty vs. Mr. Heat
+0 - 2
+Arty vs. Shmeeli
+1 - 0
+Arty vs. Alt
+0 - 1
+JNaut vs. Joyboy
+1 - 4
+JNaut vs. Kalvar
+1 - 2
+JNaut vs. Warmmer
+0 - 1
+JNaut vs. DrLobster
+0 - 2
+JNaut vs. GWM420
+0 - 1
+JNaut vs. glock in my toyota
+2 - 0
+JNaut vs. Golden
+2 - 0
+JNaut vs. Arty
+1 - 0
+JNaut vs. Artelind
+3 - 0
+JNaut vs. Meep
+4 - 2
+JNaut vs. RyuCloud
+4 - 0
+JNaut vs. Guex
+2 - 0
+JNaut vs. Trail
+3 - 2
+JNaut vs. Shmeeli
+1 - 0
+JNaut vs. Spiff
+2 - 0
+JNaut vs. PJ
+1 - 0
+JNaut vs. Hysteric
+0 - 2
+JNaut vs. Stacy's Stepdad
+1 - 0
+Artelind vs. Joyboy
+0 - 3
+Artelind vs. Rasen
+0 - 1
+Artelind vs. TimTheGuy
+1 - 0
+Artelind vs. Kikoho
+1 - 0
+Artelind vs. DrewNG
+0 - 1
+Artelind vs. JNaut
+0 - 3
+Artelind vs. Meep
+1 - 0
+Artelind vs. RyuCloud
+2 - 3
+Artelind vs. Guex
+0 - 1
+Artelind vs. Yasu
+0 - 1
+Artelind vs. Hysteric
+0 - 1
+Artelind vs. NotMe
+1 - 1
+Meep vs. Joyboy
+0 - 2
+Meep vs. JNaut
+2 - 4
+Meep vs. Artelind
+0 - 1
+Meep vs. RyuCloud
+1 - 2
+Meep vs. Guex
+2 - 0
+Meep vs. Trail
+0 - 1
+RyuCloud vs. Joyboy
+0 - 1
+RyuCloud vs. JNaut
+0 - 4
+RyuCloud vs. Artelind
+3 - 2
+RyuCloud vs. Meep
+2 - 1
+RyuCloud vs. Guex
+2 - 3
+RyuCloud vs. Trail
+0 - 4
+Guex vs. Clutch
+0 - 1
+Guex vs. bonfire10
+0 - 1
+Guex vs. glock in my toyota
+0 - 1
+Guex vs. Guillotine
+1 - 0
+Guex vs. DrewNG
+0 - 1
+Guex vs. Arty
+0 - 2
+Guex vs. JNaut
+0 - 2
+Guex vs. Artelind
+1 - 0
+Guex vs. Meep
+0 - 2
+Guex vs. RyuCloud
+3 - 2
+Guex vs. Mr. Heat
+0 - 1
+Guex vs. Swoosh$
+1 - 0
+Guex vs. Scooby
+1 - 0
+Guex vs. PJ
+0 - 1
+Guex vs. NotMe
+0 - 1
+Guex vs. Alt
+0 - 1
+Trail vs. Joyboy
+0 - 1
+Trail vs. JNaut
+2 - 3
+Trail vs. Meep
+1 - 0
+Trail vs. RyuCloud
+4 - 0
+Silver vs. Clutch
+1 - 2
+Silver vs. Hysteric
+1 - 0
+Dimension vs. Joyboy
+0 - 5
+Dimension vs. Tiramisu
+0 - 2
+Dimension vs. BigJoig
+0 - 2
+Dimension vs. DrLobster
+0 - 1
+Dimension vs. GWM420
+1 - 0
+Dimension vs. Rasen
+0 - 3
+Dimension vs. glock in my toyota
+0 - 1
+Dimension vs. Guillotine
+1 - 0
+Dimension vs. Yasu
+0 - 3
+Dimension vs. Mr. Heat
+3 - 0
+Dimension vs. 99 Woodcutting
+1 - 0
+Dimension vs. Spiff
+4 - 0
+Dimension vs. Scooby
+2 - 0
+Dimension vs. PJ
+6 - 4
+Dimension vs. Hysteric
+2 - 0
+Dimension vs. PSai
+1 - 0
+Dimension vs. Admiral Zhao
+2 - 0
+Dimension vs. Glasper
+1 - 0
+Dimension vs. Twisty
+1 - 0
+Dimension vs. NotMe
+2 - 1
+Dimension vs. Alt
+1 - 0
+Yasu vs. DrLobster
+0 - 1
+Yasu vs. Clutch
+0 - 1
+Yasu vs. Ses
+0 - 1
+Yasu vs. GWM420
+0 - 1
+Yasu vs. bonfire10
+0 - 1
+Yasu vs. Artelind
+1 - 0
+Yasu vs. Dimension
+3 - 0
+Yasu vs. Mr. Heat
+0 - 1
+Yasu vs. Shmeeli
+1 - 1
+Yasu vs. 99 Woodcutting
+0 - 1
+Yasu vs. Spiff
+0 - 1
+Yasu vs. Scooby
+1 - 0
+Yasu vs. PJ
+2 - 1
+Yasu vs. Feo
+1 - 0
+Yasu vs. BonkCushy
+1 - 0
+Yasu vs. Hysteric
+1 - 0
+Yasu vs. PSai
+1 - 0
+Yasu vs. Admiral Zhao
+1 - 0
+Yasu vs. F4X
+1 - 0
+Mr. Heat vs. Joyboy
+0 - 2
+Mr. Heat vs. Kalvar
+1 - 1
+Mr. Heat vs. Tiramisu
+0 - 1
+Mr. Heat vs. Palika
+0 - 1
+Mr. Heat vs. GWM420
+0 - 1
+Mr. Heat vs. Rasen
+1 - 0
+Mr. Heat vs. bonfire10
+0 - 1
+Mr. Heat vs. glock in my toyota
+0 - 2
+Mr. Heat vs. Guillotine
+1 - 0
+Mr. Heat vs. Arty
+2 - 0
+Mr. Heat vs. Guex
+1 - 0
+Mr. Heat vs. Dimension
+0 - 3
+Mr. Heat vs. Yasu
+1 - 0
+Mr. Heat vs. Shmeeli
+1 - 0
+Mr. Heat vs. Spiff
+3 - 0
+Mr. Heat vs. PJ
+3 - 0
+Mr. Heat vs. Feo
+1 - 0
+Mr. Heat vs. BonkCushy
+1 - 0
+Mr. Heat vs. Hysteric
+0 - 1
+Mr. Heat vs. Admiral Zhao
+2 - 0
+Shmeeli vs. Joyboy
+0 - 2
+Shmeeli vs. BigJoig
+0 - 1
+Shmeeli vs. Clutch
+0 - 1
+Shmeeli vs. glock in my toyota
+0 - 1
+Shmeeli vs. Arty
+0 - 1
+Shmeeli vs. JNaut
+0 - 1
+Shmeeli vs. Yasu
+1 - 1
+Shmeeli vs. Mr. Heat
+0 - 1
+Shmeeli vs. Swoosh$
+1 - 0
+Shmeeli vs. 99 Woodcutting
+0 - 1
+Shmeeli vs. Spiff
+0 - 4
+Shmeeli vs. Scooby
+2 - 0
+Shmeeli vs. PJ
+1 - 1
+Shmeeli vs. Ferox
+1 - 0
+Shmeeli vs. PSai
+2 - 0
+Shmeeli vs. Admiral Zhao
+0 - 1
+Shmeeli vs. Glasper
+2 - 0
+Shmeeli vs. Ted Greene
+1 - 0
+Shmeeli vs. NotMe
+0 - 1
+Swoosh$ vs. Joyboy
+0 - 2
+Swoosh$ vs. Rasen
+0 - 1
+Swoosh$ vs. bonfire10
+0 - 1
+Swoosh$ vs. Guex
+0 - 1
+Swoosh$ vs. Shmeeli
+0 - 1
+Swoosh$ vs. Unlucky
+0 - 1
+Swoosh$ vs. 99 Woodcutting
+0 - 1
+Swoosh$ vs. Spiff
+0 - 1
+Swoosh$ vs. Scooby
+0 - 1
+Swoosh$ vs. PJ
+1 - 1
+Swoosh$ vs. Feo
+1 - 2
+Swoosh$ vs. Hysteric
+0 - 1
+Swoosh$ vs. F4X
+1 - 0
+Swoosh$ vs. Ted Greene
+1 - 0
+Swoosh$ vs. Alt
+1 - 0
+Unlucky vs. Rasen
+0 - 1
+Unlucky vs. Kikoho
+0 - 1
+Unlucky vs. Swoosh$
+1 - 0
+Unlucky vs. Spiff
+1 - 0
+99 Woodcutting vs. Clutch
+0 - 1
+99 Woodcutting vs. glock in my toyota
+0 - 1
+99 Woodcutting vs. Dimension
+0 - 1
+99 Woodcutting vs. Yasu
+1 - 0
+99 Woodcutting vs. Shmeeli
+1 - 0
+99 Woodcutting vs. Swoosh$
+1 - 0
+99 Woodcutting vs. Spiff
+0 - 2
+99 Woodcutting vs. Scooby
+0 - 1
+99 Woodcutting vs. PJ
+1 - 1
+99 Woodcutting vs. Feo
+1 - 0
+99 Woodcutting vs. Hysteric
+1 - 1
+99 Woodcutting vs. Admiral Zhao
+0 - 1
+99 Woodcutting vs. Glasper
+1 - 1
+99 Woodcutting vs. Alt
+1 - 0
+Bank vs. Project
+0 - 1
+Bank vs. GWM420
+1 - 0
+Bank vs. Rasen
+0 - 1
+Bank vs. Guillotine
+0 - 1
+Bank vs. Scooby
+1 - 0
+Bank vs. Hysteric
+0 - 1
+Bank vs. Alt
+0 - 1
+Spiff vs. Joyboy
+0 - 2
+Spiff vs. BigJoig
+0 - 1
+Spiff vs. Clutch
+0 - 1
+Spiff vs. GWM420
+0 - 1
+Spiff vs. Rasen
+0 - 1
+Spiff vs. JNaut
+0 - 2
+Spiff vs. Dimension
+0 - 4
+Spiff vs. Yasu
+1 - 0
+Spiff vs. Mr. Heat
+0 - 3
+Spiff vs. Shmeeli
+4 - 0
+Spiff vs. Swoosh$
+1 - 0
+Spiff vs. Unlucky
+0 - 1
+Spiff vs. 99 Woodcutting
+2 - 0
+Spiff vs. Scooby
+1 - 1
+Spiff vs. PJ
+1 - 1
+Spiff vs. Feo
+1 - 0
+Spiff vs. Hysteric
+0 - 1
+Spiff vs. PSai
+2 - 0
+Spiff vs. Admiral Zhao
+4 - 0
+Spiff vs. Glasper
+1 - 1
+Spiff vs. F4X
+4 - 0
+Spiff vs. Twisty
+0 - 1
+Spiff vs. NotMe
+2 - 0
+Spiff vs. Alt
+0 - 1
+Scooby vs. Kalvar
+0 - 1
+Scooby vs. BigJoig
+0 - 1
+Scooby vs. Clutch
+0 - 1
+Scooby vs. Project
+0 - 1
+Scooby vs. GWM420
+0 - 1
+Scooby vs. Rasen
+0 - 4
+Scooby vs. CNIU
+0 - 2
+Scooby vs. Guillotine
+1 - 0
+Scooby vs. Guex
+0 - 1
+Scooby vs. Dimension
+0 - 2
+Scooby vs. Yasu
+0 - 1
+Scooby vs. Shmeeli
+0 - 2
+Scooby vs. Swoosh$
+1 - 0
+Scooby vs. 99 Woodcutting
+1 - 0
+Scooby vs. Bank
+0 - 1
+Scooby vs. Spiff
+1 - 1
+Scooby vs. PJ
+1 - 2
+Scooby vs. Feo
+2 - 0
+Scooby vs. BonkCushy
+1 - 0
+Scooby vs. Ferox
+0 - 1
+Scooby vs. PSai
+1 - 0
+Scooby vs. Admiral Zhao
+0 - 1
+Scooby vs. Glasper
+1 - 0
+Scooby vs. F4X
+1 - 1
+Scooby vs. Twisty
+1 - 0
+Scooby vs. Ted Greene
+1 - 0
+Scooby vs. Alt
+0 - 1
+PJ vs. Kalvar
+0 - 3
+PJ vs. BigJoig
+0 - 1
+PJ vs. DrLobster
+0 - 1
+PJ vs. GWM420
+0 - 1
+PJ vs. Rasen
+1 - 1
+PJ vs. bonfire10
+0 - 2
+PJ vs. Golden
+0 - 1
+PJ vs. Guillotine
+1 - 1
+PJ vs. Shuffle
+1 - 0
+PJ vs. JNaut
+0 - 1
+PJ vs. Guex
+1 - 0
+PJ vs. Dimension
+4 - 6
+PJ vs. Yasu
+1 - 2
+PJ vs. Mr. Heat
+0 - 3
+PJ vs. Shmeeli
+1 - 1
+PJ vs. Swoosh$
+1 - 1
+PJ vs. 99 Woodcutting
+1 - 1
+PJ vs. Spiff
+1 - 1
+PJ vs. Scooby
+2 - 1
+PJ vs. Feo
+2 - 0
+PJ vs. Hysteric
+2 - 0
+PJ vs. PSai
+1 - 0
+PJ vs. Admiral Zhao
+1 - 1
+PJ vs. F4X
+0 - 1
+PJ vs. Ted Greene
+1 - 0
+PJ vs. NotMe
+0 - 1
+PJ vs. Stacy's Stepdad
+1 - 0
+PJ vs. Lochist
+0 - 1
+Feo vs. Rasen
+0 - 1
+Feo vs. Yasu
+0 - 1
+Feo vs. Mr. Heat
+0 - 1
+Feo vs. Swoosh$
+2 - 1
+Feo vs. 99 Woodcutting
+0 - 1
+Feo vs. Spiff
+0 - 1
+Feo vs. Scooby
+0 - 2
+Feo vs. PJ
+0 - 2
+Feo vs. Admiral Zhao
+0 - 1
+Feo vs. Glasper
+1 - 0
+Feo vs. Ted Greene
+1 - 1
+BonkCushy vs. Yasu
+0 - 1
+BonkCushy vs. Mr. Heat
+0 - 1
+BonkCushy vs. Scooby
+0 - 1
+BonkCushy vs. Twisty
+1 - 0
+Hysteric vs. Tiramisu
+0 - 1
+Hysteric vs. DrLobster
+0 - 1
+Hysteric vs. Clutch
+1 - 1
+Hysteric vs. Project
+1 - 0
+Hysteric vs. Rasen
+1 - 0
+Hysteric vs. bonfire10
+0 - 1
+Hysteric vs. Golden
+1 - 0
+Hysteric vs. Guillotine
+0 - 1
+Hysteric vs. JNaut
+2 - 0
+Hysteric vs. Artelind
+1 - 0
+Hysteric vs. Silver
+0 - 1
+Hysteric vs. Dimension
+0 - 2
+Hysteric vs. Yasu
+0 - 1
+Hysteric vs. Mr. Heat
+1 - 0
+Hysteric vs. Swoosh$
+1 - 0
+Hysteric vs. 99 Woodcutting
+1 - 1
+Hysteric vs. Bank
+1 - 0
+Hysteric vs. Spiff
+1 - 0
+Hysteric vs. PJ
+0 - 2
+Hysteric vs. F4X
+1 - 0
+Hysteric vs. Ted Greene
+1 - 0
+Ferox vs. Kalvar
+0 - 1
+Ferox vs. Project
+0 - 1
+Ferox vs. Shuffle
+1 - 0
+Ferox vs. Shmeeli
+0 - 1
+Ferox vs. Scooby
+1 - 0
+Ferox vs. Admiral Zhao
+1 - 0
+Ferox vs. Glasper
+1 - 0
+PSai vs. Kalvar
+0 - 1
+PSai vs. Dimension
+0 - 1
+PSai vs. Yasu
+0 - 1
+PSai vs. Shmeeli
+0 - 2
+PSai vs. Spiff
+0 - 2
+PSai vs. Scooby
+0 - 1
+PSai vs. PJ
+0 - 1
+PSai vs. Admiral Zhao
+1 - 0
+PSai vs. Twisty
+1 - 0
+PSai vs. Ted Greene
+1 - 0
+Admiral Zhao vs. Kalvar
+0 - 2
+Admiral Zhao vs. BigJoig
+0 - 1
+Admiral Zhao vs. DrLobster
+0 - 1
+Admiral Zhao vs. Rasen
+0 - 1
+Admiral Zhao vs. Guillotine
+0 - 2
+Admiral Zhao vs. Dimension
+0 - 2
+Admiral Zhao vs. Yasu
+0 - 1
+Admiral Zhao vs. Mr. Heat
+0 - 2
+Admiral Zhao vs. Shmeeli
+1 - 0
+Admiral Zhao vs. 99 Woodcutting
+1 - 0
+Admiral Zhao vs. Spiff
+0 - 4
+Admiral Zhao vs. Scooby
+1 - 0
+Admiral Zhao vs. PJ
+1 - 1
+Admiral Zhao vs. Feo
+1 - 0
+Admiral Zhao vs. Ferox
+0 - 1
+Admiral Zhao vs. PSai
+0 - 1
+Admiral Zhao vs. F4X
+1 - 1
+Admiral Zhao vs. Twisty
+1 - 1
+Admiral Zhao vs. Ted Greene
+1 - 0
+Admiral Zhao vs. NotMe
+0 - 1
+Admiral Zhao vs. Alt
+1 - 0
+Glasper vs. Tiramisu
+0 - 1
+Glasper vs. Golden
+0 - 1
+Glasper vs. Dimension
+0 - 1
+Glasper vs. Shmeeli
+0 - 2
+Glasper vs. 99 Woodcutting
+1 - 1
+Glasper vs. Spiff
+1 - 1
+Glasper vs. Scooby
+0 - 1
+Glasper vs. Feo
+0 - 1
+Glasper vs. Ferox
+0 - 1
+Glasper vs. F4X
+0 - 1
+Glasper vs. NotMe
+0 - 1
+F4X vs. Clutch
+0 - 2
+F4X vs. GWM420
+0 - 1
+F4X vs. Yasu
+0 - 1
+F4X vs. Swoosh$
+0 - 1
+F4X vs. Spiff
+0 - 4
+F4X vs. Scooby
+1 - 1
+F4X vs. PJ
+1 - 0
+F4X vs. Hysteric
+0 - 1
+F4X vs. Admiral Zhao
+1 - 1
+F4X vs. Glasper
+1 - 0
+F4X vs. Twisty
+2 - 0
+Twisty vs. Clutch
+2 - 1
+Twisty vs. glock in my toyota
+0 - 1
+Twisty vs. Guillotine
+0 - 1
+Twisty vs. Dimension
+0 - 1
+Twisty vs. Spiff
+1 - 0
+Twisty vs. Scooby
+0 - 1
+Twisty vs. BonkCushy
+0 - 1
+Twisty vs. PSai
+0 - 1
+Twisty vs. Admiral Zhao
+1 - 1
+Twisty vs. F4X
+0 - 2
+Twisty vs. Ted Greene
+1 - 0
+Twisty vs. Alt
+0 - 1
+Ted Greene vs. GWM420
+0 - 1
+Ted Greene vs. Shmeeli
+0 - 1
+Ted Greene vs. Swoosh$
+0 - 1
+Ted Greene vs. Scooby
+0 - 1
+Ted Greene vs. PJ
+0 - 1
+Ted Greene vs. Feo
+1 - 1
+Ted Greene vs. Hysteric
+0 - 1
+Ted Greene vs. PSai
+0 - 1
+Ted Greene vs. Admiral Zhao
+0 - 1
+Ted Greene vs. Twisty
+0 - 1
+NotMe vs. Rasen
+1 - 0
+NotMe vs. glock in my toyota
+0 - 1
+NotMe vs. Artelind
+1 - 1
+NotMe vs. Guex
+1 - 0
+NotMe vs. Dimension
+1 - 2
+NotMe vs. Shmeeli
+1 - 0
+NotMe vs. Spiff
+0 - 2
+NotMe vs. PJ
+1 - 0
+NotMe vs. Admiral Zhao
+1 - 0
+NotMe vs. Glasper
+1 - 0
+NotMe vs. Alt
+1 - 0
+Alt vs. Kalvar
+0 - 2
+Alt vs. BigJoig
+0 - 1
+Alt vs. DrLobster
+0 - 2
+Alt vs. Clutch
+0 - 1
+Alt vs. Project
+0 - 1
+Alt vs. GWM420
+1 - 2
+Alt vs. glock in my toyota
+0 - 1
+Alt vs. Golden
+2 - 0
+Alt vs. Guillotine
+1 - 1
+Alt vs. Kikoho
+0 - 1
+Alt vs. DrewNG
+0 - 1
+Alt vs. Arty
+1 - 0
+Alt vs. Guex
+1 - 0
+Alt vs. Dimension
+0 - 1
+Alt vs. Swoosh$
+0 - 1
+Alt vs. 99 Woodcutting
+0 - 1
+Alt vs. Bank
+1 - 0
+Alt vs. Spiff
+1 - 0
+Alt vs. Scooby
+1 - 0
+Alt vs. Admiral Zhao
+0 - 1
+Alt vs. Twisty
+1 - 0
+Alt vs. NotMe
+0 - 1
+Stacy's Stepdad vs. Clutch
+0 - 1
+Stacy's Stepdad vs. JNaut
+0 - 1
+Stacy's Stepdad vs. PJ
+0 - 1
+Louis vs. Project
+1 - 0
+Louis vs. bonfire10
+0 - 2
+Louis vs. glock in my toyota
+1 - 0
+Louis vs. Golden
+1 - 0
+Louis vs. Lochist
+7 - 2
+Lochist vs. Clutch
+0 - 1
+Lochist vs. Golden
+1 - 0
+Lochist vs. PJ
+1 - 0
+Lochist vs. Louis
+2 - 7
