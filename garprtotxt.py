@@ -116,7 +116,7 @@ while(not txtWrite):
 
     try:
         #open text file to write output to
-        results = open("matchups.txt","a") 
+        results = open("h2hs.txt","a") 
         
         #specify that we can now write
         txtWrite = True
