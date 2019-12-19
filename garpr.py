@@ -92,6 +92,14 @@ Twisty = Player('58c729941d41c8259fa1f89b', 'Twisty')
 TedGreene = Player('58b6552e1d41c867e937f7e7', 'Ted Greene')
 NotMe = Player('5baa5b0d421aa91fa088b708', 'NotMe')
 Alt = Player('5c65f982421aa93db94e98a5', 'Alt')
+Klaps = Player('58cc6fc61d41c8259fa1fb57', 'Klaps')
+FutureShock = Player('5ade76ef1d41c852c7240f91', 'Future Shock')
+Omar = Player('5d16d616421aa90f9fc1bc56', 'Omar')
+BeastBoy = Player('5d6a8bb3421aa954d874ad46', 'BeastBoy')
+Een = Player('59ed70bd1d41c84361b79428', 'Een')
+Uma = Player('5a4ba42d1d41c8488194678f', 'Uma')
+twentytwok = Player('58d0968e1d41c8259fa1fe60', '22K')
+Stus = Player('58c724e61d41c8259fa1f85c', 'Stus')
 StacysStepdad = Player('5a4ba1961d41c84881946783', 'Stacy\'s Stepdad')
 Louis = Player('5ba19af6421aa91fa088b641', 'Louis')
 Lochist = Player('5c86c4d1421aa93db94e9ab6', 'Lochist')
@@ -104,7 +112,8 @@ players = [Slox, Joyboy, Kalvar, lint, Tiramisu, Palika, Thumbs, BigJoig,
            Guex, Trail, Silver, Dimension, Yasu, MrHeat, Shmeeli, Swoosh, 
            Unlucky, Woodcutting, Bank, Spiff, Scooby, PJ, Feo, BonkCushy, 
            Hysteric, Ferox, PSai, AdmiralZhao, Glasper, F4X, Twisty, TedGreene,
-           NotMe, Alt, StacysStepdad, Louis, Lochist]
+           NotMe, Alt, Klaps, FutureShock, Omar, BeastBoy, Een, Uma, 
+           twentytwok, Stus, StacysStepdad, Louis, Lochist]
 
 #uncomment for reading to text file
 #results = open("h2hs.txt","a") 
