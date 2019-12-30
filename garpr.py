@@ -51,7 +51,6 @@ Ses = Player('58c72fd21d41c8259fa1f8cc', 'Ses')
 Peacecraft = Player('587c636d1d41c82e80d55aaf', 'M. Peacecraft')
 Project = Player('58cc748e1d41c8259fa1fbb8', 'Project')
 GWM420 = Player('5a4ba23b1d41c84881946788', 'GWM420')
-Rasen = Player('59ed94891d41c84361b79506', 'Rasen')
 bonfire10 = Player('58c7303b1d41c8259fa1f8dd', 'bonfire10')
 glock = Player('5a4ba1961d41c84881946784', 'glock in my toyota')
 Golden = Player('58c7303b1d41c8259fa1f8d2', 'Golden')
@@ -87,7 +86,7 @@ Ferox = Player('58cc6fc61d41c8259fa1fb6b', 'Ferox')
 PSai = Player('5d82976f421aa954d874af04', 'PSai')
 AdmiralZhao = Player('58cd956a1d41c8259fa1fd0b', 'Admiral Zhao')
 Glasper = Player('58d09a571d41c8259fa1fe86', 'Glasper')
-F4X = Player('5d8187ec421aa954d874aede', 'F4X')
+Tian = Player('545b23eb8ab65f7a95f74924', 'Tian')
 Twisty = Player('58c729941d41c8259fa1f89b', 'Twisty')
 TedGreene = Player('58b6552e1d41c867e937f7e7', 'Ted Greene')
 NotMe = Player('5baa5b0d421aa91fa088b708', 'NotMe')
@@ -107,13 +106,13 @@ Lochist = Player('5c86c4d1421aa93db94e9ab6', 'Lochist')
 #store all players into a list
 players = [Slox, Joyboy, Kalvar, lint, Tiramisu, Palika, Thumbs, BigJoig,
            Warmmer, DrLobster, Ok, Clutch, Ses, Peacecraft, Project, GWM420,
-           Rasen, bonfire10,glock, Golden, CNIU, Guillotine, Shuffle, 
-           TimTheGuy, Kikoho, DrewNG, Arty, JNaut, Artelind, Meep, RyuCloud,
-           Guex, Trail, Silver, Dimension, Yasu, MrHeat, Shmeeli, Swoosh, 
-           Unlucky, Woodcutting, Bank, Spiff, Scooby, PJ, Feo, BonkCushy, 
-           Hysteric, Ferox, PSai, AdmiralZhao, Glasper, F4X, Twisty, TedGreene,
-           NotMe, Alt, Klaps, FutureShock, Omar, BeastBoy, Een, Uma, 
-           twentytwok, Stus, StacysStepdad, Louis, Lochist]
+           bonfire10,glock, Golden, CNIU, Guillotine, Shuffle, TimTheGuy, 
+           Kikoho, DrewNG, Arty, JNaut, Artelind, Meep, RyuCloud, Guex, Trail, 
+           Silver, Dimension, Yasu, MrHeat, Shmeeli, Swoosh, Unlucky, 
+           Woodcutting, Bank, Spiff, Scooby, PJ, Feo, BonkCushy, Hysteric, 
+           Ferox, PSai, AdmiralZhao, Glasper, Tian, Twisty, TedGreene, NotMe, 
+           Alt, Klaps, FutureShock, Omar, BeastBoy, Een, Uma, twentytwok, Stus, 
+           StacysStepdad, Louis, Lochist]
 
 #uncomment for reading to text file
 #results = open("h2hs.txt","a") 
