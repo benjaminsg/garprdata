@@ -98,6 +98,8 @@ Een = Player('59ed70bd1d41c84361b79428', 'Een')
 Uma = Player('5a4ba42d1d41c8488194678f', 'Uma')
 twentytwok = Player('58d0968e1d41c8259fa1fe60', '22K')
 Stus = Player('58c724e61d41c8259fa1f85c', 'Stus')
+Coach = Player('5c6ef669421aa93db94e9954', 'Coach')
+TS420 = Player('59eed00e1d41c84361b795c8', 'TS420')
 StacysStepdad = Player('5a4ba1961d41c84881946783', 'Stacy\'s Stepdad')
 Louis = Player('5ba19af6421aa91fa088b641', 'Louis')
 Lochist = Player('5c86c4d1421aa93db94e9ab6', 'Lochist')
@@ -111,7 +113,7 @@ players = [Slox, Joyboy, Kalvar, lint, Tiramisu, Palika, Thumbs, BigJoig,
            Woodcutting, Bank, Spiff, Scooby, PJ, Feo, BonkCushy, Hysteric, 
            Ferox, PSai, AdmiralZhao, Glasper, Tian, Twisty, TedGreene, NotMe, 
            Alt, Klaps, FutureShock, Omar, BeastBoy, Een, Uma, twentytwok, Stus, 
-           StacysStepdad, Louis, Lochist]
+           Coach, TS420, StacysStepdad, Louis, Lochist]
 
 #initialize number of retries to access the csv file
 numretries = 0
