@@ -23,7 +23,7 @@ seasonend = datetime(2020, 3, 22)
 Slox = Player('542ded228ab65f7d9c8294d1', 'Slox')
 Joyboy = Player('58c73c7e1d41c8259fa1f9c5', 'Joyboy')
 Kalvar = Player('58c726dd1d41c8259fa1f870', 'Kalvar')
-lint = Player('545c8e5f8ab65f12c01061ca', 'lint')
+Lint = Player('545c8e5f8ab65f12c01061ca', 'lint')
 Tiramisu = Player('58d08cd91d41c8259fa1fe3b', 'Tiramisu')
 Palika = Player('58cc88171d41c8259fa1fc20', 'Palika')
 Thumbs = Player('58d082921d41c8259fa1fe0a', 'Thumbs')
@@ -36,8 +36,8 @@ Ses = Player('58c72fd21d41c8259fa1f8cc', 'Ses')
 Peacecraft = Player('587c636d1d41c82e80d55aaf', 'M. Peacecraft')
 Project = Player('58cc748e1d41c8259fa1fbb8', 'Project')
 GWM420 = Player('5a4ba23b1d41c84881946788', 'GWM420')
-bonfire10 = Player('58c7303b1d41c8259fa1f8dd', 'bonfire10')
-glock = Player('5a4ba1961d41c84881946784', 'glock in my toyota')
+Bonfire10 = Player('58c7303b1d41c8259fa1f8dd', 'bonfire10')
+Glock = Player('5a4ba1961d41c84881946784', 'glock in my toyota')
 Golden = Player('58c7303b1d41c8259fa1f8d2', 'Golden')
 CNIU = Player('58cc8c0f1d41c8259fa1fc49', 'CNIU')
 Guillotine = Player('5d295939421aa90f9fc1bd97', 'Guillotine')
@@ -83,7 +83,7 @@ Omar = Player('5d16d616421aa90f9fc1bc56', 'Omar')
 BeastBoy = Player('5d6a8bb3421aa954d874ad46', 'BeastBoy')
 Een = Player('59ed70bd1d41c84361b79428', 'Een')
 Uma = Player('5a4ba42d1d41c8488194678f', 'Uma')
-twentytwok = Player('58d0968e1d41c8259fa1fe60', '22K')
+Twentytwok = Player('58d0968e1d41c8259fa1fe60', '22K')
 Stus = Player('58c724e61d41c8259fa1f85c', 'Stus')
 Coach = Player('5c6ef669421aa93db94e9954', 'Coach')
 TS420 = Player('59eed00e1d41c84361b795c8', 'TS420')
@@ -92,14 +92,14 @@ Louis = Player('5ba19af6421aa91fa088b641', 'Louis')
 Lochist = Player('5c86c4d1421aa93db94e9ab6', 'Lochist')
 
 #store all players into a list
-players = [Slox, Joyboy, Kalvar, lint, Tiramisu, Palika, Thumbs, BigJoig,
+players = [Slox, Joyboy, Kalvar, Lint, Tiramisu, Palika, Thumbs, BigJoig,
            Warmmer, DrLobster, Ok, Clutch, Ses, Peacecraft, Project, GWM420,
-           bonfire10,glock, Golden, CNIU, Guillotine, Shuffle, TimTheGuy, 
+           Bonfire10, Glock, Golden, CNIU, Guillotine, Shuffle, TimTheGuy, 
            Kikoho, DrewNG, Arty, JNaut, Artelind, Meep, RyuCloud, Guex, Trail, 
            Younger, Silver, Dimension, Yasu, MrHeat, Shmeeli, Swoosh, Unlucky, 
            Woodcutting, Bank, Spiff, Scooby, PJ, Feo, BonkCushy, Hysteric, 
            Ferox, PSai, AdmiralZhao, Glasper, Tian, Twisty, TedGreene, NotMe, 
-           Alt, Klaps, FutureShock, Omar, BeastBoy, Een, Uma, twentytwok, Stus, 
+           Alt, Klaps, FutureShock, Omar, BeastBoy, Een, Uma, Twentytwok, Stus, 
            Coach, TS420, StacysStepdad, Louis, Lochist]
 
 #uncomment for reading to text file
