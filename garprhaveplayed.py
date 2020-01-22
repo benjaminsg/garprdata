@@ -85,6 +85,8 @@ Uma = Player('5a4ba42d1d41c8488194678f', 'Uma')
 Twentytwok = Player('58d0968e1d41c8259fa1fe60', '22K')
 Stus = Player('58c724e61d41c8259fa1f85c', 'Stus')
 Coach = Player('5c6ef669421aa93db94e9954', 'Coach')
+Dudutsai = Player('58c732681d41c8259fa1f905', 'dudutsai')
+Giraffe = Player('5d423a5a421aa954d874ab76', 'Giraffe')
 TS420 = Player('59eed00e1d41c84361b795c8', 'TS420')
 StacysStepdad = Player('5a4ba1961d41c84881946783', 'Stacy\'s Stepdad')
 Louis = Player('5ba19af6421aa91fa088b641', 'Louis')
@@ -99,7 +101,7 @@ players = [Slox, Joyboy, Kalvar, Lint, Tiramisu, Palika, Thumbs, BigJoig,
            Woodcutting, Bank, Spiff, Scooby, PJ, Feo, BonkCushy, Hysteric, 
            Ferox, PSai, AdmiralZhao, Glasper, Tian, Twisty, TedGreene, NotMe, 
            Alt, Klaps, FutureShock, Omar, BeastBoy, Een, Uma, Twentytwok, Stus, 
-           Coach, TS420, StacysStepdad, Louis, Lochist]
+           Coach, Dudutsai, Giraffe, TS420, StacysStepdad, Louis, Lochist]
 
 #initialize number of retries to access the csv file
 numretries = 0
@@ -148,8 +150,9 @@ for player in players:
         #check to make sure opponent is different from player
         if(player != opponent):
             
-            #uncomment to print matchup title to console
-            #print(player.name + " vs. " + opponent.name)
+            #print matchup title to console
+            print(player.name + " vs. " + opponent.name)
+            
             results.write(player.name + " vs. " + opponent.name + "\r\n")
             
             #generate URL to pull head-to-head json data from
@@ -209,8 +212,9 @@ for player in players:
                             break
             #write the resulting played boolean to the output text file
             results.write(str(played) + "\r\n")
-            #uncomment to print the played result to the console
-            #print(played)
+            #print the played result to the console
+            print(played)
+            
 results.close()
 
 #indicate the program has completed (typically takes a while, time will

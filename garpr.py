@@ -86,6 +86,8 @@ Uma = Player('5a4ba42d1d41c8488194678f', 'Uma')
 Twentytwok = Player('58d0968e1d41c8259fa1fe60', '22K')
 Stus = Player('58c724e61d41c8259fa1f85c', 'Stus')
 Coach = Player('5c6ef669421aa93db94e9954', 'Coach')
+Dudutsai = Player('58c732681d41c8259fa1f905', 'dudutsai')
+Giraffe = Player('5d423a5a421aa954d874ab76', 'Giraffe')
 TS420 = Player('59eed00e1d41c84361b795c8', 'TS420')
 StacysStepdad = Player('5a4ba1961d41c84881946783', 'Stacy\'s Stepdad')
 Louis = Player('5ba19af6421aa91fa088b641', 'Louis')
@@ -100,7 +102,7 @@ players = [Slox, Joyboy, Kalvar, Lint, Tiramisu, Palika, Thumbs, BigJoig,
            Woodcutting, Bank, Spiff, Scooby, PJ, Feo, BonkCushy, Hysteric, 
            Ferox, PSai, AdmiralZhao, Glasper, Tian, Twisty, TedGreene, NotMe, 
            Alt, Klaps, FutureShock, Omar, BeastBoy, Een, Uma, Twentytwok, Stus, 
-           Coach, TS420, StacysStepdad, Louis, Lochist]
+           Coach, Dudutsai, Giraffe, TS420, StacysStepdad, Louis, Lochist]
 
 #uncomment for reading to text file
 #results = open("h2hs.txt","a") 
