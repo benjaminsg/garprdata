@@ -59,7 +59,7 @@ Yasu = Player('5a4ba0ba1d41c8488194677a', 'Yasu')
 MrHeat = Player('59ed78aa1d41c84361b7947c', 'Mr. Heat')
 Shmeeli = Player('5d818416421aa954d874aecf', 'Shmeeli')
 Swoosh = Player('5d6fe5d9421aa954d874adff', 'Swoosh$')
-Unlucky = Player('58d1fa411d41c8259fa1febb', 'Unlucky')
+Kota = Player('58cc6fc61d41c8259fa1fb6a', 'Kota')
 Woodcutting = Player('5b75ec7e421aa91fa088b1ef', '99 Woodcutting')
 Bank = Player('59ed7c721d41c84361b79498', 'Bank')
 Spiff = Player('58c7321f1d41c8259fa1f8fe', 'Spiff')
@@ -84,6 +84,8 @@ BeastBoy = Player('5d6a8bb3421aa954d874ad46', 'BeastBoy')
 Een = Player('59ed70bd1d41c84361b79428', 'Een')
 Uma = Player('5a4ba42d1d41c8488194678f', 'Uma')
 Twentytwok = Player('58d0968e1d41c8259fa1fe60', '22K')
+Serb = Player('58cc6fc61d41c8259fa1fb5d', 'Serb')
+Poonpounder = Player('5e2fcf55421aa93e12ba4946', 'Poonpounder')
 Stus = Player('58c724e61d41c8259fa1f85c', 'Stus')
 Coach = Player('5c6ef669421aa93db94e9954', 'Coach')
 Dudutsai = Player('58c732681d41c8259fa1f905', 'dudutsai')
@@ -98,11 +100,12 @@ players = [Slox, Joyboy, Kalvar, Lint, Tiramisu, Palika, Thumbs, BigJoig,
            Warmmer, DrLobster, Ok, Clutch, Ses, Peacecraft, Project, GWM420,
            Bonfire10, Glock, Golden, CNIU, Guillotine, Shuffle, TimTheGuy, 
            Kikoho, DrewNG, Arty, JNaut, Artelind, Meep, RyuCloud, Guex, Trail, 
-           Younger, Silver, Dimension, Yasu, MrHeat, Shmeeli, Swoosh, Unlucky, 
+           Younger, Silver, Dimension, Yasu, MrHeat, Shmeeli, Swoosh, Kota, 
            Woodcutting, Bank, Spiff, Scooby, PJ, Feo, BonkCushy, Hysteric, 
            Ferox, PSai, AdmiralZhao, Glasper, Tian, Twisty, TedGreene, NotMe, 
-           Alt, Klaps, FutureShock, Omar, BeastBoy, Een, Uma, Twentytwok, Stus, 
-           Coach, Dudutsai, Giraffe, TS420, StacysStepdad, Louis, Lochist]
+           Alt, Klaps, FutureShock, Omar, BeastBoy, Een, Uma, Twentytwok, Serb,
+           Poonpounder, Stus, Coach, Dudutsai, Giraffe, TS420, StacysStepdad, 
+           Louis, Lochist]
 
 #uncomment for reading to text file
 #results = open("h2hs.txt","a") 
