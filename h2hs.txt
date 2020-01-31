@@ -49503,25 +49503,38 @@ Lochist vs. Louis
 Slox vs. Kalvar
 3 - 1
 Slox vs. lint
+<<<<<<< HEAD
 7 - 4
 Slox vs. Palika
 3 - 1
 Slox vs. Thumbs
 1 - 1
+=======
+7 - 3
+Slox vs. Palika
+3 - 1
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Slox vs. Warmmer
 1 - 1
 Slox vs. M. Peacecraft
 1 - 1
 Slox vs. Kikoho
+<<<<<<< HEAD
 5 - 0
+=======
+4 - 0
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Slox vs. DrewNG
 1 - 0
 Slox vs. Arty
 2 - 0
 Slox vs. JNaut
 1 - 0
+<<<<<<< HEAD
 Slox vs. BeastBoy
 1 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Joyboy vs. Tiramisu
 0 - 2
 Joyboy vs. BigJoig
@@ -49576,12 +49589,17 @@ Kalvar vs. DrLobster
 3 - 3
 Kalvar vs. Clutch
 2 - 0
+<<<<<<< HEAD
 Kalvar vs. Ses
 2 - 1
 Kalvar vs. Project
 1 - 0
 Kalvar vs. GWM420
 3 - 0
+=======
+Kalvar vs. GWM420
+2 - 0
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Kalvar vs. bonfire10
 4 - 0
 Kalvar vs. glock in my toyota
@@ -49601,7 +49619,11 @@ Kalvar vs. Meep
 Kalvar vs. Mr. Heat
 1 - 1
 Kalvar vs. Scooby
+<<<<<<< HEAD
 2 - 0
+=======
+1 - 0
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Kalvar vs. PJ
 5 - 0
 Kalvar vs. Ferox
@@ -49624,24 +49646,39 @@ Kalvar vs. BeastBoy
 1 - 0
 Kalvar vs. Uma
 2 - 0
+<<<<<<< HEAD
 Kalvar vs. Serb
 2 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Kalvar vs. Stus
 1 - 0
 Kalvar vs. Giraffe
 1 - 0
 lint vs. Slox
+<<<<<<< HEAD
 4 - 7
 lint vs. Palika
 15 - 2
 lint vs. Thumbs
 1 - 1
+=======
+3 - 7
+lint vs. Palika
+15 - 2
+lint vs. Thumbs
+0 - 1
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 lint vs. Warmmer
 5 - 0
 lint vs. TimTheGuy
 1 - 0
 lint vs. Kikoho
+<<<<<<< HEAD
 5 - 2
+=======
+4 - 2
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 lint vs. Arty
 2 - 0
 lint vs. Tian
@@ -49684,10 +49721,15 @@ Palika vs. Arty
 3 - 0
 Palika vs. Mr. Heat
 1 - 0
+<<<<<<< HEAD
 Thumbs vs. Slox
 1 - 1
 Thumbs vs. lint
 1 - 1
+=======
+Thumbs vs. lint
+1 - 0
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Thumbs vs. Palika
 2 - 0
 Thumbs vs. Guillotine
@@ -49836,18 +49878,28 @@ Clutch vs. Een
 2 - 0
 Clutch vs. 22K
 4 - 0
+<<<<<<< HEAD
 Clutch vs. Serb
 1 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Clutch vs. Stacy's Stepdad
 1 - 1
 Clutch vs. Lochist
 1 - 0
+<<<<<<< HEAD
 Ses vs. Kalvar
 1 - 2
 Ses vs. Warmmer
 0 - 1
 Ses vs. Guillotine
 2 - 0
+=======
+Ses vs. Warmmer
+0 - 1
+Ses vs. Guillotine
+1 - 0
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Ses vs. JNaut
 2 - 0
 Ses vs. Yasu
@@ -49856,8 +49908,11 @@ Ses vs. PJ
 1 - 0
 Ses vs. Twisty
 1 - 0
+<<<<<<< HEAD
 Ses vs. Uma
 1 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Ses vs. Stacy's Stepdad
 0 - 1
 M. Peacecraft vs. Slox
@@ -49870,14 +49925,20 @@ M. Peacecraft vs. TimTheGuy
 1 - 0
 M. Peacecraft vs. Kikoho
 1 - 1
+<<<<<<< HEAD
 Project vs. Kalvar
 0 - 1
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Project vs. Tiramisu
 1 - 0
 Project vs. Warmmer
 0 - 1
+<<<<<<< HEAD
 Project vs. GWM420
 0 - 1
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Project vs. bonfire10
 0 - 2
 Project vs. glock in my toyota
@@ -49885,13 +49946,20 @@ Project vs. glock in my toyota
 Project vs. CNIU
 1 - 0
 Project vs. Guillotine
+<<<<<<< HEAD
 3 - 0
+=======
+2 - 0
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Project vs. Bank
 1 - 0
 Project vs. Scooby
 1 - 0
+<<<<<<< HEAD
 Project vs. PJ
 1 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Project vs. Hysteric
 1 - 1
 Project vs. Ferox
@@ -49900,14 +49968,21 @@ Project vs. Alt
 2 - 0
 Project vs. 22K
 1 - 0
+<<<<<<< HEAD
 Project vs. Serb
 1 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Project vs. Louis
 0 - 1
 GWM420 vs. Joyboy
 0 - 1
 GWM420 vs. Kalvar
+<<<<<<< HEAD
 0 - 3
+=======
+0 - 2
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 GWM420 vs. BigJoig
 0 - 2
 GWM420 vs. DrLobster
@@ -49916,8 +49991,11 @@ GWM420 vs. Clutch
 1 - 1
 GWM420 vs. M. Peacecraft
 0 - 1
+<<<<<<< HEAD
 GWM420 vs. Project
 1 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 GWM420 vs. bonfire10
 1 - 0
 GWM420 vs. glock in my toyota
@@ -49945,7 +50023,11 @@ GWM420 vs. Spiff
 GWM420 vs. Scooby
 1 - 0
 GWM420 vs. PJ
+<<<<<<< HEAD
 2 - 1
+=======
+1 - 1
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 GWM420 vs. Tian
 1 - 0
 GWM420 vs. Ted Greene
@@ -49958,12 +50040,17 @@ GWM420 vs. Future Shock
 1 - 0
 GWM420 vs. BeastBoy
 6 - 2
+<<<<<<< HEAD
 GWM420 vs. Uma
 1 - 0
 GWM420 vs. 22K
 1 - 0
 GWM420 vs. Serb
 0 - 1
+=======
+GWM420 vs. 22K
+1 - 0
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 GWM420 vs. dudutsai
 0 - 1
 bonfire10 vs. Kalvar
@@ -50046,8 +50133,11 @@ glock in my toyota vs. Shmeeli
 1 - 0
 glock in my toyota vs. Swoosh$
 2 - 0
+<<<<<<< HEAD
 glock in my toyota vs. Kota
 1 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 glock in my toyota vs. 99 Woodcutting
 1 - 0
 glock in my toyota vs. Spiff
@@ -50084,8 +50174,11 @@ glock in my toyota vs. Een
 2 - 0
 glock in my toyota vs. 22K
 2 - 0
+<<<<<<< HEAD
 glock in my toyota vs. Serb
 0 - 1
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 glock in my toyota vs. Stus
 0 - 1
 glock in my toyota vs. dudutsai
@@ -50157,9 +50250,15 @@ Guillotine vs. DrLobster
 Guillotine vs. Clutch
 1 - 2
 Guillotine vs. Ses
+<<<<<<< HEAD
 0 - 2
 Guillotine vs. Project
 0 - 3
+=======
+0 - 1
+Guillotine vs. Project
+0 - 2
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Guillotine vs. GWM420
 1 - 0
 Guillotine vs. bonfire10
@@ -50204,10 +50303,13 @@ Guillotine vs. Uma
 1 - 0
 Guillotine vs. 22K
 2 - 0
+<<<<<<< HEAD
 Guillotine vs. Serb
 2 - 0
 Guillotine vs. Poonpounder
 2 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Guillotine vs. Giraffe
 1 - 1
 Guillotine vs. TS420
@@ -50241,11 +50343,19 @@ TimTheGuy vs. Artelind
 TimTheGuy vs. Meep
 1 - 1
 Kikoho vs. Slox
+<<<<<<< HEAD
 0 - 5
 Kikoho vs. Kalvar
 0 - 1
 Kikoho vs. lint
 2 - 5
+=======
+0 - 4
+Kikoho vs. Kalvar
+0 - 1
+Kikoho vs. lint
+2 - 4
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Kikoho vs. Palika
 2 - 14
 Kikoho vs. Thumbs
@@ -50266,14 +50376,22 @@ Kikoho vs. Artelind
 0 - 1
 Kikoho vs. Guex
 1 - 0
+<<<<<<< HEAD
+=======
+Kikoho vs. Unlucky
+1 - 0
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Kikoho vs. Tian
 1 - 0
 Kikoho vs. Alt
 1 - 0
 Kikoho vs. Future Shock
 1 - 0
+<<<<<<< HEAD
 Kikoho vs. BeastBoy
 1 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 DrewNG vs. Slox
 0 - 1
 DrewNG vs. Joyboy
@@ -50402,8 +50520,11 @@ Artelind vs. Guex
 0 - 1
 Artelind vs. Yasu
 0 - 1
+<<<<<<< HEAD
 Artelind vs. Kota
 1 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Artelind vs. PJ
 1 - 0
 Artelind vs. Hysteric
@@ -50448,8 +50569,11 @@ RyuCloud vs. Guex
 3 - 3
 RyuCloud vs. Trail
 0 - 4
+<<<<<<< HEAD
 RyuCloud vs. Kota
 2 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 RyuCloud vs. Een
 3 - 1
 Guex vs. Joyboy
@@ -50486,8 +50610,11 @@ Guex vs. Mr. Heat
 0 - 1
 Guex vs. Swoosh$
 1 - 0
+<<<<<<< HEAD
 Guex vs. Kota
 1 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Guex vs. Scooby
 1 - 0
 Guex vs. PJ
@@ -50502,8 +50629,11 @@ Guex vs. Future Shock
 1 - 2
 Guex vs. Uma
 0 - 1
+<<<<<<< HEAD
 Guex vs. Serb
 1 - 1
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Guex vs. Stus
 1 - 0
 Trail vs. Joyboy
@@ -50580,8 +50710,11 @@ Dimension vs. Yasu
 0 - 3
 Dimension vs. Mr. Heat
 3 - 0
+<<<<<<< HEAD
 Dimension vs. Kota
 2 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Dimension vs. 99 Woodcutting
 1 - 0
 Dimension vs. Spiff
@@ -50640,8 +50773,11 @@ Yasu vs. Mr. Heat
 0 - 1
 Yasu vs. Shmeeli
 2 - 1
+<<<<<<< HEAD
 Yasu vs. Kota
 1 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Yasu vs. 99 Woodcutting
 0 - 1
 Yasu vs. Spiff
@@ -50778,6 +50914,11 @@ Swoosh$ vs. Guex
 0 - 1
 Swoosh$ vs. Shmeeli
 0 - 1
+<<<<<<< HEAD
+=======
+Swoosh$ vs. Unlucky
+0 - 1
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Swoosh$ vs. 99 Woodcutting
 0 - 1
 Swoosh$ vs. Spiff
@@ -50800,6 +50941,7 @@ Swoosh$ vs. BeastBoy
 1 - 0
 Swoosh$ vs. Uma
 2 - 0
+<<<<<<< HEAD
 Kota vs. glock in my toyota
 0 - 1
 Kota vs. Artelind
@@ -50830,6 +50972,14 @@ Kota vs. Een
 2 - 4
 Kota vs. 22K
 1 - 2
+=======
+Unlucky vs. Kikoho
+0 - 1
+Unlucky vs. Swoosh$
+1 - 0
+Unlucky vs. Spiff
+1 - 0
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 99 Woodcutting vs. Clutch
 0 - 1
 99 Woodcutting vs. glock in my toyota
@@ -50900,8 +51050,13 @@ Spiff vs. Shmeeli
 4 - 0
 Spiff vs. Swoosh$
 1 - 0
+<<<<<<< HEAD
 Spiff vs. Kota
 1 - 0
+=======
+Spiff vs. Unlucky
+0 - 1
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Spiff vs. 99 Woodcutting
 2 - 0
 Spiff vs. Scooby
@@ -50941,7 +51096,11 @@ Spiff vs. Stus
 Spiff vs. dudutsai
 1 - 0
 Scooby vs. Kalvar
+<<<<<<< HEAD
 0 - 2
+=======
+0 - 1
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Scooby vs. BigJoig
 0 - 1
 Scooby vs. Clutch
@@ -50966,8 +51125,11 @@ Scooby vs. Shmeeli
 0 - 2
 Scooby vs. Swoosh$
 2 - 0
+<<<<<<< HEAD
 Scooby vs. Kota
 2 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Scooby vs. 99 Woodcutting
 1 - 0
 Scooby vs. Bank
@@ -51006,10 +51168,13 @@ Scooby vs. Een
 1 - 2
 Scooby vs. Uma
 1 - 0
+<<<<<<< HEAD
 Scooby vs. Serb
 0 - 1
 Scooby vs. Poonpounder
 1 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Scooby vs. Stus
 6 - 0
 Scooby vs. dudutsai
@@ -51024,10 +51189,15 @@ PJ vs. DrLobster
 0 - 1
 PJ vs. Ses
 0 - 1
+<<<<<<< HEAD
 PJ vs. Project
 0 - 1
 PJ vs. GWM420
 1 - 2
+=======
+PJ vs. GWM420
+1 - 1
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 PJ vs. bonfire10
 0 - 2
 PJ vs. glock in my toyota
@@ -51054,8 +51224,11 @@ PJ vs. Shmeeli
 2 - 1
 PJ vs. Swoosh$
 1 - 1
+<<<<<<< HEAD
 PJ vs. Kota
 3 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 PJ vs. 99 Woodcutting
 1 - 1
 PJ vs. Spiff
@@ -51096,8 +51269,11 @@ PJ vs. Een
 1 - 0
 PJ vs. Uma
 1 - 0
+<<<<<<< HEAD
 PJ vs. Serb
 2 - 1
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 PJ vs. Stus
 4 - 0
 PJ vs. Coach
@@ -51470,8 +51646,11 @@ Twisty vs. Uma
 0 - 2
 Twisty vs. 22K
 3 - 1
+<<<<<<< HEAD
 Twisty vs. Serb
 1 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Twisty vs. Giraffe
 0 - 2
 Twisty vs. Stacy's Stepdad
@@ -51558,8 +51737,11 @@ Alt vs. Dimension
 0 - 1
 Alt vs. Swoosh$
 0 - 1
+<<<<<<< HEAD
 Alt vs. Kota
 0 - 1
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Alt vs. 99 Woodcutting
 0 - 1
 Alt vs. Bank
@@ -51586,8 +51768,11 @@ Alt vs. Uma
 1 - 0
 Alt vs. 22K
 4 - 0
+<<<<<<< HEAD
 Alt vs. Serb
 2 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Alt vs. Stus
 1 - 0
 Klaps vs. Kalvar
@@ -51624,8 +51809,11 @@ Klaps vs. Alt
 1 - 1
 Klaps vs. Future Shock
 1 - 0
+<<<<<<< HEAD
 Klaps vs. Poonpounder
 1 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Klaps vs. dudutsai
 0 - 1
 Klaps vs. Giraffe
@@ -51658,8 +51846,11 @@ Future Shock vs. Dimension
 0 - 1
 Future Shock vs. Yasu
 1 - 1
+<<<<<<< HEAD
 Future Shock vs. Kota
 0 - 7
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Future Shock vs. 99 Woodcutting
 1 - 1
 Future Shock vs. Bank
@@ -51693,13 +51884,20 @@ Future Shock vs. Klaps
 Future Shock vs. Omar
 1 - 2
 Future Shock vs. Een
+<<<<<<< HEAD
 2 - 4
+=======
+1 - 4
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Future Shock vs. Uma
 1 - 2
 Future Shock vs. 22K
 3 - 1
+<<<<<<< HEAD
 Future Shock vs. Serb
 1 - 2
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Future Shock vs. Stus
 0 - 2
 Omar vs. Kalvar
@@ -51718,8 +51916,11 @@ Omar vs. Shmeeli
 1 - 2
 Omar vs. Swoosh$
 1 - 0
+<<<<<<< HEAD
 Omar vs. Kota
 1 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Omar vs. Spiff
 1 - 0
 Omar vs. PJ
@@ -51746,8 +51947,11 @@ Omar vs. Stus
 1 - 0
 Omar vs. dudutsai
 0 - 1
+<<<<<<< HEAD
 BeastBoy vs. Slox
 0 - 1
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 BeastBoy vs. Kalvar
 0 - 1
 BeastBoy vs. Tiramisu
@@ -51762,16 +51966,22 @@ BeastBoy vs. Golden
 1 - 2
 BeastBoy vs. Guillotine
 0 - 1
+<<<<<<< HEAD
 BeastBoy vs. Kikoho
 0 - 1
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 BeastBoy vs. Artelind
 0 - 1
 BeastBoy vs. Shmeeli
 0 - 1
 BeastBoy vs. Swoosh$
 0 - 1
+<<<<<<< HEAD
 BeastBoy vs. Kota
 0 - 1
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 BeastBoy vs. Scooby
 1 - 0
 BeastBoy vs. PJ
@@ -51790,8 +52000,11 @@ BeastBoy vs. Uma
 1 - 0
 BeastBoy vs. 22K
 0 - 1
+<<<<<<< HEAD
 BeastBoy vs. Serb
 1 - 0
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 BeastBoy vs. Stus
 3 - 2
 BeastBoy vs. Louis
@@ -51810,8 +52023,11 @@ Een vs. RyuCloud
 1 - 3
 Een vs. Trail
 0 - 3
+<<<<<<< HEAD
 Een vs. Kota
 4 - 2
+=======
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
 Een vs. Scooby
 2 - 1
 Een vs. PJ
@@ -51827,6 +52043,7 @@ Een vs. Twisty
 Een vs. Alt
 0 - 2
 Een vs. Future Shock
+<<<<<<< HEAD
 4 - 2
 Een vs. BeastBoy
 1 - 0
@@ -52120,3 +52337,6 @@ Lochist vs. PJ
 1 - 0
 Lochist vs. Louis
 2 - 9
+=======
+4 - 1
+>>>>>>> 3f09ed8f4c817ad5685919fc1680e2cbe908b3a5
