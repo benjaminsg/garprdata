@@ -21,6 +21,7 @@ seasonend = datetime(2020, 3, 22)
 #create all players
 AdmiralZhao = Player('58cd956a1d41c8259fa1fd0b', 'Admiral Zhao')
 Alt = Player('5c65f982421aa93db94e98a5', 'Alt')
+Arcade = Player('58cc88171d41c8259fa1fc21', 'Arcade')
 Artelind = Player('58d20b761d41c8259fa1ff7b', 'Artelind')
 Arty = Player('53c64c738ab65f6e27751221', 'Arty')
 Bank = Player('59ed7c721d41c84361b79498', 'Bank')
@@ -32,6 +33,7 @@ BonkCushy = Player('542cf48e8ab65f5dcb8ce4ab', 'BonkCushy')
 Clutch = Player('5d698f0b421aa954d874acfb', 'Clutch')
 CNIU = Player('58cc8c0f1d41c8259fa1fc49', 'CNIU')
 Coach = Player('5c6ef669421aa93db94e9954', 'Coach')
+Deadstock = Player('59fdf5cf1d41c84361b79b8e', 'Deadstock')
 Dimension = Player('5b16ba781d41c86e982900e4', 'Dimension')
 DrewNG = Player('596272821d41c840fdcf8804', 'DrewNG')
 DrLobster = Player('5d4e3f57421aa954d874ac18', 'DrLobster')
@@ -47,7 +49,9 @@ Golden = Player('58c7303b1d41c8259fa1f8d2', 'Golden')
 Guex = Player('58c73fce1d41c8259fa1fa3d', 'Guex')
 Guillotine = Player('5d295939421aa90f9fc1bd97', 'Guillotine')
 GWM420 = Player('5a4ba23b1d41c84881946788', 'GWM420')
+Hexjo = Player('5d6fe5d9421aa954d874adfb', 'Hexjo')
 Hysteric = Player('5b633156421aa91fa088af7a', 'Hysteric')
+IOA = Player('58c72fd21d41c8259fa1f8c9', 'IOA')
 JNaut = Player('58c7317e1d41c8259fa1f8e3', 'JNaut')
 Joyboy = Player('58c73c7e1d41c8259fa1f9c5', 'Joyboy')
 Kalvar = Player('58c726dd1d41c8259fa1f870', 'Kalvar')
@@ -59,7 +63,7 @@ Lochist = Player('5c86c4d1421aa93db94e9ab6', 'Lochist')
 Louis = Player('5ba19af6421aa91fa088b641', 'Louis')
 Meep = Player('58c73d181d41c8259fa1f9d0', 'Meep')
 MrHeat = Player('59ed78aa1d41c84361b7947c', 'Mr. Heat')
-NotMe = Player('5baa5b0d421aa91fa088b708', 'NotMe')
+Nugget = Player('58c729f41d41c8259fa1f8a2', 'Nugget')
 Ok = Player('5d295678421aa90f9fc1bd83', 'WAS | Ok')
 Omar = Player('5d16d616421aa90f9fc1bc56', 'Omar')
 Palika = Player('58cc88171d41c8259fa1fc20', 'Palika')
@@ -80,6 +84,7 @@ Spiff = Player('58c7321f1d41c8259fa1f8fe', 'Spiff')
 StacysStepdad = Player('5a4ba1961d41c84881946783', 'Stacy\'s Stepdad')
 Stus = Player('58c724e61d41c8259fa1f85c', 'Stus')
 Swoosh = Player('5d6fe5d9421aa954d874adff', 'Swoosh$')
+Takyon = Player('58c73fce1d41c8259fa1fa3c', 'Takyon')
 TedGreene = Player('58b6552e1d41c867e937f7e7', 'Ted Greene')
 Thumbs = Player('58d082921d41c8259fa1fe0a', 'Thumbs')
 Tian = Player('545b23eb8ab65f7a95f74924', 'Tian')
@@ -99,13 +104,14 @@ Younger = Player('54af8e44d2994e1346cd31da', 'Younger')
 players = [Slox, Joyboy, Kalvar, Lint, Tiramisu, Palika, Thumbs, BigJoig,
            Warmmer, DrLobster, Ok, Clutch, Ses, Peacecraft, Project, GWM420,
            Bonfire10, Glock, Golden, CNIU, Guillotine, Shuffle, TimTheGuy, 
-           Kikoho, DrewNG, Arty, JNaut, Artelind, Meep, RyuCloud, Guex, Trail, 
-           Silver, Dimension, Yasu, MrHeat, Younger, Klaps, Dudutsai, Tian, 
-           PJ, Hysteric, NotMe, Spiff, AdmiralZhao, Woodcutting, Shmeeli, PSai, 
-           Glasper, Feo, Swoosh, Omar, Ferox, TedGreene, Alt, BonkCushy, 
-           Scooby, Twisty, Een, Uma, Twentytwok, Serb, Poonpounder, Giraffe,
-           Stus, BeastBoy, FutureShock, Kota, Bank, BigRedAnimeBike, Coach, 
-           TS420, StacysStepdad, Louis, Lochist]
+           Kikoho, DrewNG, Arty, Deadstock, JNaut, Artelind, Meep, RyuCloud, 
+           Guex, Trail, Silver, Dimension, Yasu, MrHeat, Younger, Klaps, 
+           Dudutsai, Tian, PJ, Hysteric, Spiff, AdmiralZhao, Woodcutting, 
+           Shmeeli, PSai, Glasper, Feo, Swoosh, Omar, Ferox, Hexjo, TedGreene, 
+           Alt, BonkCushy, Scooby, Twisty, Een, Uma, Twentytwok, Nugget, Serb, 
+           Poonpounder, Giraffe, Stus, IOA, BeastBoy, FutureShock, Kota, 
+           Takyon, Bank, BigRedAnimeBike, Coach, Arcade, TS420, StacysStepdad, 
+           Louis, Lochist]
 
 #initialize number of retries to access the csv file
 numretries = 0
