@@ -90,7 +90,6 @@ TedGreene = Player('58b6552e1d41c867e937f7e7', 'Ted Greene')
 Thumbs = Player('58d082921d41c8259fa1fe0a', 'Thumbs')
 Tian = Player('545b23eb8ab65f7a95f74924', 'Tian')
 TimTheGuy = Player('58d333ed1d41c8259fa2001f', 'TimTheGuy')
-Tiramisu = Player('58d08cd91d41c8259fa1fe3b', 'Tiramisu')
 Trail = Player('5a93cebe1d41c80e2802a7fa', 'Trail')
 TS420 = Player('59eed00e1d41c84361b795c8', 'TS420')
 Twentytwok = Player('58d0968e1d41c8259fa1fe60', '22K')
@@ -102,7 +101,7 @@ Yasu = Player('5a4ba0ba1d41c8488194677a', 'Yasu')
 Younger = Player('54af8e44d2994e1346cd31da', 'Younger')
 
 #store all players into a list
-players = [Slox, Joyboy, Kalvar, Lint, Tiramisu, Palika, Thumbs, BigJoig,
+players = [Slox, Joyboy, Kalvar, Lint, Palika, Thumbs, BigJoig,
            Warmmer, DrLobster, Ok, Clutch, Ses, Peacecraft, Project, GWM420,
            Bonfire10, Glock, Golden, CNIU, Guillotine, Shuffle, TimTheGuy, 
            Kikoho, DrewNG, Arty, Deadstock, JNaut, Artelind, Meep, RyuCloud, 
