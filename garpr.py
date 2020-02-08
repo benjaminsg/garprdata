@@ -65,7 +65,6 @@ Louis = Player('5ba19af6421aa91fa088b641', 'Louis')
 Meep = Player('58c73d181d41c8259fa1f9d0', 'Meep')
 MrHeat = Player('59ed78aa1d41c84361b7947c', 'Mr. Heat')
 Nugget = Player('58c729f41d41c8259fa1f8a2', 'Nugget')
-Ok = Player('5d295678421aa90f9fc1bd83', 'WAS | Ok')
 Omar = Player('5d16d616421aa90f9fc1bc56', 'Omar')
 Palika = Player('58cc88171d41c8259fa1fc20', 'Palika')
 Peacecraft = Player('587c636d1d41c82e80d55aaf', 'M. Peacecraft')
@@ -102,7 +101,7 @@ Younger = Player('54af8e44d2994e1346cd31da', 'Younger')
 
 #store all players into a list
 players = [Slox, Joyboy, Kalvar, Lint, Palika, Thumbs, BigJoig,
-           Warmmer, DrLobster, Ok, Clutch, Ses, Peacecraft, Project, GWM420,
+           Warmmer, DrLobster, Clutch, Ses, Peacecraft, Project, GWM420,
            Bonfire10, Glock, Golden, CNIU, Guillotine, Shuffle, TimTheGuy, 
            Kikoho, DrewNG, Arty, Deadstock, JNaut, Artelind, Meep, RyuCloud, 
            Guex, Trail, Silver, Dimension, Yasu, MrHeat, Younger, Klaps, 
