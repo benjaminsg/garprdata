@@ -15,8 +15,8 @@ class Player:
 maxretries = 20
     
 #specify start and endtimes of season to collect data from (can be any timeframe)
-seasonstart = datetime(2019, 9, 23)
-seasonend = datetime(2020, 3, 22)
+seasonstart = datetime(2019, 3, 24)
+seasonend = datetime(2020, 9, 22)
 
 #create all players
 AdmiralZhao = Player('58cd956a1d41c8259fa1fd0b', 'Admiral Zhao')
