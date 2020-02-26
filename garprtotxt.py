@@ -25,6 +25,7 @@ Arcade = Player('58cc88171d41c8259fa1fc21', 'Arcade')
 Artelind = Player('58d20b761d41c8259fa1ff7b', 'Artelind')
 Arty = Player('53c64c738ab65f6e27751221', 'Arty')
 Bank = Player('59ed7c721d41c84361b79498', 'Bank')
+Beansoup = Player('5e444f96421aa93e12ba4f9e', 'beansoup')
 BeastBoy = Player('5d6a8bb3421aa954d874ad46', 'BeastBoy')
 BigJoig = Player('545c83e88ab65f126349d8bb', 'BigJoig')
 BigRedAnimeBike = Player('58752d371d41c82e80d558a3', 'BigRedAnimeBike')
@@ -33,12 +34,12 @@ BonkCushy = Player('542cf48e8ab65f5dcb8ce4ab', 'BonkCushy')
 Clutch = Player('5d698f0b421aa954d874acfb', 'Clutch')
 CNIU = Player('58cc8c0f1d41c8259fa1fc49', 'CNIU')
 Coach = Player('5c6ef669421aa93db94e9954', 'Coach')
-Deadstock = Player('59fdf5cf1d41c84361b79b8e', 'Deadstock')
 Dimension = Player('5b16ba781d41c86e982900e4', 'Dimension')
 DrewNG = Player('596272821d41c840fdcf8804', 'DrewNG')
 DrLobster = Player('5d4e3f57421aa954d874ac18', 'DrLobster')
 Dudutsai = Player('58c732681d41c8259fa1f905', 'dudutsai')
 Een = Player('59ed70bd1d41c84361b79428', 'Een')
+Elen = Player('5e444f96421aa93e12ba4f9d', 'Elen')
 Feo = Player('5d818416421aa954d874aed1', 'Feo')
 Ferox = Player('58cc6fc61d41c8259fa1fb6b', 'Ferox')
 FutureShock = Player('5ade76ef1d41c852c7240f91', 'Future Shock')
@@ -71,6 +72,7 @@ PJ = Player('542cf4d08ab65f5e0c6e0751', 'PJ')
 Poonpounder = Player('5e2fcf55421aa93e12ba4946', 'Poonpounder')
 Project = Player('58cc748e1d41c8259fa1fbb8', 'Project')
 PSai = Player('5d82976f421aa954d874af04', 'PSai')
+Ricky = Player('58cc88171d41c8259fa1fc23', 'Ricky')
 RyuCloud = Player('58c739fa1d41c8259fa1f97f', 'RyuCloud')
 Scooby = Player('59ed70bd1d41c84361b79427', 'Scooby')
 Serb = Player('58cc6fc61d41c8259fa1fb5d', 'Serb')
@@ -102,14 +104,14 @@ Younger = Player('54af8e44d2994e1346cd31da', 'Younger')
 players = [Slox, Joyboy, Kalvar, Lint, Palika, Thumbs, BigJoig,
            Warmmer, DrLobster, Clutch, Ses, Peacecraft, Project, GWM420,
            Bonfire10, Glock, Golden, CNIU, Guillotine, Shuffle, TimTheGuy, 
-           Kikoho, DrewNG, Arty, Deadstock, JNaut, Artelind, Meep, RyuCloud, 
+           Kikoho, DrewNG, Arty, Ricky, JNaut, Artelind, Meep, RyuCloud, 
            Guex, Trail, Silver, Dimension, Yasu, MrHeat, Younger, Klaps, 
            Dudutsai, Tian, PJ, Hysteric, Spiff, AdmiralZhao, Woodcutting, 
            Shmeeli, PSai, Glasper, Feo, Swoosh, Omar, Ferox, Hexjo, TedGreene, 
-           Alt, BonkCushy, Scooby, Twisty, Een, Uma, Twentytwok, Nugget, Serb, 
-           Poonpounder, Giraffe, Stus, IOA, BeastBoy, FutureShock, Kota, 
-           Takyon, Bank, BigRedAnimeBike, Coach, Arcade, TS420, StacysStepdad, 
-           Louis, Lochist]
+           Alt, BonkCushy, Scooby, Twisty, Elen, Beansoup, Een, Uma, 
+           Twentytwok, Nugget, Serb, Poonpounder, Giraffe, Stus, IOA, BeastBoy, 
+           FutureShock, Kota, Takyon, Bank, BigRedAnimeBike, Coach, Arcade, 
+           TS420, StacysStepdad, Louis, Lochist]
 
 #initialize number of retries to access the csv file
 numretries = 0
@@ -222,7 +224,15 @@ for player in players:
                         elif(match['result'] == 'lose'):
                             losses += 1
                             played = True
-                            
+             
+            #handle additional set Slox and DrLobster played OOR               
+            if(player == Slox and opponent == DrLobster):
+                wins += 1
+                played = True
+            elif(player == DrLobster and opponent == Slox):
+                losses += 1
+                played = True    
+                
             #if the players have played, print the head-to-head to the console
             #and record the win and loss counts in the playerlist
             if(played):
