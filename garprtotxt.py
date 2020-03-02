@@ -27,6 +27,7 @@ Arty = Player('53c64c738ab65f6e27751221', 'Arty')
 Bank = Player('59ed7c721d41c84361b79498', 'Bank')
 Beansoup = Player('5e444f96421aa93e12ba4f9e', 'beansoup')
 BeastBoy = Player('5d6a8bb3421aa954d874ad46', 'BeastBoy')
+Ben = Player('5dbb8aca421aa97778f4f808', 'Ben')
 BigJoig = Player('545c83e88ab65f126349d8bb', 'BigJoig')
 BigRedAnimeBike = Player('58752d371d41c82e80d558a3', 'BigRedAnimeBike')
 Bonfire10 = Player('58c7303b1d41c8259fa1f8dd', 'bonfire10')
@@ -78,7 +79,6 @@ Scooby = Player('59ed70bd1d41c84361b79427', 'Scooby')
 Serb = Player('58cc6fc61d41c8259fa1fb5d', 'Serb')
 Ses = Player('58c72fd21d41c8259fa1f8cc', 'Ses')
 Shmeeli = Player('5d818416421aa954d874aecf', 'Shmeeli')
-Shuffle = Player('58c727fa1d41c8259fa1f88d', 'Shuffle')
 Silver = Player('58c7303b1d41c8259fa1f8dc', 'Silver')
 Slox = Player('542ded228ab65f7d9c8294d1', 'Slox')
 Spiff = Player('58c7321f1d41c8259fa1f8fe', 'Spiff')
@@ -103,15 +103,15 @@ Younger = Player('54af8e44d2994e1346cd31da', 'Younger')
 #store all players into a list
 players = [Slox, Joyboy, Kalvar, Lint, Palika, Thumbs, BigJoig,
            Warmmer, DrLobster, Clutch, Ses, Peacecraft, Project, GWM420,
-           Bonfire10, Glock, Golden, CNIU, Guillotine, Shuffle, TimTheGuy, 
-           Kikoho, DrewNG, Arty, Ricky, JNaut, Artelind, Meep, RyuCloud, 
-           Guex, Trail, Silver, Dimension, Yasu, MrHeat, Younger, Klaps, 
-           Dudutsai, Tian, PJ, Hysteric, Spiff, AdmiralZhao, Woodcutting, 
-           Shmeeli, PSai, Glasper, Feo, Swoosh, Omar, Ferox, Hexjo, TedGreene, 
-           Alt, BonkCushy, Scooby, Twisty, Elen, Beansoup, Een, Uma, 
-           Twentytwok, Nugget, Serb, Poonpounder, Giraffe, Stus, IOA, BeastBoy, 
-           FutureShock, Kota, Takyon, Bank, BigRedAnimeBike, Coach, Arcade, 
-           TS420, StacysStepdad, Louis, Lochist]
+           Bonfire10, Glock, Golden, CNIU, Guillotine, Ben, TimTheGuy, Kikoho, 
+           DrewNG, Arty, Ricky, JNaut, Artelind, Meep, RyuCloud, Guex, Trail, 
+           Silver, Dimension, Yasu, MrHeat, Younger, Klaps, Dudutsai, Tian, PJ, 
+           Hysteric, Spiff, AdmiralZhao, Woodcutting, Shmeeli, PSai, Glasper, 
+           Feo, Swoosh, Omar, Ferox, Hexjo, TedGreene, Alt, BonkCushy, Scooby, 
+           Twisty, Elen, Beansoup, Een, Uma, Twentytwok, Nugget, Serb, 
+           Poonpounder, Giraffe, Stus, IOA, BeastBoy, FutureShock, Kota, 
+           Takyon, Bank, BigRedAnimeBike, Coach, Arcade, TS420, StacysStepdad, 
+           Louis, Lochist]
 
 #initialize number of retries to access the csv file
 numretries = 0
