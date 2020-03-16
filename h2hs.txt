@@ -3371,3 +3371,234 @@ Future Shock vs. Nugget
 Future Shock vs. Serb
 1 - 2
 Future Shock vs. Stus
+1 - 3
+Future Shock vs. Kota
+0 - 17
+Future Shock vs. Takyon
+2 - 11
+Future Shock vs. Bank
+0 - 3
+Future Shock vs. BigRedAnimeBike
+2 - 2
+Kota vs. Kalvar
+0 - 1
+Kota vs. glock in my toyota
+0 - 1
+Kota vs. Artelind
+0 - 1
+Kota vs. RyuCloud
+0 - 2
+Kota vs. Guex
+0 - 1
+Kota vs. Trail
+2 - 9
+Kota vs. Dimension
+0 - 2
+Kota vs. Yasu
+0 - 1
+Kota vs. Younger
+0 - 1
+Kota vs. PJ
+0 - 4
+Kota vs. Spiff
+0 - 2
+Kota vs. Shmeeli
+0 - 1
+Kota vs. Swoosh$
+1 - 0
+Kota vs. Omar
+0 - 2
+Kota vs. Hexjo
+1 - 0
+Kota vs. Alt
+1 - 0
+Kota vs. Scooby
+0 - 2
+Kota vs. Elen
+0 - 1
+Kota vs. beansoup
+1 - 0
+Kota vs. Een
+3 - 4
+Kota vs. 22K
+1 - 2
+Kota vs. Nugget
+1 - 0
+Kota vs. BeastBoy
+1 - 0
+Kota vs. Future Shock
+17 - 0
+Kota vs. Takyon
+0 - 2
+Kota vs. BigRedAnimeBike
+0 - 1
+Takyon vs. Trail
+0 - 1
+Takyon vs. Shmeeli
+1 - 0
+Takyon vs. Feo
+0 - 1
+Takyon vs. Hexjo
+0 - 1
+Takyon vs. Een
+0 - 1
+Takyon vs. Future Shock
+11 - 2
+Takyon vs. Kota
+2 - 0
+Takyon vs. BigRedAnimeBike
+1 - 2
+Bank vs. Project
+0 - 1
+Bank vs. GWM420
+1 - 1
+Bank vs. Guillotine
+0 - 1
+Bank vs. TimTheGuy
+1 - 0
+Bank vs. Guex
+2 - 0
+Bank vs. Dimension
+0 - 2
+Bank vs. Yasu
+1 - 0
+Bank vs. PJ
+2 - 0
+Bank vs. Hysteric
+0 - 1
+Bank vs. Omar
+1 - 0
+Bank vs. Alt
+0 - 1
+Bank vs. Scooby
+1 - 0
+Bank vs. Twisty
+0 - 1
+Bank vs. beansoup
+1 - 0
+Bank vs. Future Shock
+3 - 0
+BigRedAnimeBike vs. glock in my toyota
+0 - 1
+BigRedAnimeBike vs. Guillotine
+0 - 1
+BigRedAnimeBike vs. Trail
+0 - 1
+BigRedAnimeBike vs. Dimension
+0 - 1
+BigRedAnimeBike vs. Mr. Heat
+0 - 1
+BigRedAnimeBike vs. Scooby
+0 - 1
+BigRedAnimeBike vs. 22K
+1 - 0
+BigRedAnimeBike vs. Nugget
+1 - 0
+BigRedAnimeBike vs. Future Shock
+2 - 2
+BigRedAnimeBike vs. Kota
+1 - 0
+BigRedAnimeBike vs. Takyon
+2 - 1
+Coach vs. lint
+0 - 1
+Coach vs. JNaut
+0 - 1
+Coach vs. Guex
+0 - 1
+Coach vs. Silver
+0 - 7
+Coach vs. Tian
+0 - 1
+Coach vs. PJ
+0 - 1
+Coach vs. Shmeeli
+0 - 1
+Coach vs. Glasper
+0 - 1
+Coach vs. BonkCushy
+0 - 1
+Coach vs. 22K
+2 - 1
+Coach vs. Arcade
+1 - 6
+Arcade vs. Clutch
+0 - 1
+Arcade vs. Meep
+0 - 1
+Arcade vs. Silver
+0 - 14
+Arcade vs. Omar
+0 - 1
+Arcade vs. Hexjo
+1 - 0
+Arcade vs. 22K
+1 - 0
+Arcade vs. Coach
+6 - 1
+TS420 vs. Golden
+0 - 1
+TS420 vs. Guillotine
+0 - 1
+TS420 vs. Shmeeli
+0 - 1
+TS420 vs. Stus
+1 - 1
+TS420 vs. Stacy's Stepdad
+2 - 4
+Stacy's Stepdad vs. Clutch
+1 - 1
+Stacy's Stepdad vs. Ses
+1 - 0
+Stacy's Stepdad vs. GWM420
+1 - 0
+Stacy's Stepdad vs. Golden
+0 - 4
+Stacy's Stepdad vs. JNaut
+0 - 1
+Stacy's Stepdad vs. Klaps
+0 - 1
+Stacy's Stepdad vs. PJ
+0 - 1
+Stacy's Stepdad vs. Scooby
+1 - 0
+Stacy's Stepdad vs. Twisty
+1 - 0
+Stacy's Stepdad vs. 22K
+1 - 0
+Stacy's Stepdad vs. Stus
+1 - 0
+Stacy's Stepdad vs. IOA
+1 - 2
+Stacy's Stepdad vs. BeastBoy
+1 - 0
+Stacy's Stepdad vs. TS420
+4 - 2
+Louis vs. BigJoig
+0 - 1
+Louis vs. Warmmer
+1 - 0
+Louis vs. Project
+1 - 0
+Louis vs. bonfire10
+0 - 2
+Louis vs. glock in my toyota
+1 - 0
+Louis vs. Golden
+1 - 0
+Louis vs. Trail
+0 - 1
+Louis vs. Hexjo
+1 - 0
+Louis vs. BeastBoy
+1 - 0
+Louis vs. Lochist
+9 - 2
+Lochist vs. Clutch
+0 - 1
+Lochist vs. Golden
+1 - 0
+Lochist vs. PJ
+1 - 0
+Lochist vs. Louis
+2 - 9
