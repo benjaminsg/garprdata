@@ -1289,7 +1289,7 @@ Guex vs. Stus
 Guex vs. IOA
 1 - 0
 Guex vs. Future Shock
-2 - 2
+2 - 0
 Guex vs. Kota
 1 - 0
 Guex vs. Bank
@@ -3317,7 +3317,7 @@ Future Shock vs. Ricky
 Future Shock vs. JNaut
 0 - 1
 Future Shock vs. Guex
-2 - 2
+0 - 2
 Future Shock vs. Trail
 2 - 9
 Future Shock vs. Dimension
