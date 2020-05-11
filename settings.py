@@ -27,6 +27,10 @@ class Player:
             self.mains = [mains]
         #curPRs are the PR rankings the player currently has
         self.curPRs = curPRs
+    def __repr__(self):
+        return self.name
+    def __str__(self):
+        return self.name
         
 
 #create all players
@@ -38,7 +42,7 @@ Artelind = Player('58d20b761d41c8259fa1ff7b', 'Artelind', 'RI', 'Samus',
                   {'RI': 3})
 Arty = Player('53c64c738ab65f6e27751221', 'Arty', 'CT', 'Peach', {'CT': 8})
 Bank = Player('59ed7c721d41c84361b79498', 'Bank', 'MA', 'Marth')
-Beansoup = Player('5e444f96421aa93e12ba4f9e', 'beansoup', 'MA') #ask for mains
+Beansoup = Player('5e444f96421aa93e12ba4f9e', 'beansoup', 'MA', 'Falco')
 BeastBoy = Player('5d6a8bb3421aa954d874ad46', 'BeastBoy', 'MA', 'Falco')
 Ben = Player('5dbb8aca421aa97778f4f808', 'Ben', 'NH', 'Sheik')
 BigJoig = Player('545c83e88ab65f126349d8bb', 'BigJoig', 'MA', 'Falco')
@@ -47,24 +51,24 @@ BigRedAnimeBike = Player('58752d371d41c82e80d558a3', 'BigRedAnimeBike', 'MA',
 Bonfire10 = Player('58c7303b1d41c8259fa1f8dd', 'bonfire10', 'NH', 'Sheik', 
                    {'NH': 5, 'NE': 'HM'})
 BonkCushy = Player('542cf48e8ab65f5dcb8ce4ab', 'BonkCushy', 'MA', 'Pikachu')
-Clutch = Player('5d698f0b421aa954d874acfb', 'Clutch', 'MA', 'Marth', {'MA', 4})
+Clutch = Player('5d698f0b421aa954d874acfb', 'Clutch', 'MA', 'Marth', {'MA': 4})
 CNIU = Player('58cc8c0f1d41c8259fa1fc49', 'CNIU', 'NH', 'Fox')
 Coach = Player('5c6ef669421aa93db94e9954', 'Coach', 'MA', 'Fox')
 Dimension = Player('5b16ba781d41c86e982900e4', 'Dimension', 'MA', 'Marth', 
                    {'MA': 2, 'NE': 13, 'BC': 1})
-DrewNG = Player('596272821d41c840fdcf8804', 'DrewNG', 'CT', 'Fox', {'CT', 9})
+DrewNG = Player('596272821d41c840fdcf8804', 'DrewNG', 'CT', 'Fox', {'CT': 9})
 DrLobster = Player('5d4e3f57421aa954d874ac18', 'DrLobster', 'NH', 'Sheik', 
                    {'NH': 2, 'NE': 4})
 Dudutsai = Player('58c732681d41c8259fa1f905', 'dudutsai', 'MA', 'Jigglypuff')
 Een = Player('59ed70bd1d41c84361b79428', 'Een', 'MA', 'Peach')
 Elen = Player('5e444f96421aa93e12ba4f9d', 'Elen', 'MA', 'Fox')
-Feo = Player('5d818416421aa954d874aed1', 'Feo', 'MA') #ask for mains
+Feo = Player('5d818416421aa954d874aed1', 'Feo', 'MA', 'Falco')
 Ferox = Player('58cc6fc61d41c8259fa1fb6b', 'Ferox', 'MA', 'Fox', {'NEU': 5})
 FutureShock = Player('5ade76ef1d41c852c7240f91', 'Future Shock', 'MA', 
                      'Captain Falcon')
 Giraffe = Player('5d423a5a421aa954d874ab76', 'Giraffe', 'MA', 'Captain Falcon')
 Glasper = Player('58d09a571d41c8259fa1fe86', 'Glasper', 'MA', 
-                 ['Fox', 'Falco','Captain Falcon'])
+                 ['Fox', 'Captain Falcon'])
 Glock = Player('5a4ba1961d41c84881946784', 'glock in my toyota', 'NH', 
                'Mr. Game & Watch', {'NH': 3, 'NE': 10})
 Golden = Player('58c7303b1d41c8259fa1f8d2', 'Golden', 'NH', 'Captain Falcon',
@@ -76,7 +80,7 @@ GWM420 = Player('5a4ba23b1d41c84881946788', 'GWM420', 'NH', 'Fox', {'NH': 6})
 Hexjo = Player('5d6fe5d9421aa954d874adfb', 'Hexjo', 'MA', 'Fox')
 Hysteric = Player('5b633156421aa91fa088af7a', 'Hysteric', 'MA', 'Jigglypuff', 
                   {'MA': 10})
-IOA = Player('58c72fd21d41c8259fa1f8c9', 'IOA', 'MA', 'Marth') #ask for mains
+IOA = Player('58c72fd21d41c8259fa1f8c9', 'IOA', 'MA', ['Fox', 'Marth'])
 JNaut = Player('58c7317e1d41c8259fa1f8e3', 'JNaut', 'RI', 'Sheik', 
                {'RI': 2, 'NE': 11})
 Joyboy = Player('58c73c7e1d41c8259fa1f9c5', 'Joyboy', 'RI', 'Fox', 
@@ -94,7 +98,7 @@ Lochist = Player('5c86c4d1421aa93db94e9ab6', 'Lochist', 'VT',
                  ['Falco', 'Young Link'], {'VT': 2})
 Louis = Player('5ba19af6421aa91fa088b641', 'Louis', 'VT', 'Falco', 
                {'VT': 1, 'NE': 15})
-Meep = Player('58c73d181d41c8259fa1f9d0', 'Meep', 'RI', 'Sheik', {'RI', 4})
+Meep = Player('58c73d181d41c8259fa1f9d0', 'Meep', 'RI', 'Sheik', {'RI': 4})
 MrHeat = Player('59ed78aa1d41c84361b7947c', 'Mr. Heat', 'MA', 
                 ['Falco', 'Sheik'], {'MA': 5})
 Nugget = Player('58c729f41d41c8259fa1f8a2', 'Nugget', 'MA', 'Fox')
