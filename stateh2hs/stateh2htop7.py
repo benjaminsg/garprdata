@@ -2,7 +2,7 @@ import json
 import requests
 from datetime import datetime
 import time
-import settings
+from . import settings
 
 #initialize the results list
 resultslist = []
