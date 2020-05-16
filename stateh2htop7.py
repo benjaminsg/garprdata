@@ -2,7 +2,7 @@ import json
 import requests
 from datetime import datetime
 import time
-from . import settings
+import settings
 
 #initialize the results list
 resultslist = []
@@ -27,7 +27,8 @@ for player in players:
     
             if(1 in player.curPRs.values() or 2 in player.curPRs.values() or 3
                in player.curPRs.values() or 4 in player.curPRs.values() or 5
-               in player.curPRs.values()):
+               in player.curPRs.values() or 6 in player.curPRs.values() or 7 in
+               player.curPRs.values()):
     
                 #for each opponent (every other player)
                 for opponent in players:
@@ -43,6 +44,7 @@ for player in players:
                             
                             if(1 in opponent.curPRs.values() or 2 in opponent.curPRs.values() or 3
                                in opponent.curPRs.values() or 4 in opponent.curPRs.values() or 5
+                               in opponent.curPRs.values() or 6 in opponent.curPRs.values() or 7
                                in opponent.curPRs.values()):
                     
                                 #check to make sure opponent is different from player
@@ -227,6 +229,7 @@ for player in players:
                     
                     if(1 in opponent.curPRs.values() or 2 in opponent.curPRs.values() or 3
                        in opponent.curPRs.values() or 4 in opponent.curPRs.values() or 5
+                       in opponent.curPRs.values() or 6 in opponent.curPRs.values() or 7
                        in opponent.curPRs.values()):
             
                         #check to make sure opponent is different from player
