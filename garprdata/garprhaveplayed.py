@@ -47,7 +47,7 @@ while not txtWrite:
         continue
 
 # truncate the text file to remove old results
-results.truncate()
+results.truncate(0)
 
 # look at each player in the list of players
 for player in players:
@@ -64,8 +64,7 @@ for player in players:
             results.write(player.name + " vs. " + opponent.name + "\r\n")
 
             # generate URL to pull head-to-head json data from
-            url = "https://notgarpr.com:3001/newengland/matches/" + player.id + "?opponent=" + opponent.id + "&fbclid=IwAR3V8QosRC1_d-tBrPtSLB7pHKWuwXlea6fuKVjU645bq6dKNEshOvL7tv8"
-
+            url = "https://notgarpr.com:3001/" + config.region + "/matches/" + player.id + "?opponent=" + opponent.id
             # initialize response
             response = ''
 
